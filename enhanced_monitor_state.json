@@ -1,0 +1,1160 @@
+{
+  "file_states": {
+    "comparison_reports_20250828\\detailed_diffs\\tax-education_business-tax-registration-renewal_renewal-deadlines-forms-and-online-services_patterns_diff.txt": "4c79aa3f36d1717291d4079554e343ce",
+    "comparison_reports_20250828\\detailed_diffs\\finance_lacity_gov_patterns_diff.txt": "4931b8d1c661c038f75324aec6f834b7",
+    "clean_enhanced_la_finance_data_20250828\\tax-education_discovering-unregistered-businesses_rms-tax-discovery.txt": "d9e7481b09edcfcaa0d055913f7e4de1",
+    "clean_enhanced_la_finance_data_20250828\\tax-education_laws-regulations_voluntary-disclosure-program-unregistered-businesses.txt": "4fc845cbcb91e8294adcd19ef002d649",
+    "clean_enhanced_la_finance_data_20250827\\forms-list.txt": "15034a73153e26a3da9f77f29ad707e8",
+    "clean_enhanced_la_finance_data_20250828\\internal.txt": "3d698c4525e83b9ed2be4be763583054",
+    "clean_enhanced_la_finance_data_20250828\\tax-education_new-business-registration_business-tax-extensions.txt": "9651ea06b81c0f95a82688ce1085e7dd",
+    "clean_enhanced_la_finance_data_20250827\\tax-education_business-taxes_know-your-rates.txt": "e308f7614efbe91501b9e7958e6ed586",
+    "clean_enhanced_la_finance_data_20250827\\online-taxpayer-services.txt": "0cdf585f719759bd59a2618ffb4086f6",
+    "clean_enhanced_la_finance_data_20250827\\external.txt": "f67cf45205532a2293b4369722e0ebbb",
+    "clean_enhanced_la_finance_data_20250828\\tax-education_tax-assessments_settlement-bureau.txt": "2e28c801f4ab8e01afc22f262bb0af97",
+    "clean_enhanced_la_finance_data_20250828\\tax-education_new-business-registration_how-register-btrc.txt": "85fb043d662f10abc2df2a09cf5bc6a9",
+    "clean_enhanced_la_finance_data_20250828\\frequently-asked-questions.txt": "e0370e05243dfe24d9b79a25957450b7",
+    "clean_enhanced_la_finance_data_20250828\\tax-education_laws-regulations_city-clerks-ruling.txt": "930803c82700f0110e70e80e4522a763",
+    "clean_enhanced_la_finance_data_20250828\\online-taxpayer-services.txt": "86f6cc5a04c9373d4a70fa119cf9fad0",
+    "clean_enhanced_la_finance_data_20250828\\tax-education_laws-regulations_whistleblower-program.txt": "3d183a341f908a095079d1ee5e69efc3",
+    "clean_enhanced_la_finance_data_20250828\\tax-education_permit-renewals_fire-permit.txt": "4123535bfb138769ddeb536a2a307e0f",
+    "clean_enhanced_la_finance_data_20250828\\tax-education_tax-assessments_board-review.txt": "9fddfa088357d375b886f3a93234368e",
+    "clean_enhanced_la_finance_data_20250828\\tax-education_discovering-unregistered-businesses_ab-63sb-1146-tax-discovery.txt": "0c80e32fb25bb98e322988b70ffb9bcb",
+    "clean_enhanced_la_finance_data_20250828\\tax-education_laws-regulations_legal-action-non-compliance.txt": "f2c23469037c5bc07219baf5188f4931",
+    "clean_enhanced_la_finance_data_20250827\\tax-education_permit-renewals_tobacco-retailers-permit.txt": "c1ac1a0dfceda41c1df7465a57fa4a85",
+    "clean_enhanced_la_finance_data_20250828\\tax-education_business-taxes_know-your-rates.txt": "65231509da4c74355d20fc3800860656",
+    "clean_enhanced_la_finance_data_20250828\\finance_lacity_gov.txt": "8479feb717d1bf32c28967b06204e02f",
+    "clean_enhanced_la_finance_data_20250828\\tax-education_tax-assessments_assessment-review-general-information.txt": "ada014e7002e8cccc4b29a5ce6679e97",
+    "clean_enhanced_la_finance_data_20250827\\tax-education_business-tax-registration-renewal_renewal-deadlines-forms-and-online-services.txt": "e85428c04a0253c883083130fbef496f",
+    "clean_enhanced_la_finance_data_20250828\\tax-education_permit-renewals_tobacco-retailers-permit.txt": "d0898073d546e09b429436f0c259e529",
+    "clean_enhanced_la_finance_data_20250828\\tax-education_tax-exemptions_tax-incentives-and-exemptions.txt": "c55e8fc3802b0ef0d46c738eb9fcb54b",
+    "clean_enhanced_la_finance_data_20250828\\tax-education_laws-regulations_required-hazardous-materials-reporting.txt": "6f4f70cbddc237d16fce1f7e232b6279",
+    "clean_enhanced_la_finance_data_20250828\\forms-list.txt": "13df3e817431fdb5710d3e638c0d9233",
+    "clean_enhanced_la_finance_data_20250828\\tax-education_collections-or-have-delinquent-account_collection-agency-information.txt": "88a9c09960b91e5f433dc16346d9300a",
+    "clean_enhanced_la_finance_data_20250828\\tax-education_tax-assessments_requesting-hearing.txt": "50b2b5a5cf7f270859a32b16cfd16d9b",
+    "clean_enhanced_la_finance_data_20250828\\tax-education_business-tax-registration-renewal_renewal-deadlines-forms-and-online-services.txt": "302700926981d4c836203686713dc979",
+    "clean_enhanced_la_finance_data_20250827\\tax-education_new-business-registration_business-tax-extensions.txt": "d24153ab30f3e283ca218fa9c505822f",
+    "clean_enhanced_la_finance_data_20250828\\tax-education_tax-exemptions_lifeline-utility-users-tax-exemption-seniors-and-individuals.txt": "64f0462214362202dee2227366d8171f",
+    "clean_enhanced_la_finance_data_20250828\\tax-education_changing-or-closing-business_changing-or-closing-your-business.txt": "6a7837210d9027330acc7036743f9947",
+    "clean_enhanced_la_finance_data_20250828\\external.txt": "8533039e645bf0438d1edf6f84090b53",
+    "clean_enhanced_la_finance_data_20250827\\tax-education_permit-renewals_police-permits.txt": "ac1f125247b42198e5058e836cf01670",
+    "clean_enhanced_la_finance_data_20250828\\tax-education_laws-regulations_business-regulation-los-angeles.txt": "97260a975a4d6bf2a79ce8b1701820e7",
+    "clean_enhanced_la_finance_data_20250828\\tax-education_permit-renewals_police-permits.txt": "7909581b814c8ea56308e21c8faef0d5",
+    "clean_enhanced_la_finance_data_20250827\\tax-education_permit-renewals_fire-permit.txt": "0fedf4d757ed163ec0773edcc4c3ae39",
+    "clean_enhanced_la_finance_data_20250828\\tax-education_new-business-registration_business-types-no-registration-required.txt": "64ee9f182c8f20cc2a364f8baa4d0035",
+    "clean_enhanced_la_finance_data_20250827\\tax-education_new-business-registration_business-types-no-registration-required.txt": "c0ab0b368ecb3e1abd2ac55890c880b6",
+    "clean_enhanced_la_finance_data_20250828\\tax-education_new-business-registration_assembly-bill-195.txt": "c7e1a4b995d5037bac35daa8d21af8a2",
+    "clean_enhanced_la_finance_data_20250827\\finance_lacity_gov.txt": "a0029733af35f1bae5cbce875577ef5f",
+    "clean_enhanced_la_finance_data_20250827\\internal.txt": "91130e196920ca040cfef4f55ada9a63",
+    "clean_enhanced_la_finance_data_20250827\\tax-education_new-business-registration_how-register-btrc.txt": "cbe2f149fb57ea48fb327e2c0f578466",
+    "clean_enhanced_la_finance_data_20250827\\tax-education_new-business-registration_assembly-bill-195.txt": "f1ebc1e07205f37f741878d2bb508977"
+  },
+  "file_patterns": {
+    "comparison_reports_20250828\\detailed_diffs\\tax-education_business-tax-registration-renewal_renewal-deadlines-forms-and-online-services_patterns_diff.txt": {
+      "percentages": [],
+      "dollar_amounts": [
+        "$3",
+        "$500",
+        "$3",
+        "$500"
+      ],
+      "tax_terms": [
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment\n+$100",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment"
+      ],
+      "dates": [
+        "-$100"
+      ],
+      "all_patterns": [
+        "-$100",
+        "00",
+        "$3",
+        "$500",
+        "000",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment\n+$100",
+        "000",
+        "$3",
+        "$500",
+        "000",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment"
+      ]
+    },
+    "comparison_reports_20250828\\detailed_diffs\\finance_lacity_gov_patterns_diff.txt": {
+      "percentages": [
+        "-25%",
+        "282%",
+        "Tax Assessment\n+20%",
+        "282%"
+      ],
+      "dollar_amounts": [],
+      "tax_terms": [
+        "tax liability",
+        "Tax Assessment",
+        "tax liability",
+        "Tax Assessment",
+        "Tax Assessment"
+      ],
+      "dates": [],
+      "all_patterns": [
+        "-25%",
+        "282%",
+        "tax liability",
+        "Tax Assessment",
+        "Tax Assessment\n+20%",
+        "282%",
+        "tax liability",
+        "Tax Assessment",
+        "Tax Assessment"
+      ]
+    },
+    "clean_enhanced_la_finance_data_20250828\\tax-education_discovering-unregistered-businesses_rms-tax-discovery.txt": {
+      "percentages": [
+        "20%",
+        "281%",
+        "20%"
+      ],
+      "dollar_amounts": [],
+      "tax_terms": [
+        "tax liability",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment"
+      ],
+      "dates": [],
+      "all_patterns": [
+        "20%",
+        "281%",
+        "20%",
+        "tax liability",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment"
+      ]
+    },
+    "clean_enhanced_la_finance_data_20250828\\tax-education_laws-regulations_voluntary-disclosure-program-unregistered-businesses.txt": {
+      "percentages": [
+        "20%",
+        "24%"
+      ],
+      "dollar_amounts": [],
+      "tax_terms": [
+        "Tax liability",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment"
+      ],
+      "dates": [],
+      "all_patterns": [
+        "20%",
+        "24%",
+        "Tax liability",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment"
+      ]
+    },
+    "clean_enhanced_la_finance_data_20250827\\forms-list.txt": {
+      "percentages": [
+        "2025%",
+        "2025%",
+        "202025%"
+      ],
+      "dollar_amounts": [],
+      "tax_terms": [
+        "Tax Assessment",
+        "Tax Assessment"
+      ],
+      "dates": [],
+      "all_patterns": [
+        "2025%",
+        "2025%",
+        "202025%",
+        "Tax Assessment",
+        "Tax Assessment"
+      ]
+    },
+    "clean_enhanced_la_finance_data_20250828\\internal.txt": {
+      "percentages": [],
+      "dollar_amounts": [],
+      "tax_terms": [
+        "Tax Assessment",
+        "Tax Assessment"
+      ],
+      "dates": [],
+      "all_patterns": [
+        "Tax Assessment",
+        "Tax Assessment",
+        "1"
+      ]
+    },
+    "clean_enhanced_la_finance_data_20250828\\tax-education_new-business-registration_business-tax-extensions.txt": {
+      "percentages": [
+        "90%",
+        "90%",
+        "90%"
+      ],
+      "dollar_amounts": [],
+      "tax_terms": [
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment"
+      ],
+      "dates": [],
+      "all_patterns": [
+        "90%",
+        "90%",
+        "90%",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment"
+      ]
+    },
+    "clean_enhanced_la_finance_data_20250827\\tax-education_business-taxes_know-your-rates.txt": {
+      "percentages": [],
+      "dollar_amounts": [
+        "$4.25",
+        "$1",
+        "$1.01"
+      ],
+      "tax_terms": [
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment"
+      ],
+      "dates": [],
+      "all_patterns": [
+        "$4.25",
+        "$1",
+        "000",
+        "$1.01",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment"
+      ]
+    },
+    "clean_enhanced_la_finance_data_20250827\\online-taxpayer-services.txt": {
+      "percentages": [],
+      "dollar_amounts": [
+        "$50"
+      ],
+      "tax_terms": [
+        "Tax Assessment",
+        "Tax Assessment"
+      ],
+      "dates": [],
+      "all_patterns": [
+        "$50",
+        "000",
+        "Tax Assessment",
+        "Tax Assessment"
+      ]
+    },
+    "clean_enhanced_la_finance_data_20250827\\external.txt": {
+      "percentages": [],
+      "dollar_amounts": [],
+      "tax_terms": [
+        "Tax Assessment",
+        "Tax Assessment"
+      ],
+      "dates": [],
+      "all_patterns": [
+        "Tax Assessment",
+        "Tax Assessment",
+        "11",
+        "1"
+      ]
+    },
+    "clean_enhanced_la_finance_data_20250828\\tax-education_tax-assessments_settlement-bureau.txt": {
+      "percentages": [],
+      "dollar_amounts": [],
+      "tax_terms": [
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment"
+      ],
+      "dates": [],
+      "all_patterns": [
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment"
+      ]
+    },
+    "clean_enhanced_la_finance_data_20250828\\tax-education_new-business-registration_how-register-btrc.txt": {
+      "percentages": [],
+      "dollar_amounts": [
+        "$100"
+      ],
+      "tax_terms": [
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment"
+      ],
+      "dates": [],
+      "all_patterns": [
+        "$100",
+        "000",
+        "Tax Assessment",
+        "Tax Assessment",
+        "determined by",
+        "Tax Assessment",
+        "Tax Assessment"
+      ]
+    },
+    "clean_enhanced_la_finance_data_20250828\\frequently-asked-questions.txt": {
+      "percentages": [],
+      "dollar_amounts": [],
+      "tax_terms": [
+        "Tax Assessment",
+        "Tax Assessment"
+      ],
+      "dates": [],
+      "all_patterns": [
+        "Tax Assessment",
+        "Tax Assessment"
+      ]
+    },
+    "clean_enhanced_la_finance_data_20250828\\tax-education_laws-regulations_city-clerks-ruling.txt": {
+      "percentages": [
+        "35%",
+        "30%",
+        "30%"
+      ],
+      "dollar_amounts": [],
+      "tax_terms": [
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment"
+      ],
+      "dates": [],
+      "all_patterns": [
+        "35%",
+        "30%",
+        "30%",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment"
+      ]
+    },
+    "clean_enhanced_la_finance_data_20250828\\online-taxpayer-services.txt": {
+      "percentages": [],
+      "dollar_amounts": [
+        "$50"
+      ],
+      "tax_terms": [
+        "Tax Assessment",
+        "Tax Assessment"
+      ],
+      "dates": [],
+      "all_patterns": [
+        "$50",
+        "000",
+        "Tax Assessment",
+        "Tax Assessment"
+      ]
+    },
+    "clean_enhanced_la_finance_data_20250828\\tax-education_laws-regulations_whistleblower-program.txt": {
+      "percentages": [
+        "10%"
+      ],
+      "dollar_amounts": [
+        "$50.00"
+      ],
+      "tax_terms": [
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment"
+      ],
+      "dates": [],
+      "all_patterns": [
+        "10%",
+        "$50.00",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment"
+      ]
+    },
+    "clean_enhanced_la_finance_data_20250828\\tax-education_permit-renewals_fire-permit.txt": {
+      "percentages": [
+        "202024%",
+        "2024%"
+      ],
+      "dollar_amounts": [],
+      "tax_terms": [
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment"
+      ],
+      "dates": [],
+      "all_patterns": [
+        "202024%",
+        "2024%",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment"
+      ]
+    },
+    "clean_enhanced_la_finance_data_20250828\\tax-education_tax-assessments_board-review.txt": {
+      "percentages": [],
+      "dollar_amounts": [],
+      "tax_terms": [
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment"
+      ],
+      "dates": [],
+      "all_patterns": [
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment"
+      ]
+    },
+    "clean_enhanced_la_finance_data_20250828\\tax-education_discovering-unregistered-businesses_ab-63sb-1146-tax-discovery.txt": {
+      "percentages": [
+        "20%",
+        "282023%",
+        "29%"
+      ],
+      "dollar_amounts": [],
+      "tax_terms": [
+        "tax liability",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment"
+      ],
+      "dates": [],
+      "all_patterns": [
+        "20%",
+        "282023%",
+        "29%",
+        "tax liability",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment"
+      ]
+    },
+    "clean_enhanced_la_finance_data_20250828\\tax-education_laws-regulations_legal-action-non-compliance.txt": {
+      "percentages": [],
+      "dollar_amounts": [
+        "$1",
+        "$250.00"
+      ],
+      "tax_terms": [
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment"
+      ],
+      "dates": [],
+      "all_patterns": [
+        "$1",
+        "000.00",
+        "$250.00",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment"
+      ]
+    },
+    "clean_enhanced_la_finance_data_20250827\\tax-education_permit-renewals_tobacco-retailers-permit.txt": {
+      "percentages": [
+        "25%"
+      ],
+      "dollar_amounts": [
+        "$437",
+        "$109.25",
+        "$437"
+      ],
+      "tax_terms": [
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment"
+      ],
+      "dates": [],
+      "all_patterns": [
+        "25%",
+        "$437",
+        "$109.25",
+        "$437",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment"
+      ]
+    },
+    "clean_enhanced_la_finance_data_20250828\\tax-education_business-taxes_know-your-rates.txt": {
+      "percentages": [],
+      "dollar_amounts": [
+        "$4.25",
+        "$1",
+        "$1.01"
+      ],
+      "tax_terms": [
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment"
+      ],
+      "dates": [],
+      "all_patterns": [
+        "$4.25",
+        "$1",
+        "000",
+        "$1.01",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment"
+      ]
+    },
+    "clean_enhanced_la_finance_data_20250828\\finance_lacity_gov.txt": {
+      "percentages": [
+        "20%",
+        "282%"
+      ],
+      "dollar_amounts": [],
+      "tax_terms": [
+        "tax liability",
+        "Tax Assessment",
+        "Tax Assessment"
+      ],
+      "dates": [],
+      "all_patterns": [
+        "20%",
+        "282%",
+        "tax liability",
+        "Tax Assessment",
+        "Tax Assessment"
+      ]
+    },
+    "clean_enhanced_la_finance_data_20250828\\tax-education_tax-assessments_assessment-review-general-information.txt": {
+      "percentages": [],
+      "dollar_amounts": [],
+      "tax_terms": [
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment"
+      ],
+      "dates": [],
+      "all_patterns": [
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment"
+      ]
+    },
+    "clean_enhanced_la_finance_data_20250827\\tax-education_business-tax-registration-renewal_renewal-deadlines-forms-and-online-services.txt": {
+      "percentages": [],
+      "dollar_amounts": [
+        "$100",
+        "$3",
+        "$500"
+      ],
+      "tax_terms": [
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment"
+      ],
+      "dates": [],
+      "all_patterns": [
+        "$100",
+        "00",
+        "$3",
+        "$500",
+        "000",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment"
+      ]
+    },
+    "clean_enhanced_la_finance_data_20250828\\tax-education_permit-renewals_tobacco-retailers-permit.txt": {
+      "percentages": [
+        "25%"
+      ],
+      "dollar_amounts": [
+        "$437",
+        "$109.25",
+        "$437"
+      ],
+      "tax_terms": [
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment"
+      ],
+      "dates": [],
+      "all_patterns": [
+        "25%",
+        "$437",
+        "$109.25",
+        "$437",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment"
+      ]
+    },
+    "clean_enhanced_la_finance_data_20250828\\tax-education_tax-exemptions_tax-incentives-and-exemptions.txt": {
+      "percentages": [],
+      "dollar_amounts": [
+        "$300",
+        "$300",
+        "$3"
+      ],
+      "tax_terms": [
+        "tax liability",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment"
+      ],
+      "dates": [],
+      "all_patterns": [
+        "$300",
+        "000",
+        "$300",
+        "000",
+        "$3",
+        "tax liability",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment"
+      ]
+    },
+    "clean_enhanced_la_finance_data_20250828\\tax-education_laws-regulations_required-hazardous-materials-reporting.txt": {
+      "percentages": [],
+      "dollar_amounts": [],
+      "tax_terms": [
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment"
+      ],
+      "dates": [],
+      "all_patterns": [
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment"
+      ]
+    },
+    "clean_enhanced_la_finance_data_20250828\\forms-list.txt": {
+      "percentages": [
+        "25%",
+        "2025%",
+        "202025%"
+      ],
+      "dollar_amounts": [],
+      "tax_terms": [
+        "Tax Assessment",
+        "Tax Assessment"
+      ],
+      "dates": [],
+      "all_patterns": [
+        "25%",
+        "2025%",
+        "202025%",
+        "Tax Assessment",
+        "Tax Assessment"
+      ]
+    },
+    "clean_enhanced_la_finance_data_20250828\\tax-education_collections-or-have-delinquent-account_collection-agency-information.txt": {
+      "percentages": [],
+      "dollar_amounts": [
+        "$5",
+        "$5"
+      ],
+      "tax_terms": [
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment"
+      ],
+      "dates": [],
+      "all_patterns": [
+        "$5",
+        "000",
+        "$5",
+        "000",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment"
+      ]
+    },
+    "clean_enhanced_la_finance_data_20250828\\tax-education_tax-assessments_requesting-hearing.txt": {
+      "percentages": [],
+      "dollar_amounts": [],
+      "tax_terms": [
+        "Tax Assessment",
+        "Tax Assessment",
+        "tax assessment",
+        "Tax Assessment",
+        "Tax Assessment",
+        "tax assessment"
+      ],
+      "dates": [],
+      "all_patterns": [
+        "Tax Assessment",
+        "Tax Assessment",
+        "tax assessment",
+        "Tax Assessment",
+        "Tax Assessment",
+        "tax assessment"
+      ]
+    },
+    "clean_enhanced_la_finance_data_20250828\\tax-education_business-tax-registration-renewal_renewal-deadlines-forms-and-online-services.txt": {
+      "percentages": [],
+      "dollar_amounts": [
+        "$100",
+        "$3",
+        "$500"
+      ],
+      "tax_terms": [
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment"
+      ],
+      "dates": [],
+      "all_patterns": [
+        "$100",
+        "000",
+        "$3",
+        "$500",
+        "000",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment"
+      ]
+    },
+    "clean_enhanced_la_finance_data_20250827\\tax-education_new-business-registration_business-tax-extensions.txt": {
+      "percentages": [
+        "90%",
+        "90%",
+        "90%"
+      ],
+      "dollar_amounts": [],
+      "tax_terms": [
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment"
+      ],
+      "dates": [],
+      "all_patterns": [
+        "90%",
+        "90%",
+        "90%",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment"
+      ]
+    },
+    "clean_enhanced_la_finance_data_20250828\\tax-education_tax-exemptions_lifeline-utility-users-tax-exemption-seniors-and-individuals.txt": {
+      "percentages": [],
+      "dollar_amounts": [
+        "$60"
+      ],
+      "tax_terms": [
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment"
+      ],
+      "dates": [],
+      "all_patterns": [
+        "$60",
+        "600",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment"
+      ]
+    },
+    "clean_enhanced_la_finance_data_20250828\\tax-education_changing-or-closing-business_changing-or-closing-your-business.txt": {
+      "percentages": [
+        "20%"
+      ],
+      "dollar_amounts": [],
+      "tax_terms": [
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment"
+      ],
+      "dates": [],
+      "all_patterns": [
+        "20%",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment"
+      ]
+    },
+    "clean_enhanced_la_finance_data_20250828\\external.txt": {
+      "percentages": [
+        "1%"
+      ],
+      "dollar_amounts": [],
+      "tax_terms": [
+        "Tax Assessment",
+        "Tax Assessment"
+      ],
+      "dates": [],
+      "all_patterns": [
+        "Tax Assessment",
+        "Tax Assessment",
+        "1%"
+      ]
+    },
+    "clean_enhanced_la_finance_data_20250827\\tax-education_permit-renewals_police-permits.txt": {
+      "percentages": [
+        "20%",
+        "281%",
+        "29%"
+      ],
+      "dollar_amounts": [],
+      "tax_terms": [
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment"
+      ],
+      "dates": [],
+      "all_patterns": [
+        "20%",
+        "281%",
+        "29%",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment"
+      ]
+    },
+    "clean_enhanced_la_finance_data_20250828\\tax-education_laws-regulations_business-regulation-los-angeles.txt": {
+      "percentages": [],
+      "dollar_amounts": [],
+      "tax_terms": [
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment"
+      ],
+      "dates": [],
+      "all_patterns": [
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment"
+      ]
+    },
+    "clean_enhanced_la_finance_data_20250828\\tax-education_permit-renewals_police-permits.txt": {
+      "percentages": [
+        "20%",
+        "281%",
+        "29%"
+      ],
+      "dollar_amounts": [],
+      "tax_terms": [
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment"
+      ],
+      "dates": [],
+      "all_patterns": [
+        "20%",
+        "281%",
+        "29%",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment"
+      ]
+    },
+    "clean_enhanced_la_finance_data_20250827\\tax-education_permit-renewals_fire-permit.txt": {
+      "percentages": [
+        "202024%",
+        "2024%"
+      ],
+      "dollar_amounts": [],
+      "tax_terms": [
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment"
+      ],
+      "dates": [],
+      "all_patterns": [
+        "202024%",
+        "2024%",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment"
+      ]
+    },
+    "clean_enhanced_la_finance_data_20250828\\tax-education_new-business-registration_business-types-no-registration-required.txt": {
+      "percentages": [],
+      "dollar_amounts": [
+        "$3",
+        "$3",
+        "$3"
+      ],
+      "tax_terms": [
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment"
+      ],
+      "dates": [],
+      "all_patterns": [
+        "$3",
+        "$3",
+        "$3",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment"
+      ]
+    },
+    "clean_enhanced_la_finance_data_20250827\\tax-education_new-business-registration_business-types-no-registration-required.txt": {
+      "percentages": [],
+      "dollar_amounts": [
+        "$3",
+        "$3",
+        "$3"
+      ],
+      "tax_terms": [
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment"
+      ],
+      "dates": [],
+      "all_patterns": [
+        "$3",
+        "$3",
+        "$3",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment"
+      ]
+    },
+    "clean_enhanced_la_finance_data_20250828\\tax-education_new-business-registration_assembly-bill-195.txt": {
+      "percentages": [
+        "201059%"
+      ],
+      "dollar_amounts": [],
+      "tax_terms": [
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment"
+      ],
+      "dates": [],
+      "all_patterns": [
+        "201059%",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment"
+      ]
+    },
+    "clean_enhanced_la_finance_data_20250827\\finance_lacity_gov.txt": {
+      "percentages": [
+        "26%",
+        "282%",
+        "100%"
+      ],
+      "dollar_amounts": [],
+      "tax_terms": [
+        "tax liability",
+        "Tax Assessment",
+        "Tax Assessment"
+      ],
+      "dates": [],
+      "all_patterns": [
+        "26%",
+        "282%",
+        "tax liability",
+        "Tax Assessment",
+        "Tax Assessment",
+        "100%"
+      ]
+    },
+    "clean_enhanced_la_finance_data_20250827\\internal.txt": {
+      "percentages": [
+        "100%"
+      ],
+      "dollar_amounts": [],
+      "tax_terms": [
+        "Tax Assessment",
+        "Tax Assessment"
+      ],
+      "dates": [],
+      "all_patterns": [
+        "Tax Assessment",
+        "Tax Assessment",
+        "100%"
+      ]
+    },
+    "clean_enhanced_la_finance_data_20250827\\tax-education_new-business-registration_how-register-btrc.txt": {
+      "percentages": [],
+      "dollar_amounts": [
+        "$100"
+      ],
+      "tax_terms": [
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment"
+      ],
+      "dates": [],
+      "all_patterns": [
+        "$100",
+        "000",
+        "Tax Assessment",
+        "Tax Assessment",
+        "determined by",
+        "Tax Assessment",
+        "Tax Assessment"
+      ]
+    },
+    "clean_enhanced_la_finance_data_20250827\\tax-education_new-business-registration_assembly-bill-195.txt": {
+      "percentages": [
+        "201059%"
+      ],
+      "dollar_amounts": [],
+      "tax_terms": [
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment"
+      ],
+      "dates": [],
+      "all_patterns": [
+        "201059%",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment",
+        "Tax Assessment"
+      ]
+    }
+  },
+  "notified_changes": [
+    "new_clean_enhanced_la_finance_data_20250828\\tax-education_laws-regulations_required-hazardous-materials-reporting.txt_20250828_233227",
+    "new_clean_enhanced_la_finance_data_20250828\\online-taxpayer-services.txt_20250828_233227",
+    "new_clean_enhanced_la_finance_data_20250827\\finance_lacity_gov.txt_20250828_233227",
+    "new_comparison_reports_20250828\\detailed_diffs\\tax-education_business-tax-registration-renewal_renewal-deadlines-forms-and-online-services_patterns_diff.txt_20250828_233024",
+    "new_clean_enhanced_la_finance_data_20250828\\tax-education_new-business-registration_how-register-btrc.txt_20250828_233227",
+    "new_clean_enhanced_la_finance_data_20250827\\internal.txt_20250828_233227",
+    "new_clean_enhanced_la_finance_data_20250827\\online-taxpayer-services.txt_20250828_233227",
+    "new_clean_enhanced_la_finance_data_20250828\\tax-education_tax-assessments_board-review.txt_20250828_233227",
+    "new_clean_enhanced_la_finance_data_20250827\\forms-list.txt_20250828_233227",
+    "new_clean_enhanced_la_finance_data_20250827\\external.txt_20250828_233227",
+    "new_clean_enhanced_la_finance_data_20250828\\tax-education_new-business-registration_assembly-bill-195.txt_20250828_233227",
+    "new_clean_enhanced_la_finance_data_20250828\\tax-education_discovering-unregistered-businesses_ab-63sb-1146-tax-discovery.txt_20250828_233227",
+    "new_clean_enhanced_la_finance_data_20250828\\tax-education_new-business-registration_business-tax-extensions.txt_20250828_233227",
+    "new_clean_enhanced_la_finance_data_20250827\\tax-education_business-taxes_know-your-rates.txt_20250828_233227",
+    "new_clean_enhanced_la_finance_data_20250828\\tax-education_permit-renewals_tobacco-retailers-permit.txt_20250828_233227",
+    "modified_clean_enhanced_la_finance_data_20250827\\external.txt_20250828_233637",
+    "modified_clean_enhanced_la_finance_data_20250828\\tax-education_business-tax-registration-renewal_renewal-deadlines-forms-and-online-services.txt_20250828_233752",
+    "modified_clean_enhanced_la_finance_data_20250828\\forms-list.txt_20250828_233321",
+    "modified_clean_enhanced_la_finance_data_20250828\\external.txt_20250828_233258",
+    "new_clean_enhanced_la_finance_data_20250827\\tax-education_new-business-registration_business-tax-extensions.txt_20250828_233227",
+    "modified_clean_enhanced_la_finance_data_20250828\\internal.txt_20250828_233716",
+    "new_clean_enhanced_la_finance_data_20250828\\tax-education_new-business-registration_business-types-no-registration-required.txt_20250828_233227",
+    "modified_clean_enhanced_la_finance_data_20250827\\external.txt_20250828_233641",
+    "new_clean_enhanced_la_finance_data_20250828\\tax-education_tax-assessments_settlement-bureau.txt_20250828_233227",
+    "new_clean_enhanced_la_finance_data_20250828\\tax-education_discovering-unregistered-businesses_rms-tax-discovery.txt_20250828_233227",
+    "new_clean_enhanced_la_finance_data_20250827\\tax-education_new-business-registration_assembly-bill-195.txt_20250828_233227",
+    "modified_clean_enhanced_la_finance_data_20250828\\tax-education_business-tax-registration-renewal_renewal-deadlines-forms-and-online-services.txt_20250828_233813",
+    "modified_clean_enhanced_la_finance_data_20250828\\internal.txt_20250828_233712",
+    "new_clean_enhanced_la_finance_data_20250828\\tax-education_tax-exemptions_lifeline-utility-users-tax-exemption-seniors-and-individuals.txt_20250828_233227",
+    "new_comparison_reports_20250828\\detailed_diffs\\finance_lacity_gov_patterns_diff.txt_20250828_233024",
+    "new_clean_enhanced_la_finance_data_20250828\\tax-education_tax-assessments_assessment-review-general-information.txt_20250828_233227",
+    "new_clean_enhanced_la_finance_data_20250828\\tax-education_permit-renewals_fire-permit.txt_20250828_233227",
+    "modified_clean_enhanced_la_finance_data_20250828\\internal.txt_20250828_233730",
+    "new_clean_enhanced_la_finance_data_20250828\\tax-education_collections-or-have-delinquent-account_collection-agency-information.txt_20250828_233227",
+    "new_clean_enhanced_la_finance_data_20250828\\tax-education_tax-exemptions_tax-incentives-and-exemptions.txt_20250828_233227",
+    "modified_clean_enhanced_la_finance_data_20250827\\external.txt_20250828_233646",
+    "new_clean_enhanced_la_finance_data_20250828\\tax-education_laws-regulations_voluntary-disclosure-program-unregistered-businesses.txt_20250828_233227",
+    "new_clean_enhanced_la_finance_data_20250828\\tax-education_permit-renewals_police-permits.txt_20250828_233227",
+    "modified_clean_enhanced_la_finance_data_20250828\\external.txt_20250828_233404",
+    "new_clean_enhanced_la_finance_data_20250828\\tax-education_laws-regulations_legal-action-non-compliance.txt_20250828_233227",
+    "new_clean_enhanced_la_finance_data_20250827\\tax-education_business-tax-registration-renewal_renewal-deadlines-forms-and-online-services.txt_20250828_233227",
+    "new_clean_enhanced_la_finance_data_20250828\\tax-education_laws-regulations_business-regulation-los-angeles.txt_20250828_233227",
+    "new_clean_enhanced_la_finance_data_20250828\\forms-list.txt_20250828_233227",
+    "new_clean_enhanced_la_finance_data_20250828\\tax-education_laws-regulations_whistleblower-program.txt_20250828_233227",
+    "new_clean_enhanced_la_finance_data_20250828\\tax-education_business-taxes_know-your-rates.txt_20250828_233227",
+    "new_clean_enhanced_la_finance_data_20250827\\tax-education_permit-renewals_tobacco-retailers-permit.txt_20250828_233227",
+    "modified_clean_enhanced_la_finance_data_20250828\\external.txt_20250828_233611",
+    "new_clean_enhanced_la_finance_data_20250827\\tax-education_permit-renewals_fire-permit.txt_20250828_233227",
+    "new_clean_enhanced_la_finance_data_20250828\\finance_lacity_gov.txt_20250828_233227",
+    "new_clean_enhanced_la_finance_data_20250828\\internal.txt_20250828_233227",
+    "modified_clean_enhanced_la_finance_data_20250828\\external.txt_20250828_233355",
+    "new_clean_enhanced_la_finance_data_20250828\\external.txt_20250828_233227",
+    "new_clean_enhanced_la_finance_data_20250827\\tax-education_new-business-registration_business-types-no-registration-required.txt_20250828_233227",
+    "new_clean_enhanced_la_finance_data_20250827\\tax-education_permit-renewals_police-permits.txt_20250828_233227",
+    "new_clean_enhanced_la_finance_data_20250828\\tax-education_changing-or-closing-business_changing-or-closing-your-business.txt_20250828_233227",
+    "new_clean_enhanced_la_finance_data_20250828\\tax-education_tax-assessments_requesting-hearing.txt_20250828_233227",
+    "new_clean_enhanced_la_finance_data_20250828\\frequently-asked-questions.txt_20250828_233227",
+    "new_clean_enhanced_la_finance_data_20250828\\tax-education_business-tax-registration-renewal_renewal-deadlines-forms-and-online-services.txt_20250828_233227",
+    "new_clean_enhanced_la_finance_data_20250827\\tax-education_new-business-registration_how-register-btrc.txt_20250828_233227",
+    "new_clean_enhanced_la_finance_data_20250828\\tax-education_laws-regulations_city-clerks-ruling.txt_20250828_233227"
+  ],
+  "last_updated": "2025-08-28T23:38:24.008089"
+}

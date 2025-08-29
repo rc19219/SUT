@@ -1,0 +1,41 @@
+FINANCIAL DATA EXTRACTION INSTRUCTIONS
+=======================================
+
+Target Websites:
+----------------
+URL: https://cityofhodgenvilleky.com
+
+Data Requirements:
+------------------
+- Tax rates and schedules
+- Business license fees
+- Permit costs
+- Property tax information
+- Sales tax rates
+- Utility rates
+- Parking fees and fines
+- Registration fees
+- Assessment values
+
+Extraction Parameters:
+----------------------
+Depth: 3
+Pages: 50
+
+Specific Instructions:
+----------------------
+1. Start from the main page and explore all financial-related sections
+2. Pay special attention to PDF documents that might contain rate schedules
+3. Look for pages with titles containing: tax, fee, rate, cost, budget, finance
+4. Extract all numerical values with percentages or dollar amounts
+5. Process any downloadable documents (PDFs, Excel files) found
+6. Follow links to department pages (Treasury, Finance, Tax Collector)
+7. Check for business and resident sections separately
+8. Look for current year (2024-2025) information primarily
+
+Additional Notes:
+-----------------
+- Focus on official government rates and fees
+- Skip news articles and press releases
+- Prioritize structured data tables and lists
+- Save all rate schedules and fee tables found

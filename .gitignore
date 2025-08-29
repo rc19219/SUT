@@ -138,6 +138,7 @@ dmypy.json
 # Data directories (uncomment if you don't want to track data)
 clean_enhanced_la_finance_data_*/
 comparison_reports_*/
+agent_extracted_data_*/
 
 # IDE files
 .vscode/

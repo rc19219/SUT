@@ -95,16 +95,18 @@ class EnhancedFinancialDataExtractor:
         return any(ext in url_lower for ext in doc_extensions)
 
     def contains_financial_data(self, text: str) -> tuple[bool, List[str]]:
-        """Check if text contains financial information"""
-        if not text:
+        """Check if text contains financial information. Remove URLs and filenames before searching."""
+        if not text or not isinstance(text, str):
             return False, []
-        
+        # Remove URLs
+        text = re.sub(r'https?://\S+', '', text)
+        # Remove common file extensions (pdf, doc, docx, xls, xlsx, ppt, pptx, txt)
+        text = re.sub(r'\b\S+\.(pdf|docx?|xlsx?|pptx?|txt)\b', '', text, flags=re.IGNORECASE)
         found_patterns = []
         for pattern in FINANCIAL_KEYWORDS:
             matches = re.findall(pattern, text, re.IGNORECASE)
             if matches:
                 found_patterns.extend(matches[:3])  # Limit to first 3 matches per pattern
-                
         return len(found_patterns) > 0, found_patterns
 
     def get_safe_filename(self, url: str) -> str:
@@ -126,168 +128,112 @@ class EnhancedFinancialDataExtractor:
         return f"{safe_chars}.txt"
 
     async def download_and_process_pdf(self, url: str) -> Dict:
-        """Download and extract text from PDF documents with improved error handling"""
+
         print(f"📄 Processing PDF: {url}")
-        
-        try:
-            # Enhanced request with better headers and longer timeout
-            headers = {
-                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
-                'Accept': 'application/pdf,application/octet-stream,*/*',
-                'Accept-Language': 'en-US,en;q=0.9',
-                'Accept-Encoding': 'gzip, deflate',
-                'Connection': 'keep-alive',
-            }
-            
-            # Use session for better connection handling
-            session = requests.Session()
-            session.headers.update(headers)
-            
-            # Multiple retry attempts with exponential backoff
-            max_retries = 3
-            for attempt in range(max_retries):
-                try:
-                    print(f"   🔄 Attempt {attempt + 1}/{max_retries}")
-                    response = session.get(url, timeout=60, stream=True)
-                    response.raise_for_status()
-                    
-                    # Check if it's actually a PDF
-                    content_type = response.headers.get('content-type', '').lower()
-                    if 'pdf' not in content_type and not url.lower().endswith('.pdf'):
-                        return {"url": url, "status": "FAILED", "error": "Not a valid PDF document", "type": "PDF"}
-                    
-                    # Download with progress tracking
-                    content = b""
-                    total_size = int(response.headers.get('content-length', 0))
-                    downloaded = 0
-                    
-                    for chunk in response.iter_content(chunk_size=8192):
-                        if chunk:
-                            content += chunk
-                            downloaded += len(chunk)
-                            if total_size > 0 and downloaded % (1024 * 100) == 0:  # Every 100KB
-                                progress = (downloaded / total_size) * 100
-                                print(f"   📥 Downloaded {progress:.1f}% ({downloaded}/{total_size} bytes)")
-                    
-                    print(f"   ✅ PDF downloaded: {len(content)} bytes")
-                    break
-                    
-                except requests.exceptions.Timeout:
-                    print(f"   ⏰ Timeout on attempt {attempt + 1}")
-                    if attempt == max_retries - 1:
-                        return {"url": url, "status": "FAILED", "error": "Timeout after multiple attempts", "type": "PDF"}
-                    await asyncio.sleep(2 ** attempt)  # Exponential backoff
-                    continue
-                    
-                except requests.exceptions.ConnectionError as e:
-                    print(f"   🔌 Connection error on attempt {attempt + 1}: {str(e)[:50]}")
-                    if attempt == max_retries - 1:
-                        return {"url": url, "status": "FAILED", "error": f"Connection failed: {str(e)[:100]}", "type": "PDF"}
-                    await asyncio.sleep(2 ** attempt)  # Exponential backoff
-                    continue
-                    
-            # Extract text from PDF
-            pdf_text = ""
+        # Enhanced request with better headers and longer timeout
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
+            'Accept': 'application/pdf,application/octet-stream,*/*',
+            'Accept-Language': 'en-US,en;q=0.9',
+            'Accept-Encoding': 'gzip, deflate',
+            'Connection': 'keep-alive',
+        }
+        session = requests.Session()
+        session.headers.update(headers)
+        max_retries = 3
+        content = b""
+        for attempt in range(max_retries):
             try:
-                pdf_file = io.BytesIO(content)
-                pdf_reader = PyPDF2.PdfReader(pdf_file)
-                
-                print(f"   📖 PDF has {len(pdf_reader.pages)} pages")
-                
-                for page_num in range(len(pdf_reader.pages)):
-                    try:
-                        page = pdf_reader.pages[page_num]
-                        page_text = page.extract_text()
-                        if page_text:
-                            pdf_text += f"\n--- PAGE {page_num + 1} ---\n{page_text}\n"
-                    except Exception as page_error:
-                        print(f"   ⚠️  Error reading page {page_num + 1}: {str(page_error)[:50]}")
-                        continue
-                
-                if pdf_text.strip():
-                    print(f"   ✅ Successfully extracted {len(pdf_text)} characters from PDF")
-                    return {
-                        "url": url,
-                        "title": f"PDF Document - {Path(urlparse(url).path).name}",
-                        "content": pdf_text,
-                        "links": [],
-                        "status": "SUCCESS",
-                        "type": "PDF"
-                    }
-                else:
-                    # Even if no text, save metadata about the PDF
-                    metadata_content = f"""PDF Document Information:
-URL: {url}
-File Size: {len(content)} bytes
-Pages: {len(pdf_reader.pages) if 'pdf_reader' in locals() else 'Unknown'}
-Content Type: {content_type}
-Download Date: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}
-
-Note: This PDF exists but no text could be extracted. It may contain images, scanned text, or be password protected.
-This could still be a valuable financial document that should be reviewed manually.
-"""
-                    return {
-                        "url": url,
-                        "title": f"PDF Document (No Text) - {Path(urlparse(url).path).name}",
-                        "content": metadata_content,
-                        "links": [],
-                        "status": "SUCCESS",
-                        "type": "PDF"
-                    }
-                    
-            except Exception as pdf_error:
-                # Save what we can even if PDF processing fails
-                error_content = f"""PDF Processing Error:
-URL: {url}
-File Size: {len(content)} bytes
-Error: {str(pdf_error)}
-Download Date: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}
-
-Note: PDF was downloaded but could not be processed. This might be:
-- A corrupted PDF file
-- A password-protected PDF
-- A PDF with complex formatting
-- A scanned document without OCR text
-
-Manual review may be required for this financial document.
-"""
+                print(f"   🔄 Attempt {attempt + 1}/{max_retries}")
+                response = session.get(url, timeout=60, stream=True)
+                response.raise_for_status()
+                content_type = response.headers.get('content-type', '').lower()
+                if 'pdf' not in content_type and not url.lower().endswith('.pdf'):
+                    return {"url": url, "status": "FAILED", "error": "Not a valid PDF document", "type": "PDF"}
+                total_size = int(response.headers.get('content-length', 0))
+                downloaded = 0
+                for chunk in response.iter_content(chunk_size=8192):
+                    if chunk:
+                        content += chunk
+                        downloaded += len(chunk)
+                        if total_size > 0 and downloaded % (1024 * 100) == 0:
+                            progress = (downloaded / total_size) * 100
+                            print(f"   📥 Downloaded {progress:.1f}% ({downloaded}/{total_size} bytes)")
+                print(f"   ✅ PDF downloaded: {len(content)} bytes")
+                break
+            except requests.exceptions.Timeout:
+                print(f"   ⏰ Timeout on attempt {attempt + 1}")
+                if attempt == max_retries - 1:
+                    return {"url": url, "status": "FAILED", "error": "Timeout after multiple attempts", "type": "PDF"}
+                await asyncio.sleep(2 ** attempt)
+                continue
+            except requests.exceptions.ConnectionError as e:
+                print(f"   🔌 Connection error on attempt {attempt + 1}: {str(e)[:50]}")
+                if attempt == max_retries - 1:
+                    return {"url": url, "status": "FAILED", "error": f"Connection failed: {str(e)[:100]}", "type": "PDF"}
+                await asyncio.sleep(2 ** attempt)
+                continue
+            except Exception as e:
+                print(f"   ❌ Error during PDF download: {str(e)[:100]}")
+                if attempt == max_retries - 1:
+                    return {"url": url, "status": "FAILED", "error": f"Download failed: {str(e)[:100]}", "type": "PDF"}
+                await asyncio.sleep(2 ** attempt)
+                continue
+        pdf_text = ""
+        try:
+            pdf_file = io.BytesIO(content)
+            pdf_reader = PyPDF2.PdfReader(pdf_file)
+            print(f"   📖 PDF has {len(pdf_reader.pages)} pages")
+            for page_num in range(len(pdf_reader.pages)):
+                try:
+                    page = pdf_reader.pages[page_num]
+                    page_text = page.extract_text()
+                    if page_text:
+                        pdf_text += f"\n--- PAGE {page_num + 1} ---\n{page_text}\n"
+                except Exception as page_error:
+                    print(f"   ⚠️  Error reading page {page_num + 1}: {str(page_error)[:50]}")
+                    continue
+            if pdf_text.strip():
+                print(f"   ✅ Successfully extracted {len(pdf_text)} characters from PDF")
+                has_financial, found_patterns = self.contains_financial_data(pdf_text)
                 return {
                     "url": url,
-                    "title": f"PDF Document (Processing Error) - {Path(urlparse(url).path).name}",
-                    "content": error_content,
+                    "title": f"PDF Document - {Path(urlparse(url).path).name}",
+                    "content": pdf_text,
+                    "financial_patterns": found_patterns,
                     "links": [],
-                    "status": "SUCCESS",  # Still consider it success since we tried
+                    "status": "SUCCESS",
                     "type": "PDF"
                 }
-                
+            else:
+                print(f"   ⚪ No text extracted from PDF")
+                return {
+                    "url": url,
+                    "title": f"PDF Document (No Text) - {Path(urlparse(url).path).name}",
+                    "content": "No text could be extracted from this PDF.",
+                    "financial_patterns": [],
+                    "links": [],
+                    "status": "SUCCESS",
+                    "type": "PDF"
+                }
         except Exception as e:
+            print(f"   ❌ Error processing PDF: {str(e)[:100]}")
             return {"url": url, "status": "FAILED", "error": str(e)[:200], "type": "PDF"}
 
     async def download_and_process_document(self, url: str) -> Dict:
         """Download and process various document types"""
         print(f"📋 Processing Document: {url}")
-        
         try:
             response = requests.get(url, timeout=30)
             response.raise_for_status()
-            
             # For now, just get basic info about other document types
-            # You could add more specific processing for DOC, XLS, etc.
             content_type = response.headers.get('content-type', '').lower()
             file_size = len(response.content)
-            
-            # Basic content extraction attempt
-            document_info = f"""
-Document URL: {url}
-Content Type: {content_type}
-File Size: {file_size} bytes
-Downloaded: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}
-
-Note: This is a {content_type} document. Enhanced processing for this file type could be implemented.
-Raw content preview (first 500 chars):
-{response.content[:500].decode('utf-8', errors='ignore')}
-"""
-            
+            document_info = (
+                f"Document URL: {url}\n"
+                f"Content Type: {content_type}\n"
+                f"File Size: {file_size} bytes\n"
+            )
             return {
                 "url": url,
                 "title": f"Document - {Path(urlparse(url).path).name}",
@@ -296,7 +242,6 @@ Raw content preview (first 500 chars):
                 "status": "SUCCESS",
                 "type": "DOCUMENT"
             }
-            
         except Exception as e:
             return {"url": url, "status": "FAILED", "error": str(e)[:100], "type": "DOCUMENT"}
 
@@ -645,13 +590,15 @@ CONTENT:
         print(f"📋 PDF documents saved in: {self.docs_folder}/")
 
 def main():
-    # Configuration - Start from homepage to get more links
-    start_url = "https://dor.sd.gov/newsroom/"
-    
+    # Read URLs from urls.txt
+    with open('urls.txt', 'r', encoding='utf-8') as f:
+        urls = [line.strip() for line in f if line.strip()]
+
     # Create output folder with current date
     current_date = datetime.now().strftime("%Y%m%d")
-    output_folder = f"clean_enhanced_la_finance_data_{current_date}"
-    
+    output_folder = f"todays_data_{current_date}"
+    os.makedirs(output_folder, exist_ok=True)
+
     print("🏛️  ENHANCED SMART FINANCIAL DATA EXTRACTOR (Crawl4AI)")
     print("=" * 60)
     print("🎯 Mission: Extract ONLY pages with financial data")
@@ -661,14 +608,15 @@ def main():
     print("📋 Features: Enhanced PDF and document processing")
     print("🔧 Architecture: Single-threaded async implementation")
     print("=" * 60)
-    
-    # Create extractor and start extraction
-    extractor = EnhancedFinancialDataExtractor(start_url, output_folder)
-    asyncio.run(extractor.recursive_extract(
-        start_url=start_url,
-        max_depth=3,
-        max_pages=100  # Process many pages to follow all discovered links
-    ))
+
+    # Process each URL and save in its own subfolder
+    for url in urls:
+        # Create subfolder for this URL
+        url_folder = os.path.join(output_folder, urlparse(url).netloc.replace('.', '_'))
+        os.makedirs(url_folder, exist_ok=True)
+        extractor = EnhancedFinancialDataExtractor(url, url_folder)
+        asyncio.run(extractor.recursive_extract(url, max_depth=3, max_pages=10))
+     # Create extractor and start extraction
 
 if __name__ == "__main__":
     main()

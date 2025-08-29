@@ -1,0 +1,483 @@
+URL: https://dor.sd.gov/businesses/motor-vehicle/
+TITLE: Motor Vehicle | South Dakota Department of Revenue
+TYPE: WEBPAGE
+SCRAPED: 2025-08-29 11:53:53
+FINANCIAL PATTERNS FOUND: 10
+------------------------------------------------------------
+DETECTED PATTERNS:
+4%, 4%, 4%, rate of 1, $10, $10, $5, fee of $10, fee of $50, fee of $10
+
+------------------------------------------------------------
+CONTENT:
+
+[ Skip to main content ](https://dor.sd.gov/businesses/motor-vehicle/#content)
+What Can We Do For You Today?
+Search DOR.GOV.SD p Choose a filter to refine your search All dor.sd.gov Pages Forms / Resources
+Close search
+  * [Pages](https://dor.sd.gov/businesses/motor-vehicle/#pagesResults)
+  * [Forms / Resources](https://dor.sd.gov/businesses/motor-vehicle/#formsResourcesResults)
+  * [All dor.sd.gov](https://dor.sd.gov/businesses/motor-vehicle/#allResults)
+
+
+[![South Dakota Department of Revenue](https://dor.sd.gov/images/logo-dor.svg?v=r0XjIEsmZhcMbN-uaSruyzk1sCAU30oDIiiKNmdn5Os)](https://dor.sd.gov/)
+#### Site navigation
+  * [Contact](https://dor.sd.gov/contact/ "Contact")
+  * [About DOR](https://dor.sd.gov/about-dor/ "About DOR")
+  * [Upcoming Dates](https://dor.sd.gov/calendar/ "Upcoming Dates")
+  * [Latest News](https://dor.sd.gov/newsroom/ "Latest News")
+  * [Live Chat](https://dorchat.sd.gov/Chat?id=NjRlZjkxYzktY2I1MS00Y2UxLThjM2YtMWE1NmQ1Mzk4OTkw "Live Chat")
+
+
+  * [ ](https://dor.sd.gov/individuals/ "Individuals")›
+    * ‹ Back
+    * [Gaming](https://dor.sd.gov/individuals/gaming/ "Gaming")›
+      * ‹ BackGaming
+      * [Gaming for Individuals](https://dor.sd.gov/individuals/gaming/ "Gaming for Individuals")
+* * *
+Find information about the South Dakota Commission on Gaming, laws, regulations and the seven types of gaming licenses issued to the general public.
+[Learn More](https://dor.sd.gov/individuals/gaming/ "Learn More")
+    * [Lottery](https://dor.sd.gov/individuals/lottery/ "Lottery")›
+      * ‹ BackLottery
+      * [Lottery for Individuals](https://dor.sd.gov/individuals/lottery/ "Lottery for Individuals")
+* * *
+Everything you need to know about games, licensing and beneficiaries of the South Dakota Lottery.
+[Learn More](https://dor.sd.gov/individuals/lottery/ "Learn More")
+    * [Motor Vehicle](https://dor.sd.gov/individuals/motor-vehicle/ "Motor Vehicle")›
+      * ‹ BackMotor Vehicle
+      * [ All Vehicles - Title, Fees & Registration ](https://dor.sd.gov/individuals/motor-vehicle/all-vehicles-title-fees-registration/ "All Vehicles - Title, Fees & Registration")
+      * [ Boats ](https://dor.sd.gov/individuals/motor-vehicle/boats/ "Boats")
+      * [ Cars, Trucks & Vans ](https://dor.sd.gov/individuals/motor-vehicle/cars-trucks-vans/ "Cars, Trucks & Vans")
+      * [ Historic Vehicles ](https://dor.sd.gov/individuals/motor-vehicle/historic-vehicles/ "Historic Vehicles")
+      * [ Low Speed Vehicles ](https://dor.sd.gov/individuals/motor-vehicle/low-speed-vehicles/ "Low Speed Vehicles")
+      * [ Manufactured Homes & Mobile Homes ](https://dor.sd.gov/individuals/motor-vehicle/manufactured-homes-mobile-homes/ "Manufactured Homes & Mobile Homes")
+      * [ Motorcycles ](https://dor.sd.gov/individuals/motor-vehicle/motorcycles/ "Motorcycles")
+      * [ Off-Road Vehicles ](https://dor.sd.gov/individuals/motor-vehicle/off-road-vehicles/ "Off-Road Vehicles")
+      * [ Rebuilt Vehicles ](https://dor.sd.gov/individuals/motor-vehicle/rebuilt-vehicles/ "Rebuilt Vehicles")
+      * [ Recreational, Motorhomes & Converted Housecars ](https://dor.sd.gov/individuals/motor-vehicle/recreational-motorhomes-converted-housecars/ "Recreational, Motorhomes & Converted Housecars")
+      * [ Snowmobiles ](https://dor.sd.gov/individuals/motor-vehicle/snowmobiles/ "Snowmobiles")
+      * [ Trailers ](https://dor.sd.gov/individuals/motor-vehicle/trailers/ "Trailers")
+      * [ Trucking ](https://dor.sd.gov/individuals/motor-vehicle/trucking/ "Trucking")
+    * [Taxes](https://dor.sd.gov/individuals/taxes/ "Taxes")›
+      * ‹ BackTaxes
+      * [ Alcohol ](https://dor.sd.gov/individuals/taxes/alcohol/ "Alcohol")
+      * [ Cigarette & Tobacco ](https://dor.sd.gov/individuals/taxes/cigarette-tobacco/ "Cigarette & Tobacco")
+      * [ Motor Fuel ](https://dor.sd.gov/individuals/taxes/motor-fuel/ "Motor Fuel")
+      * [ Property Tax ](https://dor.sd.gov/individuals/taxes/property-tax/ "Property Tax")
+      * [ Sales & Use Tax ](https://dor.sd.gov/individuals/taxes/sales-use-tax/ "Sales & Use Tax")
+      * [Individual Taxes](https://dor.sd.gov/individuals/taxes/ "Individual Taxes")
+* * *
+Learn what you need to file, pay and find information on taxes for the general public.
+[Learn More](https://dor.sd.gov/individuals/taxes/ "Learn More")
+    * [Individual FAQs](https://dor.sd.gov/individuals/individual-faqs/ "Individual FAQs")›
+      * ‹ BackIndividual FAQs
+      * [Individual Frequently Asked Questions](https://dor.sd.gov/individuals/individual-faqs/ "Individual Frequently Asked Questions")
+* * *
+See what other South Dakota taxpayers are asking the Department of Revenue.
+[Get Answers](https://dor.sd.gov/individuals/individual-faqs/ "Get Answers")
+    * [Individual Forms / Resources](https://sddor.seamlessdocs.com/sc/individual-forms/ "Individual Forms / Resources")›
+      * ‹ BackIndividual Forms / Resources
+      * [Individual Forms / Resources](https://sddor.seamlessdocs.com/sc/individual-forms/ "Individual Forms / Resources")
+* * *
+Quick links to help you find the right individual forms fast.
+[Find Individual Forms](https://sddor.seamlessdocs.com/sc/individual-forms/ "Find Individual Forms")
+  * [ ](https://dor.sd.gov/businesses/ "Businesses")›
+    * ‹ Back
+    * [Audit](https://dor.sd.gov/businesses/audit/ "Audit")›
+      * ‹ BackAudit
+      * [Business Audit](https://dor.sd.gov/businesses/audit/ "Business Audit")
+* * *
+See how DOR approaches reporting errors and omissions and correcting reporting habits for future returns.
+[Learn More](https://dor.sd.gov/businesses/audit/ "Learn More")
+    * [Gaming](https://dor.sd.gov/businesses/gaming/ "Gaming")›
+      * ‹ BackGaming
+      * [Gaming for Businesses](https://dor.sd.gov/businesses/gaming/ "Gaming for Businesses")
+* * *
+Find information on the South Dakota Commission on Gaming, applications, fees, annual reports, industry statistics and more.
+[Learn More](https://dor.sd.gov/businesses/gaming/ "Learn More")
+    * [Lottery](https://dor.sd.gov/businesses/lottery/ "Lottery")›
+      * ‹ BackLottery
+      * [Lottery for Businesses](https://dor.sd.gov/businesses/lottery/ "Lottery for Businesses")
+* * *
+Everything you need to know about games, licensing and South Dakota Lottery retailers.
+[Learn More](https://dor.sd.gov/businesses/lottery/ "Learn More")
+    * [Motor Vehicle](https://dor.sd.gov/businesses/motor-vehicle/ "Motor Vehicle")›
+      * ‹ BackMotor Vehicle
+      * [ Commercial Vehicles ](https://dor.sd.gov/businesses/motor-vehicle/commercial-vehicles/ "Commercial Vehicles")
+      * [ Dealer Vehicle Licenses ](https://dor.sd.gov/businesses/motor-vehicle/dealer-vehicle-licenses/ "Dealer Vehicle Licenses")
+      * [ Harvest Vehicles ](https://dor.sd.gov/businesses/motor-vehicle/harvest-vehicles/ "Harvest Vehicles")
+      * [ Nonprofit Organization Vehicles ](https://dor.sd.gov/businesses/motor-vehicle/nonprofit-organization-vehicles/ "Nonprofit Organization Vehicles")
+      * [ Motor Carrier Services ](https://dor.sd.gov/businesses/motor-vehicle/motor-carrier-services/ "Motor Carrier Services")
+      * [Business Motor Vehicle ](https://dor.sd.gov/businesses/motor-vehicle/ "Business Motor Vehicle ")
+* * *
+Get all the information you will need to title or renew your vehicle registration and license plates for your commercial vehicles.
+[Learn More](https://dor.sd.gov/businesses/motor-vehicle/ "Learn More")
+    * [Taxes](https://dor.sd.gov/businesses/taxes/ "Taxes")›
+      * ‹ BackTaxes
+      * [ Telecommunication Emergency Surcharges & Fees ](https://dor.sd.gov/businesses/taxes/telecommunication-emergency-surcharges-fees/ "Telecommunication Emergency Surcharges & Fees")
+      * [ Alcohol ](https://dor.sd.gov/businesses/taxes/alcohol/ "Alcohol")
+      * [ Amusement Machines ](https://dor.sd.gov/businesses/taxes/amusement-machines/ "Amusement Machines")
+      * [ Bank Franchise Tax ](https://dor.sd.gov/businesses/taxes/bank-franchise-tax/ "Bank Franchise Tax")
+      * [ Cigarette & Tobacco ](https://dor.sd.gov/businesses/taxes/cigarette-tobacco/ "Cigarette & Tobacco")
+      * [ Coin Operated Washers & Dryers ](https://dor.sd.gov/businesses/taxes/coin-operated-washers-dryers/ "Coin Operated Washers & Dryers")
+      * [ Contractor's Excise Tax ](https://dor.sd.gov/businesses/taxes/contractors-excise-tax/ "Contractor's Excise Tax")
+      * [ Motor Fuel ](https://dor.sd.gov/businesses/taxes/motor-fuel/ "Motor Fuel")
+      * [ Municipal Tax ](https://dor.sd.gov/businesses/taxes/municipal-tax/ "Municipal Tax")
+      * [ Precious Metal & Energy Mineral Severance Taxes & Conservation Tax ](https://dor.sd.gov/businesses/taxes/precious-metal-energy-mineral-severance-taxes-conservation-tax/ "Precious Metal & Energy Mineral Severance Taxes & Conservation Tax")
+      * [ Property Tax ](https://dor.sd.gov/businesses/taxes/property-tax/ "Property Tax")
+      * [ Sales & Use Tax ](https://dor.sd.gov/businesses/taxes/sales-use-tax/ "Sales & Use Tax")
+      * [ Tourism Tax ](https://dor.sd.gov/businesses/taxes/tourism-tax/ "Tourism Tax")
+    * [Sturgis Motorcycle Rally](https://dor.sd.gov/businesses/sturgis-motorcycle-rally/ "Sturgis Motorcycle Rally")›
+      * ‹ BackSturgis Motorcycle Rally
+      * [Sturgis Motor Cycle Rally](https://dor.sd.gov/businesses/sturgis-motorcycle-rally/ "Sturgis Motor Cycle Rally")
+* * *
+Find information, tax applications, licensing instructions and municipal tax rates for the Sturgis Motorcycle Rally.
+[Learn More](https://dor.sd.gov/businesses/sturgis-motorcycle-rally/ "Learn More")
+    * [Business FAQs](https://dor.sd.gov/businesses/business-faqs/ "Business FAQs")›
+      * ‹ BackBusiness FAQs
+      * [Business Frequently Asked Questions](https://dor.sd.gov/businesses/business-faqs/ "Business Frequently Asked Questions")
+* * *
+See what other business owners are asking the Department of Revenue.
+[Get Answers](https://dor.sd.gov/businesses/business-faqs/ "Get Answers")
+    * [Business Forms / Resources](https://sddor.seamlessdocs.com/sc/business-forms/ "Business Forms / Resources")›
+      * ‹ BackBusiness Forms / Resources
+      * [Business Forms / Resources](https://sddor.seamlessdocs.com/sc/business-forms/ "Business Forms / Resources")
+* * *
+Quick links to help you find the right business forms fast.
+[See Business Forms](https://sddor.seamlessdocs.com/sc/business-forms/ "See Business Forms")
+  * [ ](https://dor.sd.gov/government/ "Government")›
+    * ‹ Back
+    * [County Auditors](https://dor.sd.gov/government/county-auditors/ "County Auditors")›
+      * ‹ BackCounty Auditors
+      * [South Dakota County Auditors](https://dor.sd.gov/government/county-auditors/ "South Dakota County Auditors")
+* * *
+In-depth content for South Dakota County Auditors on calculating growth percentage, CPI, Relief Programs, TIF and other property tax essentials.
+[See County Resources](https://dor.sd.gov/government/county-auditors/ "See County Resources")
+    * [County Commissioners](https://dor.sd.gov/government/county-commissioners/ "County Commissioners")›
+      * ‹ BackCounty Commissioners
+      * [South Dakota County Commissioners](https://dor.sd.gov/government/county-commissioners/ "South Dakota County Commissioners")
+* * *
+Important South Dakota County Commissioners information including land assessment data, buffer strips and frequently asked levy questions.
+[See County Resources](https://dor.sd.gov/government/county-commissioners/ "See County Resources")
+    * [County Treasurers](https://dor.sd.gov/government/county-treasurers/ "County Treasurers")›
+      * ‹ BackCounty Treasurers
+      * [South Dakota County Treasurers](https://dor.sd.gov/government/county-treasurers/ "South Dakota County Treasurers")
+* * *
+Information for South Dakota County Treasurers to explain property tax relief programs, tax deeds and special assessments.
+[See County Resources](https://dor.sd.gov/government/county-treasurers/ "See County Resources")
+    * [Director of Equalization](https://dor.sd.gov/government/director-of-equalization/ "Director of Equalization")›
+      * ‹ BackDirector of Equalization
+      * [South Dakota Directors of Equalization](https://dor.sd.gov/government/director-of-equalization/ "South Dakota Directors of Equalization")
+* * *
+South Dakota Directors of Equalization knowledge base for property tax exemptions, sales / ratio and growth definitions.
+[See County Resources](https://dor.sd.gov/government/director-of-equalization/ "See County Resources")
+    * [Exempt Entities - Higher Education, Mass Transit & Tribal](https://dor.sd.gov/government/exempt-entities-higher-education-mass-transit-tribal/ "Exempt Entities - Higher Education, Mass Transit & Tribal")›
+      * ‹ BackExempt Entities - Higher Education, Mass Transit & Tribal
+      * [Government Motor Vehicle](https://dor.sd.gov/government/exempt-entities-higher-education-mass-transit-tribal/ "Government Motor Vehicle")
+* * *
+Get all the information you will need to title or renew your vehicle registration and license plates for your government vehicles.
+[Learn More](https://dor.sd.gov/government/exempt-entities-higher-education-mass-transit-tribal/ "Learn More")
+    * [Register of Deeds](https://dor.sd.gov/government/register-of-deeds/ "Register of Deeds")›
+      * ‹ BackRegister of Deeds
+      * [South Dakota Registers of Deeds](https://dor.sd.gov/government/register-of-deeds/ "South Dakota Registers of Deeds")
+* * *
+Essentials for Registers of Deeds relating to real estate value, deed transfers, sequence numbers and more.
+[See County Resources](https://dor.sd.gov/government/register-of-deeds/ "See County Resources")
+    * [Government FAQs](https://dor.sd.gov/government/government-faqs/ "Government FAQs")›
+      * ‹ BackGovernment FAQs
+      * [Government Frequently Asked Questions](https://dor.sd.gov/government/government-faqs/ "Government Frequently Asked Questions")
+* * *
+South Dakota government officials can find answers to frequently asked questions for local governments.
+[Get Answers](https://dor.sd.gov/government/government-faqs/ "Get Answers")
+    * [Government Forms / Resources](https://sddor.seamlessdocs.com/sc/government-forms/ "Government Forms / Resources")›
+      * ‹ BackGovernment Forms / Resources
+      * [Government Forms / Resources](https://sddor.seamlessdocs.com/sc/government-forms "Government Forms / Resources")
+* * *
+Quick links to help you find the right government forms fast.
+[See Government Forms](https://sddor.seamlessdocs.com/sc/government-forms "See Government Forms")
+  * [ ](https://sddor.seamlessdocs.com/sc/ "Forms / Resources")›
+    * ‹ Back
+    * [Business Forms](https://sddor.seamlessdocs.com/sc/business-forms/ "Business Forms")
+    * [Government Forms](https://sddor.seamlessdocs.com/sc/government-forms/ "Government Forms")
+    * [Individual Forms](https://sddor.seamlessdocs.com/sc/individual-forms/ "Individual Forms")
+    * [Master Form List](https://sddor.seamlessdocs.com/sc/master-forms/ "Master Form List")
+    * [Publications](https://sddor.seamlessdocs.com/sc/publications/ "Publications")›
+      * ‹ BackPublications
+      * [ Annual Reports ](https://sddor.seamlessdocs.com/sc/publications-annual-reports/ "Annual Reports")
+      * [ Guides ](https://sddor.seamlessdocs.com/sc/publications-guides/ "Guides")
+      * [ Newsletters ](https://sddor.seamlessdocs.com/sc/publications-newsletters/ "Newsletters")
+      * [ Sales Tax Rate Charts ](https://sddor.seamlessdocs.com/sc/publications-sales-tax-rate-charts/ "Sales Tax Rate Charts")
+      * [ Tax Facts ](https://sddor.seamlessdocs.com/sc/publications-tax-facts/ "Tax Facts")
+    * [Statistics](https://sddor.seamlessdocs.com/sc/statistics/ "Statistics")
+
+
+  * ![](https://dor.sd.gov/images/icons/search/search-dark.svg?v=qwfVNVDZwS-DU-WzbccI5H0IqugKRhnvplca1eRvjD0)
+  * [Online Services](https://dor.sd.gov/online-services/)
+
+
+Businesses
+The Motor Vehicle Division experiencing a backlog of up to three months,   
+[click here to request expedited title](https://dor.sd.gov/newsroom/request-a-vehicle-or-boat-title/ "Request A Title"). 
+  1. [Home](https://dor.sd.gov/)
+  2. [Businesses](https://dor.sd.gov/businesses/)
+  3. Motor Vehicle
+
+
+# Motor Vehicle
+![Trucks Driving in Traffic](https://dor.sd.gov/media/wwdaj1wc/motorvehicle_parkedindriveway.jpg)
+* * *
+## Quick Navigation
+###### [Online Services](https://dor.sd.gov/businesses/motor-vehicle/#online)
+###### [Electronic Lien & Title (ELT)](https://dor.sd.gov/businesses/motor-vehicle/#elt)
+###### [Repossession Vehicles](https://dor.sd.gov/businesses/motor-vehicle/#repo)
+###### [Exempt Entity Licenses Plates](https://dor.sd.gov/businesses/motor-vehicle/#exempt)
+######  [General Exempt Entity Plates](https://dor.sd.gov/businesses/motor-vehicle/#exempt)
+###### [Community Support Provider](https://dor.sd.gov/businesses/motor-vehicle/#community)
+###### [Laws & Regulations](https://dor.sd.gov/businesses/motor-vehicle/#laws)
+###### [Driver's Privacy and Protection Act (DPPA)](https://dor.sd.gov/businesses/motor-vehicle/#dppa)
+###### [Contact](https://dor.sd.gov/businesses/motor-vehicle/#contact)
+* * *
+## Online Services
+The Motor Vehicle Division provides and maintains motor vehicle records for vehicles owned by your business. Our online services allow you to:
+  * Review and renew your vehicle registration/decals and license plates;
+  * Purchase new license plates;
+  * Opt-in for email renewal and general notifications;
+  * Find out the estimated renewal cost of your vehicles;
+  * Report the sale of a vehicle; and
+  * Print a seller's permit
+
+
+[Get Started](https://dor.sd.gov/online-services/vehicle-registration-plates/ "Vehicle Registration & Plates")
+## Electronic Lien & Title (ELT)
+### What is the ELT System?
+The South Dakota Motor Vehicle Division has an Electronic Lien & Title System (ELT), which allows lienholders to reduce the handling, storage and mailing costs of paper titles by replacing them with an electronic version. No paper title will be printed while there is a lien noted, unless one of the exceptions in South Dakota law apply. [SDCL 32-3-70](http://sdlegislature.gov/statutes/Codified_laws/DisplayStatute.aspx?Statute=32-3-70&Type=Statute "SDCL 32-3-70")
+### How Does the ELT System Work?
+Lenders have the option to utilize a third-party provider that will provide electronic notices of title issuance and lien perfection when a record is issued in the state system. Upon the release of a lien, a participating lender will send a lien release electronically through its provider. Upon receipt of the electronic lien release, the title will be printed and mailed to the owner, unless directed otherwise by the lender. For more information on the Electronic Lien & Title system, take a look at the [ELT Guide (PDF)](https://dor.sd.gov/media/jkbnwr0z/sd-elt-guide.pdf "SD ELT Guide"). 
+### Notation of Liens on Existing South Dakota Printed Titles
+To have a lien noted on an outstanding title, the owner or lienholder shall present the original South Dakota certificate of title (or valid duplicate) and a copy of the security agreement to the titled owner’s county treasurer’s office. A lien notation fee of $10 must also be submitted. **Note** : the check or money order must be made out to the appropriate county treasurer (not to the Motor Vehicle Division).
+### Release of Liens on Printed South Dakota Titles
+The signature of the lienholder on the face of the certificate of title is not needed if there is a notice of the satisfaction for liens noted on a South Dakota certificate of title. **Note** : while liens can be canceled in any county, lien notations must be made in the titled owner’s county of record.
+#### On Titles Which Are Held by the Lienholder
+It is the responsibility of the lienholder to have the lien against the record holder released by the county treasurer within 20 days after final payment. No fee is assessed for the release of a lien.
+#### On Titles Which Are Held by the Owner
+It is the responsibility of the lienholder to execute a release within 20 days after final payment is received. The lienholder shall mail or deliver the release to the owner. The certificate of title and lien release shall be forwarded by the owner to any county treasurer. No fee is assessed for the release of a lien.
+## Repossession Vehicles
+### How to Apply
+Financial Institutions looking to apply for a repossession title will need to submit the following documents to their local county treasury's office in the county the vehicle was issued. To complete this transaction, please include:
+  1. Copy of Security Agreement
+  2. [Application for Motor Vehicle/Boat Title Registration ](https://sddor.seamlessdocs.com/f/1001 "Application for Motor Vehicle/Boat Title Registration")[](https://sddor.seamlessdocs.com/f/1001)
+  3. [Motor Vehicle Affidavit](https://sddor.seamlessdocs.com/f/1012 "Motor Vehicle Affidavit")
+  4. Title Fee
+
+
+For more information regarding Auction Agencies and the purchase of vehicles with a title not in the name of the entity or vehicles with an Electronic Lien and Title (ELT) record, please see the Motor Vehicle Division [Procedures Manual](https://dor.sd.gov/media/3ejfnthn/2023-mv-procedures-manual.pdf "MV Procedures Manual").
+## Exempt Entity License Plates
+### General Exempt Entity Plates
+#### Who is Eligible?
+Vehicles owned by United States, states, counties, townships, and municipalities; vehicles purchased by the state under Sections 18 and 16(b)2 of the Urban Mass Transportation Act; vehicles owned by public school corporations, fire departments, a licensed ambulance service, Native American tribes or schools, or non-profit adjustment training centers; buses and vans owned by churches. More information on [Higher Education, Mass Transit & Tribal vehicles](https://dor.sd.gov/government/exempt-entities-higher-education-mass-transit-tribal/ "Exempt Entities - Higher Education, Mass Transit & Tribal") can be found in the [Government section](https://dor.sd.gov/government/ "Government"). 
+[Learn More](https://dor.sd.gov/government/exempt-entities-higher-education-mass-transit-tribal/ "Exempt Entities - Higher Education, Mass Transit & Tribal")
+### Community Support Provider
+#### Who is Eligible?
+Vehicles owned by nonprofit community support providers (sheltered workshops) recognized or approved by an agency of this state, and which are used exclusively by such nonprofit community support providers (sheltered workshops). Get started with a [Motor Vehicle Title & Registration Application](https://sddor.seamlessdocs.com/f/1001 "Motor Vehicle/Boat Title & Registration Application")[Exempt Entity License Plates Application](https://sddor.seamlessdocs.com/f/1307 "Exempt Entity License Plate Application").
+## Laws & Regulations
+South Dakota Laws and regulations regarding vehicle ownership.
+  * [SDCL 32-1 State Administration of Motor Vehicles](http://sdlegislature.gov/Statutes/Codified_Laws/DisplayStatute.aspx?Type=Statute&Statute=32-1 "SDCL 32-1")
+  * [SDCL 32-3 Title Registration, Liens and Transfers](http://sdlegislature.gov/Statutes/Codified_Laws/DisplayStatute.aspx?Type=Statute&Statute=32-3 "SDCL 32-3")
+  * [SDCL 32-3A Title Registration and Taxation of Boats](http://sdlegislature.gov/Statutes/Codified_Laws/DisplayStatute.aspx?Type=Statute&Statute=32-3A "SDCL 32-3A")
+  * [SDCL 32-5 Annual Registration and License Plates](http://sdlegislature.gov/Statutes/Codified_Laws/DisplayStatute.aspx?Type=Statute&Statute=32-5 "SDCL 32-5")
+  * [SDCL 32-5A County Wheel Tax](http://sdlegislature.gov/Statutes/Codified_Laws/DisplayStatute.aspx?Type=Statute&Statute=32-5A "SDCL 32-5A")
+  * [SDCL 32-5B Excise Tax on Motor Vehicles](http://sdlegislature.gov/Statutes/Codified_Laws/DisplayStatute.aspx?Type=Statute&Statute=32-5B "SDCL 32-5B")
+  * [SDCL 32-6B Regulation of Vehicle Dealers](http://sdlegislature.gov/Statutes/Codified_Laws/DisplayStatute.aspx?Type=Statute&Statute=32-6B "SDCL 32-6B")
+  * [SDCL 32-6C Regulation of Snowmobile Dealers](http://sdlegislature.gov/Statutes/Codified_Laws/DisplayStatute.aspx?Type=Statute&Statute=32-6C "SDCL 32-6C")
+  * [SDCL 32-6E Regulations of Snowmobiles Franchising Agreements](http://sdlegislature.gov/Statutes/Codified_Laws/DisplayStatute.aspx?Type=Statute&Statute=32-6E "SDCL 32-6E")
+  * [SDCL 32-7A Dealers of Manufactured Homes and Mobile Homes](http://sdlegislature.gov/Statutes/Codified_Laws/DisplayStatute.aspx?Type=Statute&Statute=32-7A "SDCL 32-7A")
+  * [SDCL 32-7B Regulation of Boat Dealers](http://sdlegislature.gov/Statutes/Codified_Laws/DisplayStatute.aspx?Type=Statute&Statute=32-7B "SDCL 32-7B")[](http://sdlegislature.gov/Statutes/Codified_Laws/DisplayStatute.aspx?Type=Statute&Statute=32-7B)
+  * [SDCL 32-9 Commercial Motor Vehicle Certificates](http://sdlegislature.gov/Statutes/Codified_Laws/DisplayStatute.aspx?Type=Statute&Statute=32-9 "SDCL 32-9")
+  * [SDCL 32-10 Interstate Reciprocity and Proportional Registration of Fleets](http://sdlegislature.gov/Statutes/Codified_Laws/DisplayStatute.aspx?Type=Statute&Statute=32-10 "SDCL 32-10")[](http://sdlegislature.gov/Statutes/Codified_Laws/DisplayStatute.aspx?Type=Statute&Statute=32-10)
+  * [SDCL 32-11 Motor Vehicle Funds](http://sdlegislature.gov/Statutes/Codified_Laws/DisplayStatute.aspx?Type=Statute&Statute=32-11 "SDCL 32-11")
+  * [SDCL 32-20 Motorcycle Regulation](http://sdlegislature.gov/Statutes/Codified_Laws/DisplayStatute.aspx?Type=Statute&Statute=32-20 "SDCL 32-20")
+
+
+### Driver’s Privacy and Protection Act (DPPA)
+A written form must be submitted to the South Dakota Motor Vehicle Division before motor vehicle records can be released.
+[Request Form](https://my605drive.sd.gov/TAP/eServices/_/?link=dppa "Secured Vehicle Information Request \(DPPA\)")
+## Contact
+We strive to make our services as convenient as possible and encourage you to contact us with any questions or concerns.
+| Phone | Fax | Email  
+---|---|---|---  
+| Phone | Fax | Email  
+**Motor Vehicle Division** | [(605) 773-3541](tel:6057733541 "Call \(605\) 773-3541") | (605) 773-2550 | motorv@state.sd.us  
+**Motor Fuel** | [(605) 367-5899](tel:6053675899 "Call \(605\) 367-5899") | (605) 367-5830 | sdmotorfuel@state.sd.us  
+**Motor Carrier Services** | [(605) 773-3314](tel:6057733314 "Call \(605\) 773-3314") | (605) 773-4117 | sdmotorcarrier@state.sd.us  
+**Dealer Licensing Office** |  [(605) 882-5192](tel:6058825192 "Call \(605\) 882-5192")[](tel:6057733314) | (605) 882-5199 | dealerprogram@state.sd.us  
+## Online Services
+[ ![Vehicle Registration and Plates](https://dor.sd.gov/media/f3dhrmgo/car.svg) Vehicle Registration and Plates ](https://my605drive.sd.gov/TAP/eServices/_/ "Vehicle Registration and Plates")
+### Motor Vehicle Online Forms
+[ **Bill of Sale Form 1025** ](https://sddor.seamlessdocs.com/f/1025 "Bill of Sale Form 1025")
+<https://sddor.seamlessdocs.com/f/1025>
+[ Complete Form Bill of Sale Form 1025 ](https://sddor.seamlessdocs.com/f/1025 "Bill of Sale Form 1025")
+[ **Duplicate Title Application Form 1002** ](https://sddor.seamlessdocs.com/f/1002 "Duplicate Title Application Form 1002")
+<https://sddor.seamlessdocs.com/f/1002>
+[ Complete Form Duplicate Title Application Form 1002 ](https://sddor.seamlessdocs.com/f/1002 "Duplicate Title Application Form 1002")
+[ **ELT Lender Application Form 1500** ](https://sddor.seamlessdocs.com/f/1500 "ELT Lender Application Form 1500")
+<https://sddor.seamlessdocs.com/f/1500>
+[ Complete Form ELT Lender Application Form 1500 ](https://sddor.seamlessdocs.com/f/1500 "ELT Lender Application Form 1500")
+[ **Electronic Filing/Penalty and Interest Waiver Form 1810** ](https://sddor.seamlessdocs.com/f/1810 "Electronic Filing/Penalty and Interest Waiver Form 1810")
+<https://sddor.seamlessdocs.com/f/1810>
+[ Complete Form Electronic Filing/Penalty and Interest Waiver Form 1810 ](https://sddor.seamlessdocs.com/f/1810 "Electronic Filing/Penalty and Interest Waiver Form 1810")
+[ **Lender Paper Title Request Form 1501** ](https://sddor.seamlessdocs.com/f/1501 "Lender Paper Title Request Form 1501")
+<https://sddor.seamlessdocs.com/f/1501>
+[ Complete Form Lender Paper Title Request Form 1501 ](https://sddor.seamlessdocs.com/f/1501 "Lender Paper Title Request Form 1501")
+[ **Lien Release Form 1503** ](https://sddor.seamlessdocs.com/f/1503 "Lien Release Form 1503")
+<https://sddor.seamlessdocs.com/f/1503>
+[ Complete Form Lien Release Form 1503 ](https://sddor.seamlessdocs.com/f/1503 "Lien Release Form 1503")
+[ **Motor Vehicle Affidavit Form 1012** ](https://sddor.seamlessdocs.com/f/1012 "Motor Vehicle Affidavit Form 1012")
+<https://sddor.seamlessdocs.com/f/1012>
+[ Complete Form Motor Vehicle Affidavit Form 1012 ](https://sddor.seamlessdocs.com/f/1012 "Motor Vehicle Affidavit Form 1012")
+[ **Motor Vehicle and Boat Title Application Form 1001** ](https://sddor.seamlessdocs.com/f/1001 "Motor Vehicle and Boat Title Application Form 1001")
+<https://sddor.seamlessdocs.com/f/1001>
+[ Complete Form Motor Vehicle and Boat Title Application Form 1001 ](https://sddor.seamlessdocs.com/f/1001 "Motor Vehicle and Boat Title Application Form 1001")
+[ **Notice to Submit Title Form 1502** ](https://sddor.seamlessdocs.com/f/1502 "Notice to Submit Title Form 1502")
+<https://sddor.seamlessdocs.com/f/1502>
+[ Complete Form Notice to Submit Title Form 1502 ](https://sddor.seamlessdocs.com/f/1502 "Notice to Submit Title Form 1502")
+[ **Tax Payment Verification Form 1007** ](https://sddor.seamlessdocs.com/f/01007 "Tax Payment Verification Form 1007")
+<https://sddor.seamlessdocs.com/f/01007>
+[ Complete Form Tax Payment Verification Form 1007 ](https://sddor.seamlessdocs.com/f/01007 "Tax Payment Verification Form 1007")
+[See All Motor Vehicle Online Forms](https://sddor.seamlessdocs.com/sc/business-forms/ "See All Motor Vehicle Online Forms")
+### Motor Vehicle Frequently Asked Questions
+Also known as the online [Vehicle Registration & Plates portal](https://dor.sd.gov/online-services/vehicle-registration-plates/ "Vehicle Registration & Plates"). See questions about reviewing and renewing registration, license plates and motor vehicle records for businesses.
+#####  Who do I contact if I have questions about motor vehicle registering, licensing and titling? 
+You can contact your [local county treasurer’s office](https://dor.sd.gov/government/county-treasurers/contact-county-treasurers/ "County Treasurers") or the South Dakota Motor Vehicles Division at [(605) 773-3541](tel:6057733541 "Call \(605\) 773-3541").
+#####  What are the different fees for motor vehicle licensing and registration? 
+Non-commercial vehicle fees are issued in accordance to the vehicle's age and weight. Other fees as well as policies on other vehicles can be found at our [Title & Registration page](https://dor.sd.gov/individuals/motor-vehicle/all-vehicles-title-fees-registration/ "Title & Registration").
+#####  Where can I renew my vehicle registrations? 
+  1. Your [local County Treasurer’s office](https://dor.sd.gov/government/county-treasurers/contact-county-treasurers/ "Contact County Treasurers")
+  2. Visit one of our DMV Now Kiosk locations: 
+    1. Aberdeen: [Kessler's, 615 6th Ave. SE](https://www.google.com/maps/place/Kessler's/@45.460003,-98.4805064,17z/data=!3m1!4b1!4m5!3m4!1s0x52d244e64e177281:0xddd2d9ae87e8d52a!8m2!3d45.460003!4d-98.4783177 "Google Maps: Kiosk at Kessler's, 615 6th Ave. SE")
+    2. Brookings: [Lewis 910 22nd Ave. S](https://www.google.com/maps/place/Lewis/@44.2957768,-96.7696626,15z/data=!4m5!3m4!1s0x0:0x592eae33dfca5911!8m2!3d44.2957768!4d-96.7696626 "Goggle Maps: Kiosk at Lewis, 910 22nd Ave. S")
+    3. Huron: [Coborn’s 2150 Dakota Ave. S](https://www.google.com/maps/place/Coborn's/@44.34036,-98.211805,15z/data=!4m2!3m1!1s0x0:0x6062eecddde3d93?sa=X&ved=2ahUKEwiXr_Hl3sHwAhVCGs0KHZFZDWsQ_BIwEnoECCIQBQ "Google Maps: Kiosk at Coborn’s, 2150 Dakota Ave. S")
+    4. Madison: [Sunshine Foods 215 Van Eps Ave N](https://www.google.com/maps/place/Sunshine+Foods/@44.0063889,-97.1158333,15z/data=!4m2!3m1!1s0x0:0xccfbae71ee3b061d?sa=X&ved=2ahUKEwjuuuLY3sHwAhUJOs0KHXcpASQQ_BIwEnoECB8QBQ "Google Maps: Kiosk at Sunshine Foods, 215 Van Eps Ave N")
+    5. Mitchell: [County Fair Food Store, 1305 W. Havens Ave.](https://www.google.com/maps/place/County+Fair+Food+Store/@43.701453,-98.0449068,17z/data=!3m1!4b1!4m5!3m4!1s0x8786117eef385a9b:0xcd06f1b6b0d32ee3!8m2!3d43.7014491!4d-98.0427181 "Google Maps: Kiosk at County Fair Food Store, 1305 W. Havens Ave")
+    6. Mobridge: [Payless Foods 214 W Grand Crossing](https://www.google.com/maps/place/Payless+Foods/@45.5377205,-100.4359187,15z/data=!4m2!3m1!1s0x0:0x6c1a1488e2e17cbc?sa=X&ved=2ahUKEwiFlfDMsMzyAhVWbs0KHW0RAw0Q_BIwEnoECF4QBQ "Google Maps: Kiosk at Payless Foods, 214 W Grand Crossing")
+    7. Pierre: [Lynn's Dakotamart, 120 W Sioux Ave.](https://www.google.com/maps/search/lynns+dakotamart+pierre/@44.3617893,-100.3727457,15z/data=!3m1!4b1 "Google Maps: Kiosk at Lynn's Dakotamart, 120 W Sioux Ave.")
+    8. Pine Ridge: [Oglala Tribal Headquarters](https://www.google.com/maps/place/Main+St,+Pine+Ridge,+SD+57770/@43.0236124,-102.5720019,17z/data=!3m1!4b1!4m5!3m4!1s0x877b892c6d3388e1:0x3fe5c80e45c968ff!8m2!3d43.0236124!4d-102.5698132 "Google Maps: Kiosk at Oglala Tribal Headquarters")
+    9. Rapid City: [Driver Exam Station 1301 E Catron Blvd](https://www.google.com/maps/place/Rapid+City+Driver's+License+Exam+Station/@44.0361054,-103.193135,15z/data=!4m2!3m1!1s0x0:0x46d3a3c3e2f9e480?sa=X&ved=2ahUKEwiL-ur82sHwAhXSZs0KHXsuDV4Q_BIwGnoECCUQBQ "Google Maps: Kiosk at Driver Exam Station 1301 E Catron Blvd")
+    10. Rapid City: [Pennington County Administration Building, 130 Kansas City St.](https://www.google.com/maps/place/Pennington+County+Treasurer's+Office/@44.0781648,-103.2216067,17z/data=!3m1!4b1!4m5!3m4!1s0x877d432af95dd02b:0xa1ff48db34a9e235!8m2!3d44.078161!4d-103.219418 "Google Maps: Kiosk at Pennington County Administration Building, 130 Kansas City St.")
+    11. Rapid City: [Rushmore Mall, 2200 N. Maple Ave.](https://www.google.com/maps/place/Rushmore+Mall/@44.1070854,-103.2148418,17z/data=!3m1!4b1!4m5!3m4!1s0x877d5d1a523c3999:0x21132e442f699909!8m2!3d44.1070816!4d-103.2126531 "Google Maps: Kiosk at Rushmore Mall, 2200 N. Maple Ave")
+    12. Sioux Falls: [One Stop Shop, 1501 S Highline Ave, Sioux Falls, SD 57110](https://www.google.com/maps/place/1501+S+Highline+Ave,+Sioux+Falls,+SD+57110/@43.5320018,-96.6552384,17z/data=!3m1!4b1!4m6!3m5!1s0x878eb3f05ae279c7:0x9c13512261264be7!8m2!3d43.5320018!4d-96.6552384!16s%2Fg%2F11x8qdslcv?entry=ttu&g_ep=EgoyMDI1MDcwNy4wIKXMDSoASAFQAw%3D%3D "Google Maps: Kiosk at One Stop Shop: 1501 S Highline Ave, Sioux Falls, SD 57110")[](https://www.google.com/maps/place/Driver+License+Exam+Station/@43.5636653,-96.7602718,15z/data=!4m2!3m1!1s0x0:0x2cb10b66360bb944?sa=X&ved=2ahUKEwjNvYPzjcDwAhWPZM0KHdNpBHIQ_BIwGnoECCcQBQ "Google Maps: Kiosk at Driver Exam Station, 1301 E. Catron Blvd.")
+    13. Sioux Falls: [Get-N-Go 5400 E. Arrowhead Pkwy](https://www.google.com/maps/place/Get+'n'+Go/@43.5447086,-96.6561865,15z/data=!4m2!3m1!1s0x0:0xc8c30ee281490e7f?sa=X&ved=2ahUKEwje0tX_8sHwAhUPCc0KHaNwCLkQ_BIwEnoECCMQBQ "Google Maps: Kiosk at Get-N-Go, 5400 E. Arrowhead Pkwy")
+    14. Sioux Falls: [Hy-Vee Food Store, 4101 S. Louise Ave.](https://www.google.com/maps/place/Hy-Vee/@43.5082944,-96.7761127,17z/data=!3m1!4b1!4m5!3m4!1s0x878ec98cb1f37f01:0x5aa45ef9f34f0dc5!8m2!3d43.5082905!4d-96.773924 "Google Maps: Kiosk at Hy-Vee Food Store, 4101 S. Louise Ave")
+    15. Sioux Falls: [Minnehaha County Administration Building, 415 N. Dakota Ave.](https://www.google.com/maps/place/Minnehaha+County+Treasurer/@43.5518778,-96.7325935,17z/data=!4m12!1m6!3m5!1s0x878eb59f172b4579:0xa3d44270bc055115!2sMinnehaha+County+Treasurer!8m2!3d43.5518778!4d-96.7304048!3m4!1s0x878eb59f172b4579:0xa3d44270bc055115!8m2! "Google Maps: Kiosk at Minnehaha County Administration Building, 415 N. Dakota Ave.")
+    16. Spearfish: [Rec Center 122 Recreation Ln](https://www.google.com/maps/place/Spearfish+Rec+%26+Aquatics+Center/@44.5057837,-103.8613383,15z/data=!4m2!3m1!1s0x0:0xceed7558aa297b45?sa=X&ved=2ahUKEwihgvHajcDwAhW2AZ0JHSunDqUQ_BIwE3oECC8QBQ "Google Maps: Kiosk at Rec Center, 122 Recreation Ln")
+    17. Vermillion: [Pump ‘n Pak 629 Stanford St.](https://www.google.com/maps/place/Pump+'n+Pak/@42.7860439,-96.9480263,15z/data=!4m2!3m1!1s0x0:0x64a224d3249f1a60?sa=X&ved=2ahUKEwiW5svMjcDwAhXjdc0KHXwWBIkQ_BIwE3oECCAQBQ "Google Maps: Kiosk at Pump ‘n Pak, 629 Stanford St.")
+    18. Watertown: [Hy-Vee Food Store, 1320 9th Ave. SE](https://www.google.com/maps/place/Hy-Vee/@44.8881958,-97.0958037,17z/data=!3m1!4b1!4m5!3m4!1s0x52ccd64b04b621c5:0x2a13891cdf7c9143!8m2!3d44.888192!4d-97.093615 "Google Maps: Kiosk at Hy-Vee Food Store, 1320 9th Ave. SE")
+    19. Yankton: [Hy-Vee Food Store, 2100 Broadway Ave.](https://www.google.com/maps/place/Hy-Vee/@42.8913243,-97.3975774,17z/data=!3m1!4b1!4m5!3m4!1s0x878fa1a998b800b1:0x611d486428ee6ba4!8m2!3d42.8913204!4d-97.3953887 "Google Maps: Kiosk at Hy-Vee Food Store, 2100 Broadway Ave")
+  3. Individuals and companies may renew online through the online [Vehicle Registration & Plates portal](https://dor.sd.gov/online-services/vehicle-registration-plates/ "Vehicle Registration & Plates").
+
+
+#####  How do I obtain a duplicate title? 
+Vehicles owners may obtain a duplicate title by completing a [Duplicate Title Application](https://dorresources.sd.gov/f/1002 "Duplicate Title Application") along with submitting a $10 fee. Submit the form and payment to the local county treasurer’s office[](https://www.google.com/maps/place/445+E+Capitol+Ave,+Pierre,+SD+57501/@44.3657562,-100.348598,17z/data=!3m1!4b1!4m5!3m4!1s0x8780121e8d3288c7:0x5ded4914dcba1b29!8m2!3d44.3657562!4d-100.3464093).
+#####  What if my address has changed? 
+Contact your [local county treasurer's office](https://dor.sd.gov/government/county-treasurers/contact-county-treasurers/ "Contact County Treasurers") to change your address in your customer record or visit the online [Vehicle Registration & Plates portal](https://dor.sd.gov/online-services/vehicle-registration-plates/ "Vehicle Registration & Plates portal").
+#####  How do I replace a damaged or lost license plate or tags? 
+Contact your [local county treasurer’s office](https://dor.sd.gov/government/county-treasurers/contact-county-treasurers/ "Contact County Treasurers") to complete an [Affidavit for Duplicate License Plate/Validation Sticker](https://sddor.seamlessdocs.com/f/1308 "Affidavit for duplicate License Plates or Registration")[](https://dorresources.sd.gov/f/1823). Fees can be found on the form.
+#####  Can I get an extension on the 45 day requirement to title and register a newly purchased vehicle? 
+Effective July 1, 2015, vehicle owners have 45 days to apply for title and registration of an acquired vehicle. All vehicles acquired prior to July 1, 2015 must have been titled and registered within 30 days of the purchase date.
+There is not a provision for extensions on the 45 day requirement. Interest and penalties will accrue on the motor vehicle excise tax. All fees are assessed from the purchase date regardless of when an applicant applies for title and registration.
+Interest is at a rate of 1 percent or $5, whichever is greater, for the first month; and 1 percent per month thereafter on any application made after 45 days from the date of purchase. (Interest is not calculated on interest.) A one-time penalty equal to 10 percent of the tax or $10, whichever is greater, is automatically applied against any application made after 60 days from the purchase date.
+An applicant will be charged title late fees at a rate of $1 per week up until the 24th week. If the applicant is over this date, the rate automatically maxes to a fee of $50.
+#####  Do I pay motor vehicle excise tax if I transfer a title to my child? 
+No, you don’t. A vehicle is exempt from tax when it is transferred without consideration (no money is exchanged) between spouses, between a parent and child and between siblings. A title transfer fee of $10.00 will apply.
+#####  What do I do with my license plates from my old car when I purchase a new car? 
+South Dakota is a plate with owner state. This means that the license plates are retained by the owner. If you purchase a new vehicle, you will transfer the license plates from your old vehicle to your newly acquired vehicle. You can do this at your [local county treasurer's office](https://dor.sd.gov/government/county-treasurers/contact-county-treasurers/ "County Treasurers Information"). Be sure to take your old plates with you to the county treasurer's office.
+#####  I sold my vehicle privately to an individual, how do I print a seller’s permit for the new owner? 
+A seller’s permit allows the new owner to drive legally while waiting to apply for title. A seller's permit may be printed by the seller through the online [Vehicle Registration & Plates portal](https://dor.sd.gov/online-services/vehicle-registration-plates/ "Vehicle Registration & Plates portal") or may also be obtained at your [local county treasurer's office](https://dor.sd.gov/government/county-treasurers/contact-county-treasurers/ "County Treasurers Information"). The seller's permit is valid for 45 days. The seller has 45 days to deliver title.
+#####  What is the damage disclosure? 
+State law requires that upon the sale, transfer or trade in of a motor vehicle or large boat, the person who sells, transfers or trades the vehicle or large boat, must provide a completed Damage Disclosure Statement to the person to whom the vehicle or large boat is transferred. If a motor vehicle or large boat, which is titled in another jurisdiction, is to be titled in South Dakota, the person who registers the vehicle or large boat (importer) must also complete a Damage Disclosure Statement.
+Effective July 1, 2015, damage disclosure is no longer mandated. Damage disclosure will remain noted on titles issued before July 1, 2015.
+#####  What do I need to do if I move to South Dakota from out of state? 
+If you have titled and licensed your vehicles in another state, you will be granted reciprocity when you come to South Dakota and will not have to pay any additional tax if your state’s tax rate is above South Dakota’s 4% tax rate. If a state with no tax or a lower tax rate than South Dakota’s 4%, then you will need to pay the additional tax rate to match the 4%. You have 90 days from your date of arrival to title and license your vehicle in South Dakota.
+#####  Can I register my vehicle in South Dakota if I live out of state? 
+You should know that your state may prohibit registering your vehicle in another state.
+You will need your original out of state titles, a copy of your state driver license, social security number, and a [Motor Vehicle and Boat Title & Registration Application](https://sddor.seamlessdocs.com/f/1001 "Motor Vehicle or Boat Title & Registration Application"). Take this paperwork to your [local county treasurer's office](https://dor.sd.gov/government/county-treasurers/contact-county-treasurers/ "County Treasurers Information") to complete registration process. They will be able to tell you the appropriate fees pertaining to that county.
+#####  What do I do if I purchased an ATV? 
+In South Dakota an ATV MUST be titled. If purchased in South Dakota, an ATV is subject to the 4% motor vehicle excise tax. However, if purchased by an out of state business, you will need to show proof of tax paid to your local Department of Revenue office. 
+#####  How do I do a title search on a vehicle that was registered in South Dakota? 
+You will need to complete a Drivers Privacy Protection Application (DPPA). Submit completed forms to your [local county treasurer’s office](https://dor.sd.gov/government/county-treasurers/contact-county-treasurers/ "County Treasurers Information") or mail to the SD Motor Vehicle Division in Pierre (address can be found in [contact us](https://dor.sd.gov/contact/ "Contact Information") area). You must qualify to receive this information with one of the following reasons: 
+  1. For use by any government agency
+  2. For any state authorized purpose relating to the operation of a motor vehicle, public safety or for use in connection with car safety, prevention of car theft, and promotion of driver safety
+  3. For use by a business to verify the accuracy of personal information submitted to that business to prevent fraud or pursue legal remedies
+  4. In connection with court, agency or self-regulatory body proceedings
+  5. For use by insurers in connection with claims investigations, antifraud activities, rating or underwriting
+  6. To notify vehicle owners that their vehicle has been towed or impounded
+  7. For use by a licensed private investigative agencies or security services for any purpose by the DPPA
+
+
+#####  How do I confirm a lien on a vehicle? 
+You'll start by visiting [www.sdcars.org](http://www.sdcars.org/ "Visit www.sdcars.org"). Click the VIN CHECK icon, enter a vehicle identification number (VIN) and you will see if there is a lienholder on that vehicle.
+#####  What do I need to sell a vehicle? 
+You will need the [Bill of Sale](https://dorresources.sd.gov/f/1025 "Bill of Sale").
+#####  I sold my vehicle, how do I report the sale? 
+Log into the online [Vehicle Registration & Plates portal](https://dor.sd.gov/online-services/vehicle-registration-plates/ "Vehicle Registration & Plates portal"), select the vehicle that was sold and choose report of sale in the dropdown menu.
+#####  How many vehicles can I sell before I need a dealer’s license? 
+People who engage in the business of selling vehicles, whether exclusively or in addition to another occupation, are required to have a [motor vehicle dealer license](https://dor.sd.gov/businesses/motor-vehicle/dealer-vehicle-licenses/ "Dealer Vehicle Licenses").
+#####  How do I get a dealer’s license? 
+Visit the [vehicle dealer section](https://dor.sd.gov/businesses/motor-vehicle/dealer-vehicle-licenses/ "Dealer Vehicle Licenses") of our page and apply.
+#####  What is ELT? 
+ELT stands for Electronic Lien Title. When you have a lienholder on your vehicle loan, your title will remain in an electronic form only until the time your loan is paid off and the lienholder releases their interest in your vehicle. At that time a paper title will be printed and mailed to the location indicated by the lienholder in the release. South Dakota has been an ELT state since October 2012.
+#####  What does an ELT provider do? 
+When a title record is issued with a lien or a new lien is perfected, the provider supplies the lender with an electronic message of the lien perfection. When a lien is needed to be released, the lender would send an electronic lien release to the Motor Vehicle Division through the provider. Providers also supply other services for their lenders.
+#####  What is the cost to use an ELT provider? 
+The ELT vendors provide several different options for your business, so we would suggest that you contact them directly to determine the costs that will be associated with your participation in the ELT program.
+#####  Does a Lender have to use a Provider? 
+No, if the lender chooses to not use a provider, no notice is sent to the lender regarding any lien perfections.
+#####  How does a lender note a lien if not using a provider? 
+If there is a current title document, the title along with the loan contract and $10.00 lien fee is submitted to the titled owner’s county treasurer’s office. The county will note the lien in the system and keep the title. If the title is already electronic, the loan contract and $10.00 fee is remitted to the county treasurer and lien is noted.
+#####  If a lender does not utilize a provider, what do they get for a notice of lien perfection? 
+The lender receives no notification. The lender will be able to verify lien perfection by checking the VIN in the online [Vehicle Registration & Plates portal](https://dor.sd.gov/online-services/vehicle-registration-plates/ "Vehicle Registration & Plates portal").
+#####  How does a lender note a second (junior) lien on an existing ELT record? 
+If the title is already electronic, the loan contract and $10.00 fee is remitted to the owner’s [local county treasurer’s office](https://dor.sd.gov/government/county-treasurers/contact-county-treasurers/ "County Treasurers Information"), and the lien is noted.
+#####  Who should I contact if I have questions about the ELT process? 
+For questions about the Electronic Lien & Title process, please email us at DOR.DMVELT@state.sd.us.
+See the [Motor Vehicle page](https://dor.sd.gov/businesses/motor-vehicle/ "Motor Vehicle") under the Businesses section of our website for more information.
+[Read More](https://dor.sd.gov/businesses/motor-vehicle/ "Motor Vehicle")
+## Get Started by Vehicle Type
+* * *
+#### [Commercial Vehicles](https://dor.sd.gov/businesses/motor-vehicle/commercial-vehicles/)
+Complete an application for your commercial motor vehicle title and registration and purchase license plates.
+[Learn More About Commercial Vehicles ›](https://dor.sd.gov/businesses/motor-vehicle/commercial-vehicles/)
+#### [Dealer Vehicle Licenses](https://dor.sd.gov/businesses/motor-vehicle/dealer-vehicle-licenses/)
+Apply for dealer licensing and plates.
+[Learn More About Dealer Vehicle Licenses ›](https://dor.sd.gov/businesses/motor-vehicle/dealer-vehicle-licenses/)
+#### [Harvest Vehicles](https://dor.sd.gov/businesses/motor-vehicle/harvest-vehicles/)
+Apply for harvest vehicle permits.
+[Learn More About Harvest Vehicles ›](https://dor.sd.gov/businesses/motor-vehicle/harvest-vehicles/)
+#### [Nonprofit Organization Vehicles](https://dor.sd.gov/businesses/motor-vehicle/nonprofit-organization-vehicles/)
+Apply and purchase emblem decals to be sold by your organization for use on the special emblem license plates.
+[Learn More About Nonprofit Organization Vehicles ›](https://dor.sd.gov/businesses/motor-vehicle/nonprofit-organization-vehicles/)
+#### [Motor Carrier Services](https://dor.sd.gov/businesses/motor-vehicle/motor-carrier-services/)
+Register for the International Registration Plan and find SD trucking information.
+[Learn More About Motor Carrier Services ›](https://dor.sd.gov/businesses/motor-vehicle/motor-carrier-services/)
+## Email Sign Up
+Get the latest Department of Revenue [news and updates](https://dor.sd.gov/businesses/motor-vehicle/#SignUp) sent straight to your inbox.
+First Name
+Last Name
+Email
+By submitting this form, you agree to receive marketing and other information from DOR which will be collected as outlined in our [privacy policy](https://sd.gov/privacy.aspx "privacy policy"). 
+Quarterly Updates Education, Workshops & Webinars Deadlines & Due Dates
+![Department of Revenue logo](https://dor.sd.gov/images/logo-dor.svg?v=r0XjIEsmZhcMbN-uaSruyzk1sCAU30oDIiiKNmdn5Os)
+[445 E Capitol Avenue, Pierre, SD 57501](https://www.google.com/maps/place/South+Dakota+Department+of+Revenue/@44.3658843,-100.416591,12z/data=!4m8!1m2!2m1!1ssouth+dakota+department+of+revenue!3m4!1s0x8780121e8c60313f:0xd9c4c2f4b705024!8m2!3d44.3658843!4d-100.3465532)
+  * [Careers](https://sd.gov/employment.aspx "Careers")
+  * [Contact](https://dor.sd.gov/contact/ "Contact")
+  * [Report Tax Fraud](https://sddor.seamlessdocs.com/f/2038 "Report Tax Fraud")
+  * [DOR Intranet](https://intranetdor.sd.gov/ "DOR Intranet")
+  * [SD.GOV](http://sd.gov/ "SD.GOV")
+  * [SD News](https://www.sd.gov/news "SD News")
+  * [Privacy Policy](http://sd.gov/privacy.aspx "Privacy Policy")
+  * [Request Public Records](https://www.sd.gov/cs?id=sc_cat_item&sys_id=f7f939eddbd4b150b2fb93d4f39619c0 "Request Public Records")
+
+
+[ ![Facebook](https://dor.sd.gov/images/icons/social/facebook.svg?v=X5TgU87k6EWyozGSxytGFidemfRWKto4aWMki40oqKM) ](https://www.facebook.com/SDRevenue "Facebook")
+[ ![YouTube](https://dor.sd.gov/images/icons/social/youtube.svg?v=wtnXNyFUMpzZmsyp497JiKPfcN5bh4VRX-JvJZ5NWlA) ](http://www.youtube.com/user/SouthDakotaDOR "YouTube")
+[ ![Twitter](https://dor.sd.gov/images/icons/social/twitter.svg?v=6d4YrOHi9r_1XXewfEYxt6nOTAX9Adz6aaCpV6K-fPo) ](https://www.twitter.com/SDRevenue "Twitter")
+© Copyright 2025 - State of South Dakota
+

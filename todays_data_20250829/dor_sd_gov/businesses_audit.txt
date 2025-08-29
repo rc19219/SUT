@@ -1,0 +1,382 @@
+URL: https://dor.sd.gov/businesses/audit/
+TITLE: Audit | South Dakota Department of Revenue
+TYPE: WEBPAGE
+SCRAPED: 2025-08-29 11:53:30
+FINANCIAL PATTERNS FOUND: 8
+------------------------------------------------------------
+DETECTED PATTERNS:
+1%, 1.5%, 10%, rate of 1, rate of 1, $100,000, tax liability, tax liability
+
+------------------------------------------------------------
+CONTENT:
+
+[ Skip to main content ](https://dor.sd.gov/businesses/audit/#content)
+What Can We Do For You Today?
+Search DOR.GOV.SD p Choose a filter to refine your search All dor.sd.gov Pages Forms / Resources
+Close search
+  * [Pages](https://dor.sd.gov/businesses/audit/#pagesResults)
+  * [Forms / Resources](https://dor.sd.gov/businesses/audit/#formsResourcesResults)
+  * [All dor.sd.gov](https://dor.sd.gov/businesses/audit/#allResults)
+
+
+[![South Dakota Department of Revenue](https://dor.sd.gov/images/logo-dor.svg?v=r0XjIEsmZhcMbN-uaSruyzk1sCAU30oDIiiKNmdn5Os)](https://dor.sd.gov/)
+#### Site navigation
+  * [Contact](https://dor.sd.gov/contact/ "Contact")
+  * [About DOR](https://dor.sd.gov/about-dor/ "About DOR")
+  * [Upcoming Dates](https://dor.sd.gov/calendar/ "Upcoming Dates")
+  * [Latest News](https://dor.sd.gov/newsroom/ "Latest News")
+  * [Live Chat](https://dorchat.sd.gov/Chat?id=NjRlZjkxYzktY2I1MS00Y2UxLThjM2YtMWE1NmQ1Mzk4OTkw "Live Chat")
+
+
+  * [ ](https://dor.sd.gov/individuals/ "Individuals")›
+    * ‹ Back
+    * [Gaming](https://dor.sd.gov/individuals/gaming/ "Gaming")›
+      * ‹ BackGaming
+      * [Gaming for Individuals](https://dor.sd.gov/individuals/gaming/ "Gaming for Individuals")
+* * *
+Find information about the South Dakota Commission on Gaming, laws, regulations and the seven types of gaming licenses issued to the general public.
+[Learn More](https://dor.sd.gov/individuals/gaming/ "Learn More")
+    * [Lottery](https://dor.sd.gov/individuals/lottery/ "Lottery")›
+      * ‹ BackLottery
+      * [Lottery for Individuals](https://dor.sd.gov/individuals/lottery/ "Lottery for Individuals")
+* * *
+Everything you need to know about games, licensing and beneficiaries of the South Dakota Lottery.
+[Learn More](https://dor.sd.gov/individuals/lottery/ "Learn More")
+    * [Motor Vehicle](https://dor.sd.gov/individuals/motor-vehicle/ "Motor Vehicle")›
+      * ‹ BackMotor Vehicle
+      * [ All Vehicles - Title, Fees & Registration ](https://dor.sd.gov/individuals/motor-vehicle/all-vehicles-title-fees-registration/ "All Vehicles - Title, Fees & Registration")
+      * [ Boats ](https://dor.sd.gov/individuals/motor-vehicle/boats/ "Boats")
+      * [ Cars, Trucks & Vans ](https://dor.sd.gov/individuals/motor-vehicle/cars-trucks-vans/ "Cars, Trucks & Vans")
+      * [ Historic Vehicles ](https://dor.sd.gov/individuals/motor-vehicle/historic-vehicles/ "Historic Vehicles")
+      * [ Low Speed Vehicles ](https://dor.sd.gov/individuals/motor-vehicle/low-speed-vehicles/ "Low Speed Vehicles")
+      * [ Manufactured Homes & Mobile Homes ](https://dor.sd.gov/individuals/motor-vehicle/manufactured-homes-mobile-homes/ "Manufactured Homes & Mobile Homes")
+      * [ Motorcycles ](https://dor.sd.gov/individuals/motor-vehicle/motorcycles/ "Motorcycles")
+      * [ Off-Road Vehicles ](https://dor.sd.gov/individuals/motor-vehicle/off-road-vehicles/ "Off-Road Vehicles")
+      * [ Rebuilt Vehicles ](https://dor.sd.gov/individuals/motor-vehicle/rebuilt-vehicles/ "Rebuilt Vehicles")
+      * [ Recreational, Motorhomes & Converted Housecars ](https://dor.sd.gov/individuals/motor-vehicle/recreational-motorhomes-converted-housecars/ "Recreational, Motorhomes & Converted Housecars")
+      * [ Snowmobiles ](https://dor.sd.gov/individuals/motor-vehicle/snowmobiles/ "Snowmobiles")
+      * [ Trailers ](https://dor.sd.gov/individuals/motor-vehicle/trailers/ "Trailers")
+      * [ Trucking ](https://dor.sd.gov/individuals/motor-vehicle/trucking/ "Trucking")
+    * [Taxes](https://dor.sd.gov/individuals/taxes/ "Taxes")›
+      * ‹ BackTaxes
+      * [ Alcohol ](https://dor.sd.gov/individuals/taxes/alcohol/ "Alcohol")
+      * [ Cigarette & Tobacco ](https://dor.sd.gov/individuals/taxes/cigarette-tobacco/ "Cigarette & Tobacco")
+      * [ Motor Fuel ](https://dor.sd.gov/individuals/taxes/motor-fuel/ "Motor Fuel")
+      * [ Property Tax ](https://dor.sd.gov/individuals/taxes/property-tax/ "Property Tax")
+      * [ Sales & Use Tax ](https://dor.sd.gov/individuals/taxes/sales-use-tax/ "Sales & Use Tax")
+      * [Individual Taxes](https://dor.sd.gov/individuals/taxes/ "Individual Taxes")
+* * *
+Learn what you need to file, pay and find information on taxes for the general public.
+[Learn More](https://dor.sd.gov/individuals/taxes/ "Learn More")
+    * [Individual FAQs](https://dor.sd.gov/individuals/individual-faqs/ "Individual FAQs")›
+      * ‹ BackIndividual FAQs
+      * [Individual Frequently Asked Questions](https://dor.sd.gov/individuals/individual-faqs/ "Individual Frequently Asked Questions")
+* * *
+See what other South Dakota taxpayers are asking the Department of Revenue.
+[Get Answers](https://dor.sd.gov/individuals/individual-faqs/ "Get Answers")
+    * [Individual Forms / Resources](https://sddor.seamlessdocs.com/sc/individual-forms/ "Individual Forms / Resources")›
+      * ‹ BackIndividual Forms / Resources
+      * [Individual Forms / Resources](https://sddor.seamlessdocs.com/sc/individual-forms/ "Individual Forms / Resources")
+* * *
+Quick links to help you find the right individual forms fast.
+[Find Individual Forms](https://sddor.seamlessdocs.com/sc/individual-forms/ "Find Individual Forms")
+  * [ ](https://dor.sd.gov/businesses/ "Businesses")›
+    * ‹ Back
+    * [Audit](https://dor.sd.gov/businesses/audit/ "Audit")›
+      * ‹ BackAudit
+      * [Business Audit](https://dor.sd.gov/businesses/audit/ "Business Audit")
+* * *
+See how DOR approaches reporting errors and omissions and correcting reporting habits for future returns.
+[Learn More](https://dor.sd.gov/businesses/audit/ "Learn More")
+    * [Gaming](https://dor.sd.gov/businesses/gaming/ "Gaming")›
+      * ‹ BackGaming
+      * [Gaming for Businesses](https://dor.sd.gov/businesses/gaming/ "Gaming for Businesses")
+* * *
+Find information on the South Dakota Commission on Gaming, applications, fees, annual reports, industry statistics and more.
+[Learn More](https://dor.sd.gov/businesses/gaming/ "Learn More")
+    * [Lottery](https://dor.sd.gov/businesses/lottery/ "Lottery")›
+      * ‹ BackLottery
+      * [Lottery for Businesses](https://dor.sd.gov/businesses/lottery/ "Lottery for Businesses")
+* * *
+Everything you need to know about games, licensing and South Dakota Lottery retailers.
+[Learn More](https://dor.sd.gov/businesses/lottery/ "Learn More")
+    * [Motor Vehicle](https://dor.sd.gov/businesses/motor-vehicle/ "Motor Vehicle")›
+      * ‹ BackMotor Vehicle
+      * [ Commercial Vehicles ](https://dor.sd.gov/businesses/motor-vehicle/commercial-vehicles/ "Commercial Vehicles")
+      * [ Dealer Vehicle Licenses ](https://dor.sd.gov/businesses/motor-vehicle/dealer-vehicle-licenses/ "Dealer Vehicle Licenses")
+      * [ Harvest Vehicles ](https://dor.sd.gov/businesses/motor-vehicle/harvest-vehicles/ "Harvest Vehicles")
+      * [ Nonprofit Organization Vehicles ](https://dor.sd.gov/businesses/motor-vehicle/nonprofit-organization-vehicles/ "Nonprofit Organization Vehicles")
+      * [ Motor Carrier Services ](https://dor.sd.gov/businesses/motor-vehicle/motor-carrier-services/ "Motor Carrier Services")
+      * [Business Motor Vehicle ](https://dor.sd.gov/businesses/motor-vehicle/ "Business Motor Vehicle ")
+* * *
+Get all the information you will need to title or renew your vehicle registration and license plates for your commercial vehicles.
+[Learn More](https://dor.sd.gov/businesses/motor-vehicle/ "Learn More")
+    * [Taxes](https://dor.sd.gov/businesses/taxes/ "Taxes")›
+      * ‹ BackTaxes
+      * [ Telecommunication Emergency Surcharges & Fees ](https://dor.sd.gov/businesses/taxes/telecommunication-emergency-surcharges-fees/ "Telecommunication Emergency Surcharges & Fees")
+      * [ Alcohol ](https://dor.sd.gov/businesses/taxes/alcohol/ "Alcohol")
+      * [ Amusement Machines ](https://dor.sd.gov/businesses/taxes/amusement-machines/ "Amusement Machines")
+      * [ Bank Franchise Tax ](https://dor.sd.gov/businesses/taxes/bank-franchise-tax/ "Bank Franchise Tax")
+      * [ Cigarette & Tobacco ](https://dor.sd.gov/businesses/taxes/cigarette-tobacco/ "Cigarette & Tobacco")
+      * [ Coin Operated Washers & Dryers ](https://dor.sd.gov/businesses/taxes/coin-operated-washers-dryers/ "Coin Operated Washers & Dryers")
+      * [ Contractor's Excise Tax ](https://dor.sd.gov/businesses/taxes/contractors-excise-tax/ "Contractor's Excise Tax")
+      * [ Motor Fuel ](https://dor.sd.gov/businesses/taxes/motor-fuel/ "Motor Fuel")
+      * [ Municipal Tax ](https://dor.sd.gov/businesses/taxes/municipal-tax/ "Municipal Tax")
+      * [ Precious Metal & Energy Mineral Severance Taxes & Conservation Tax ](https://dor.sd.gov/businesses/taxes/precious-metal-energy-mineral-severance-taxes-conservation-tax/ "Precious Metal & Energy Mineral Severance Taxes & Conservation Tax")
+      * [ Property Tax ](https://dor.sd.gov/businesses/taxes/property-tax/ "Property Tax")
+      * [ Sales & Use Tax ](https://dor.sd.gov/businesses/taxes/sales-use-tax/ "Sales & Use Tax")
+      * [ Tourism Tax ](https://dor.sd.gov/businesses/taxes/tourism-tax/ "Tourism Tax")
+    * [Sturgis Motorcycle Rally](https://dor.sd.gov/businesses/sturgis-motorcycle-rally/ "Sturgis Motorcycle Rally")›
+      * ‹ BackSturgis Motorcycle Rally
+      * [Sturgis Motor Cycle Rally](https://dor.sd.gov/businesses/sturgis-motorcycle-rally/ "Sturgis Motor Cycle Rally")
+* * *
+Find information, tax applications, licensing instructions and municipal tax rates for the Sturgis Motorcycle Rally.
+[Learn More](https://dor.sd.gov/businesses/sturgis-motorcycle-rally/ "Learn More")
+    * [Business FAQs](https://dor.sd.gov/businesses/business-faqs/ "Business FAQs")›
+      * ‹ BackBusiness FAQs
+      * [Business Frequently Asked Questions](https://dor.sd.gov/businesses/business-faqs/ "Business Frequently Asked Questions")
+* * *
+See what other business owners are asking the Department of Revenue.
+[Get Answers](https://dor.sd.gov/businesses/business-faqs/ "Get Answers")
+    * [Business Forms / Resources](https://sddor.seamlessdocs.com/sc/business-forms/ "Business Forms / Resources")›
+      * ‹ BackBusiness Forms / Resources
+      * [Business Forms / Resources](https://sddor.seamlessdocs.com/sc/business-forms/ "Business Forms / Resources")
+* * *
+Quick links to help you find the right business forms fast.
+[See Business Forms](https://sddor.seamlessdocs.com/sc/business-forms/ "See Business Forms")
+  * [ ](https://dor.sd.gov/government/ "Government")›
+    * ‹ Back
+    * [County Auditors](https://dor.sd.gov/government/county-auditors/ "County Auditors")›
+      * ‹ BackCounty Auditors
+      * [South Dakota County Auditors](https://dor.sd.gov/government/county-auditors/ "South Dakota County Auditors")
+* * *
+In-depth content for South Dakota County Auditors on calculating growth percentage, CPI, Relief Programs, TIF and other property tax essentials.
+[See County Resources](https://dor.sd.gov/government/county-auditors/ "See County Resources")
+    * [County Commissioners](https://dor.sd.gov/government/county-commissioners/ "County Commissioners")›
+      * ‹ BackCounty Commissioners
+      * [South Dakota County Commissioners](https://dor.sd.gov/government/county-commissioners/ "South Dakota County Commissioners")
+* * *
+Important South Dakota County Commissioners information including land assessment data, buffer strips and frequently asked levy questions.
+[See County Resources](https://dor.sd.gov/government/county-commissioners/ "See County Resources")
+    * [County Treasurers](https://dor.sd.gov/government/county-treasurers/ "County Treasurers")›
+      * ‹ BackCounty Treasurers
+      * [South Dakota County Treasurers](https://dor.sd.gov/government/county-treasurers/ "South Dakota County Treasurers")
+* * *
+Information for South Dakota County Treasurers to explain property tax relief programs, tax deeds and special assessments.
+[See County Resources](https://dor.sd.gov/government/county-treasurers/ "See County Resources")
+    * [Director of Equalization](https://dor.sd.gov/government/director-of-equalization/ "Director of Equalization")›
+      * ‹ BackDirector of Equalization
+      * [South Dakota Directors of Equalization](https://dor.sd.gov/government/director-of-equalization/ "South Dakota Directors of Equalization")
+* * *
+South Dakota Directors of Equalization knowledge base for property tax exemptions, sales / ratio and growth definitions.
+[See County Resources](https://dor.sd.gov/government/director-of-equalization/ "See County Resources")
+    * [Exempt Entities - Higher Education, Mass Transit & Tribal](https://dor.sd.gov/government/exempt-entities-higher-education-mass-transit-tribal/ "Exempt Entities - Higher Education, Mass Transit & Tribal")›
+      * ‹ BackExempt Entities - Higher Education, Mass Transit & Tribal
+      * [Government Motor Vehicle](https://dor.sd.gov/government/exempt-entities-higher-education-mass-transit-tribal/ "Government Motor Vehicle")
+* * *
+Get all the information you will need to title or renew your vehicle registration and license plates for your government vehicles.
+[Learn More](https://dor.sd.gov/government/exempt-entities-higher-education-mass-transit-tribal/ "Learn More")
+    * [Register of Deeds](https://dor.sd.gov/government/register-of-deeds/ "Register of Deeds")›
+      * ‹ BackRegister of Deeds
+      * [South Dakota Registers of Deeds](https://dor.sd.gov/government/register-of-deeds/ "South Dakota Registers of Deeds")
+* * *
+Essentials for Registers of Deeds relating to real estate value, deed transfers, sequence numbers and more.
+[See County Resources](https://dor.sd.gov/government/register-of-deeds/ "See County Resources")
+    * [Government FAQs](https://dor.sd.gov/government/government-faqs/ "Government FAQs")›
+      * ‹ BackGovernment FAQs
+      * [Government Frequently Asked Questions](https://dor.sd.gov/government/government-faqs/ "Government Frequently Asked Questions")
+* * *
+South Dakota government officials can find answers to frequently asked questions for local governments.
+[Get Answers](https://dor.sd.gov/government/government-faqs/ "Get Answers")
+    * [Government Forms / Resources](https://sddor.seamlessdocs.com/sc/government-forms/ "Government Forms / Resources")›
+      * ‹ BackGovernment Forms / Resources
+      * [Government Forms / Resources](https://sddor.seamlessdocs.com/sc/government-forms "Government Forms / Resources")
+* * *
+Quick links to help you find the right government forms fast.
+[See Government Forms](https://sddor.seamlessdocs.com/sc/government-forms "See Government Forms")
+  * [ ](https://sddor.seamlessdocs.com/sc/ "Forms / Resources")›
+    * ‹ Back
+    * [Business Forms](https://sddor.seamlessdocs.com/sc/business-forms/ "Business Forms")
+    * [Government Forms](https://sddor.seamlessdocs.com/sc/government-forms/ "Government Forms")
+    * [Individual Forms](https://sddor.seamlessdocs.com/sc/individual-forms/ "Individual Forms")
+    * [Master Form List](https://sddor.seamlessdocs.com/sc/master-forms/ "Master Form List")
+    * [Publications](https://sddor.seamlessdocs.com/sc/publications/ "Publications")›
+      * ‹ BackPublications
+      * [ Annual Reports ](https://sddor.seamlessdocs.com/sc/publications-annual-reports/ "Annual Reports")
+      * [ Guides ](https://sddor.seamlessdocs.com/sc/publications-guides/ "Guides")
+      * [ Newsletters ](https://sddor.seamlessdocs.com/sc/publications-newsletters/ "Newsletters")
+      * [ Sales Tax Rate Charts ](https://sddor.seamlessdocs.com/sc/publications-sales-tax-rate-charts/ "Sales Tax Rate Charts")
+      * [ Tax Facts ](https://sddor.seamlessdocs.com/sc/publications-tax-facts/ "Tax Facts")
+    * [Statistics](https://sddor.seamlessdocs.com/sc/statistics/ "Statistics")
+
+
+  * ![](https://dor.sd.gov/images/icons/search/search-dark.svg?v=qwfVNVDZwS-DU-WzbccI5H0IqugKRhnvplca1eRvjD0)
+  * [Online Services](https://dor.sd.gov/online-services/)
+
+
+Businesses
+The Motor Vehicle Division experiencing a backlog of up to three months,   
+[click here to request expedited title](https://dor.sd.gov/newsroom/request-a-vehicle-or-boat-title/ "Request A Title"). 
+  1. [Home](https://dor.sd.gov/)
+  2. [Businesses](https://dor.sd.gov/businesses/)
+  3. Audit
+
+
+# Audit
+![Business Owner Working](https://dor.sd.gov/media/mmumwmjz/business_shopowner.jpg)
+If you are in business for any length of time, you can expect a visit from a Department of Revenue auditor. This is no cause for alarm; taxpayers are audited regularly, and you shouldn't feel that your account is under suspicion for any tax liability. In pursuant to [South Dakota law 10-59-5](http://sdlegislature.gov/Statutes/Codified_Laws/DisplayStatute.aspx?Type=Statute&Statute=10-59-5 "SDCL 10-59-5"), the South Dakota Department of Revenue reserves the right to conduct audits when the reported sales, use and/or excise tax varies significantly from what is expected. Our parameters are based on industry, location, past reporting and other factors. If you are currently involved with an audit, please [contact your local auditor](https://dor.sd.gov/contact/ "Contact Auditor") for more detailed information.
+* * *
+## Quick Navigation
+###### [Record Retention](https://dor.sd.gov/businesses/audit/#record)
+###### [What To Do if Your Business is Selected](https://dor.sd.gov/businesses/audit/#selected)
+###### [Appealing an Audit](https://dor.sd.gov/businesses/audit/#appeal)
+###### [Have a Question About Your Audit?](https://dor.sd.gov/businesses/audit/#question)
+###### [Make a Payment](https://dor.sd.gov/businesses/audit/#pay)
+###### [Interest & Penalty](https://dor.sd.gov/businesses/audit/#penalty)
+###### [Common Errors Found in Audits](https://dor.sd.gov/businesses/audit/#error)
+###### [Online Forms](https://dor.sd.gov/businesses/audit/#forms)
+* * *
+## Record Retention
+In accordance with[ Administrative Rule 64:06:01:35](https://sdlegislature.gov/Rules/Administrative/21047 "Administrative Rule 64:06:01:35"), if selected for examination, business records supporting your tax liability will be requested by the auditor and must be provided within 60 days of the audit commencement date. All businesses should maintain these records for at least the current month and the previous 36 months. Records that should be retained include:
+### Gross Receipts
+  * Sales and billing invoices
+  * General and subsidiary ledgers
+  * Cash register tapes - journal tapes, detail tapes, Z tapes, guest checks
+  * Bank deposit slips and statements
+  * Sales and/or cash receipts journal
+  * Contracts
+
+
+### Deductions Support
+  * Resale certificates
+  * Proof of exemption (exemption certificate or proof of government funds)
+  * Bills of lading or other proof of delivery
+  * Credit memorandums
+  * Bad debts as claimed on federal income tax returns
+
+
+### Use Tax
+  * Purchase Invoices
+  * Cash Disbursement Journal or Check Register
+  * Fixed Assets Schedule
+  * Inventory withdrawal records
+  * Depreciation Schedules
+
+
+## What To Do if Your Business is Selected
+If your business is selected for an examination, you will receive a Notice of Intent to Audit at least 30 days before the commencement of the audit. Once the notice is received, all records should be procured for the return periods on the notice of intent. Unlicensed businesses and businesses convicted of tax fraud are not limited to a three-year look back and may be audited from the start of their business forward. Anyone who fails or refuses to exhibit the records and books required to the Department of Revenue for examination could be found guilty of a Class 1 misdemeanor.
+## Appealing an Audit
+If you believe your assessment is based on a mistake of fact or an error of law, a written request for hearing must be mailed within 60 days from the date of the Certificate of Assessment was mailed to you. See the [Audit Tax Facts (PDF)](https://dor.sd.gov/media/y4wlbawx/audits.pdf "Tax Fact Audits") to learn more.
+## Have a Question About Your Audit?
+If you have received a notice of intent, are currently involved with an audit and have a question please contact your auditor or their supervisor. 
+![Business Owner Meeting with Advisor](https://dor.sd.gov/media/0syhbxse/business_businessmeeting.jpg)
+Office | Office Phone | Audit Supervisor  
+---|---|---  
+Office | Office Phone | Audit Supervisor  
+**Aberdeen** | [(605) 626-2218](tel:6056262218 "Call \(605\) 626-2218") | Brian Hertel  
+**Pierre** | [(605) 773-3311](tel:6057733311 "Call \(605\) 773-3311") | Doug Nelson   
+**Rapid City** | [(605) 394-2332](tel:6053942332 "Call \(605\) 394-2332") | Rob Sheffield  
+**Sioux Falls** | [(605) 367-5800](tel:6053675800 "Call \(605\) 367-5800") | Dan Webster  
+**Yankton** | [(605) 668-2939](tel:6056682939 "Call \(605\) 668-2939") | Doug Nelson   
+## Making a Payment
+We have put together some instructions to help you submit your payment electronically.
+[Instruction to Make an Audit Payment](https://dor.sd.gov/media/jjsmf3zv/making-an-audit-payment.pdf "Making An Audit Payment")
+If you have received a certificate of assessment and are ready to make a payment, click the link below:
+[Make An Audit Payment](https://apps.sd.gov/RV23EPath/ElectronicPayment.aspx "SD EPath")
+## Interest & Penalty
+Interest is assessed anytime the tax obligation is under paid. It is assessed at a rate of 1% per month or partial month, the tax obligation remains outstanding. If the failure to pay the tax was with the intent to avoid or delay the payment of tax, a rate of 1.5% per month will be assessed. A penalty of 10% of the tax will be assessed on errors related to any return that was not filed with 30 days of the return due date.
+## Common Errors Found in Audits
+Based on our experience, the following is a breakdown of the most common errors found during audits.
+### Common Sales Tax Errors
+  1. Under-reporting of [sales tax](https://dor.sd.gov/businesses/taxes/sales-use-tax/ "Sales & Use Tax") due to poor record keeping.
+  2. Exempting sales to taxable customers such as churches and 501(c)3 entities.
+  3. [Municipal tax (PDF)](https://dor.sd.gov/media/03jm4rnc/municipalities.pdf "Tax Fact Municipalities") and Municipal Gross Receipts Tax (MGRT) reporting errors.
+  4. Not having valid [exemption certificates (PDF)](https://dor.sd.gov/media/q0xpvden/exemption-certificate.pdf "Tax Fact Exemption Certificate") on file.
+  5. Sales tax charged on construction services subject to excise tax.
+
+
+### Common Use Tax Errors
+  1. Not remitting [use tax (PDF)](https://dor.sd.gov/media/pzkjzc1y/use-tax-business.pdf "Tax Fact Business Use Tax") on untaxed goods and services purchased/used.
+  2. Not remitting use tax on items taken from inventory and used personally or in your business.
+  3. Not remitting use tax on owner-furnished materials (OFM).
+  4. Not remitting use tax on equipment brought in from out of state.
+  5. Use tax overpaid in error on purchases of services subject to excise tax.
+  6. Not retaining invoices for purchases made on a credit card 
+
+
+### Common Excise Tax Errors
+  1. Not remitting excise tax on owner-furnished materials (OFM).
+  2. Not reporting excise tax on work performed for Local, State or Federal Gov’t agencies.
+  3. Excise tax charged on construction services subject to sales tax.
+  4. Not including the excise tax invoiced and collected in reported gross receipts which you can learn more about in the [Contractor's Excise Tax Guide (PDF)](https://dor.sd.gov/media/vbrjnxw3/2023-1-contractors-excise-tax-guide.pdf "2023 1 Contractors Excise Tax Guide").
+  5. Under-reporting of excise tax due to poor record keeping. See the following Contractor's Excise Tax Facts: 
+     * [Agriculture Machinery, Attachment Units, and Irrigation Equipment (PDF)](https://dor.sd.gov/businesses/audit/ "Tax Fact Ag Equipment")
+     * [Audits (PDF)](https://dor.sd.gov/media/y4wlbawx/audits.pdf "Tax Fact Audits")
+     * [Communications Equipment - Installation & Repair (PDF)](https://dor.sd.gov/media/zkvah4hi/communication-equipment.pdf "Tax Fact Communication Equipment")
+     * [County Governments (PDF)](https://dor.sd.gov/media/gzaea1h1/county-governments.pdf "Tax Fact County Governments")
+     * [Flooring (PDF)](https://dor.sd.gov/media/3fopa03j/flooring.pdf "Tax Fact Flooring")
+     * [Gravel (PDF)](https://dor.sd.gov/media/rvma3e0k/gravel.pdf "Tax Fact Gravel")
+     * [Investigative Services Bureau (PDF)](https://dor.sd.gov/media/3fndln1u/investigative-services-bureau.pdf "Tax Fact Investigative Services Bureau")
+     * [Landscaping & Lawn Care (PDF)](https://dor.sd.gov/media/gsinydrd/landscaping.pdf "Tax Fact Landscaping")
+     * [License Requirements for Sales, Use & Contractor's Excise Tax (PDF)](https://dor.sd.gov/media/qn3a1y31/license-requirements-for-sales-use-contractors-excise-tax.pdf "Tax Fact License Requirements For Sales, Use & Contractor's Excise Tax")
+     * [Manufactured and Modular Homes (PDF)](https://dor.sd.gov/media/abtk42do/manufactured-modular-homes.pdf "Tax Fact Modular Homes")
+     * [Metal Mining (PDF)](https://dor.sd.gov/media/lpjk2q5i/metal-mining.pdf "Tax Fact Metal Mining")
+     * [Municipalities (PDF)](https://dor.sd.gov/media/03jm4rnc/municipalities.pdf "Tax Fact Municipalities")
+     * [Oil & Gas Field Services (PDF)](https://dor.sd.gov/media/a2bmbd2m/oil-gas-field-services.pdf "Tax Fact Oil Gas Field Services")
+     * [Qualified Utilities (PDF)](https://dor.sd.gov/media/jjmb1iot/qualified-utility-projects.pdf "Tax Fact Qualified Utilities")
+     * [Realty Improvements for Exempt Entities (PDF)](https://dor.sd.gov/media/3jdjtphx/realty-improvement-for-sales-tax-exempt-entities.pdf "Tax Fact Realty Improvement Exempt Entities")
+     * [Self Contractors (PDF)](https://dor.sd.gov/media/r14irlvd/self-contractors.pdf "Tax Fact Self Contractors")
+     * [South Dakota's Tax Refund And Tax Delay Payment Programs (PDF)](https://dor.sd.gov/media/4uhntclu/sd-tax-refund-and-tax-delay-payment-programs.pdf "SD Tax Refund and Tax Delay Payment Process")[](https://dor.sd.gov/media/4uhntclu/sd-tax-refund-and-tax-delay-payment-programs.pdf "Sdtaxrefundandtaxdelaypaymentprograms0714")
+     * [Speculative Builders and the $100,000 Rule (PDF)](https://dor.sd.gov/media/1txbxemb/speculative-builders-and-the-100-000-rule.pdf "Tax Fact Spec Builders")
+     * [State Water Resources Management Systems (PDF)](https://dor.sd.gov/media/f2bd5xjs/state-water-resources-management-systems.pdf "Tax Fact State Water Resources")
+     * [Use Tax, Businesses (PDF)](https://dor.sd.gov/media/pzkjzc1y/use-tax-business.pdf "Tax Fact Business Use Tax")
+     * [Use Tax, Individuals(PDF)](https://dor.sd.gov/media/s1epx5qw/use-tax-individual.pdf "Tax Fact Individual Use Tax")
+
+
+### Common Fuel Tax Errors
+  1. Errors in reporting due to poor record keeping.
+  2. Not keeping the nine required items on trip sheets. (IFTA/IRP)
+  3. Not using bill of lading as main source document. (Ex. should not substitute invoice, etc.) (Supplier)
+  4. Not including non-taxable exports on returns. (Importer/Exporter/Supplier)
+  5. Incorrect reporting of product authorizations – a product authorization must occur before the rack and bill of lading must reflect the new supplier.
+
+
+### Online Forms
+After a start date for the examination has been established, businesses may be asked to complete one of the following forms. We are happy to announce that most of these forms can now be submitted electronically.
+  * [Change in Accounting Method Form](https://sddor.seamlessdocs.com/f/7001 "Change in Accounting Method Form")
+  * [Change in Address](https://sddor.seamlessdocs.com/f/7002 "Change in Address Form")
+  * [Change in Officer or Member](https://sddor.seamlessdocs.com/f/7000 "Change in Officer or Member Form")
+  * [Change in Partnership Application](https://sddor.seamlessdocs.com/f/7000 "Change in Partnership Application")
+  * [Email Authorization Form](https://sddor.seamlessdocs.com/f/7011 "Email Authorization Form")
+  * [Information Release Authorization Form](https://sddor.seamlessdocs.com/f/7004 "Information Release Authorization Form")
+
+
+The following are questionnaires businesses may be asked to complete:
+  * [Contractor's Excise Tax Audit Questionnaire](https://sddor.seamlessdocs.com/f/7009 "Contractor's Excise Tax Audit Questionnaire")
+  * [Sales and Use Tax Audit Questionnaire](https://sddor.seamlessdocs.com/f/7010 "Sales and Use Tax Audit Questionnaire")
+
+
+## Email Sign Up
+Get the latest Department of Revenue [news and updates](https://dor.sd.gov/businesses/audit/#SignUp) sent straight to your inbox.
+First Name
+Last Name
+Email
+By submitting this form, you agree to receive marketing and other information from DOR which will be collected as outlined in our [privacy policy](https://sd.gov/privacy.aspx "privacy policy"). 
+Quarterly Updates Education, Workshops & Webinars Deadlines & Due Dates
+![Department of Revenue logo](https://dor.sd.gov/images/logo-dor.svg?v=r0XjIEsmZhcMbN-uaSruyzk1sCAU30oDIiiKNmdn5Os)
+[445 E Capitol Avenue, Pierre, SD 57501](https://www.google.com/maps/place/South+Dakota+Department+of+Revenue/@44.3658843,-100.416591,12z/data=!4m8!1m2!2m1!1ssouth+dakota+department+of+revenue!3m4!1s0x8780121e8c60313f:0xd9c4c2f4b705024!8m2!3d44.3658843!4d-100.3465532)
+  * [Careers](https://sd.gov/employment.aspx "Careers")
+  * [Contact](https://dor.sd.gov/contact/ "Contact")
+  * [Report Tax Fraud](https://sddor.seamlessdocs.com/f/2038 "Report Tax Fraud")
+  * [DOR Intranet](https://intranetdor.sd.gov/ "DOR Intranet")
+  * [SD.GOV](http://sd.gov/ "SD.GOV")
+  * [SD News](https://www.sd.gov/news "SD News")
+  * [Privacy Policy](http://sd.gov/privacy.aspx "Privacy Policy")
+  * [Request Public Records](https://www.sd.gov/cs?id=sc_cat_item&sys_id=f7f939eddbd4b150b2fb93d4f39619c0 "Request Public Records")
+
+
+[ ![Facebook](https://dor.sd.gov/images/icons/social/facebook.svg?v=X5TgU87k6EWyozGSxytGFidemfRWKto4aWMki40oqKM) ](https://www.facebook.com/SDRevenue "Facebook")
+[ ![YouTube](https://dor.sd.gov/images/icons/social/youtube.svg?v=wtnXNyFUMpzZmsyp497JiKPfcN5bh4VRX-JvJZ5NWlA) ](http://www.youtube.com/user/SouthDakotaDOR "YouTube")
+[ ![Twitter](https://dor.sd.gov/images/icons/social/twitter.svg?v=6d4YrOHi9r_1XXewfEYxt6nOTAX9Adz6aaCpV6K-fPo) ](https://www.twitter.com/SDRevenue "Twitter")
+© Copyright 2025 - State of South Dakota
+

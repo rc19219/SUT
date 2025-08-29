@@ -1,0 +1,165 @@
+URL: https://finance.lacity.gov/online-taxpayer-services
+TITLE: Online Taxpayer Services | Los Angeles Office of Finance
+TYPE: WEBPAGE
+SCRAPED: 2025-08-29 11:48:05
+FINANCIAL PATTERNS FOUND: 3
+------------------------------------------------------------
+DETECTED PATTERNS:
+$50,000, Tax Assessment, Tax Assessment
+
+------------------------------------------------------------
+CONTENT:
+
+An Official Website of  
+the City of L.A. Los Angeles
+[ Services City Services ](https://myla311.lacity.org/) [ Directory City Directory ](https://lacity.gov/directory)
+[ Skip to main content ](https://finance.lacity.gov/online-taxpayer-services#main-content)
+[ ![Home](https://finance.lacity.gov/sites/g/files/wph1721/files/2021-03/finance_logo_20210304_2.svg) ](https://finance.lacity.gov/ "Home")
+  * [About Finance](https://finance.lacity.gov/about-finance)
+  * [Investment](https://finance.lacity.gov/about-investment)
+  * [Forms](https://finance.lacity.gov/forms-list)
+  * [Online Services](https://finance.lacity.gov/online-taxpayer-services)
+  * [Tax Education »](https://finance.lacity.gov/tax-education)
+    * New Business Registration »
+      * [How to Register for a BTRC](https://finance.lacity.gov/tax-education/new-business-registration/how-register-btrc)
+      * [Business Types - No Registration Required](https://finance.lacity.gov/tax-education/new-business-registration/business-types-no-registration-required)
+      * [Assembly Bill 195](https://finance.lacity.gov/tax-education/new-business-registration/assembly-bill-195)
+      * [Business Tax Extensions](https://finance.lacity.gov/tax-education/new-business-registration/business-tax-extensions)
+      * [Received a Notice of Non-Compliance?](https://finance.lacity.gov/NNCFAQs)
+    * Business Tax Registration Renewal »
+      * [Renewal Deadlines, Forms and Online Services](https://finance.lacity.gov/tax-education/business-tax-registration-renewal/renewal-deadlines-forms-and-online-services)
+    * Permit Renewals »
+      * [Fire Permit](https://finance.lacity.gov/tax-education/permit-renewals/fire-permit)
+      * [Police Permits](https://finance.lacity.gov/tax-education/permit-renewals/police-permits)
+      * [Tobacco Permits](https://finance.lacity.gov/tax-education/permit-renewals/tobacco-retailers-permit)
+    * Business Taxes »
+      * [About the Business Tax](https://finance.lacity.gov/tax-education/business-taxes/about-business-tax)
+      * [Fiscal vs. Calendar Year Reporting](https://finance.lacity.gov/tax-education/business-taxes/fiscal-vs-calendar-year-reporting)
+      * [Know Your Rates](https://finance.lacity.gov/tax-education/business-taxes/know-your-rates)
+    * Tax Exemptions »
+      * [Lifeline - Utility Users Tax Exemption for Seniors and Individuals with Disabilities](https://finance.lacity.gov/tax-education/tax-exemptions/lifeline-utility-users-tax-exemption-seniors-and-individuals)
+      * [Tax Incentives and Exemptions](https://finance.lacity.gov/tax-education/tax-exemptions/tax-incentives-and-exemptions)
+    * Laws & Regulations »
+      * [Business Regulation in Los Angeles](https://finance.lacity.gov/tax-education/laws-regulations/business-regulation-los-angeles)
+      * [City Clerk's Ruling](https://finance.lacity.gov/tax-education/laws-regulations/city-clerks-ruling)
+      * [Legal Action for Non-Compliance](https://finance.lacity.gov/tax-education/laws-regulations/legal-action-non-compliance)
+      * [Required Hazardous Materials Reporting](https://finance.lacity.gov/tax-education/laws-regulations/required-hazardous-materials-reporting)
+      * [Voluntary Disclosure Program for Unregistered Businesses](https://finance.lacity.gov/tax-education/laws-regulations/voluntary-disclosure-program-unregistered-businesses)
+      * [Whistleblower Program](https://finance.lacity.gov/tax-education/laws-regulations/whistleblower-program)
+    * Tax Assessments »
+      * [Assessment Review General Information](https://finance.lacity.gov/tax-education/tax-assessments/assessment-review-general-information)
+      * [Board of Review](https://finance.lacity.gov/tax-education/tax-assessments/board-review)
+      * [Requesting a Hearing](https://finance.lacity.gov/tax-education/tax-assessments/requesting-hearing)
+      * [Settlement Bureau](https://finance.lacity.gov/tax-education/tax-assessments/settlement-bureau)
+    * Discovering Unregistered Businesses »
+      * [AB 63/SB 1146 - Tax Discovery](https://finance.lacity.gov/tax-education/discovering-unregistered-businesses/ab-63sb-1146-tax-discovery)
+      * [RMS Tax Discovery](https://finance.lacity.gov/tax-education/discovering-unregistered-businesses/rms-tax-discovery)
+    * In Collections or Have a Delinquent Account? »
+      * [Collection Agency Information](https://finance.lacity.gov/tax-education/collections-or-have-delinquent-account/collection-agency-information)
+      * [Offer in Compromise Info and FAQ](https://finance.lacity.gov/tax-education/collections-or-have-delinquent-account/offer-compromise-info-and-faq)
+    * Changing or Closing Business? »
+      * [Changing or Closing Your Business](https://finance.lacity.gov/tax-education/changing-or-closing-business/changing-or-closing-your-business)
+  * [Frequently Asked Questions](https://finance.lacity.gov/frequently-asked-questions)
+  * [Contact Us](https://finance.lacity.gov/contact-us)
+  * Translate
+  * Accessibility
+  * [Search](https://finance.lacity.gov/search)
+
+
+![Los Angeles downtown view at sunset.](https://finance.lacity.gov/sites/g/files/wph1721/files/styles/medium_hero_image_40_9_320x72_/public/2021-02/About_NoText.png.webp?itok=xzzDFpvQ)
+  1. [Home](https://finance.lacity.gov/)
+  2. Online Taxpayer Services 
+
+
+#  Online Taxpayer Services
+The City of Los Angeles has changed our banking institution and no longer requires ACH Credit for payments of $50,000 or more. Customers are now able to use the e-check option when making payments online. Please click the appropriate link below to make your payment online.
+Please email us at Finance.ACH@lacity.org for questions regarding ACH transactions or to request the new routing instructions.
+## Nearly all of our taxpayer services are available on-line 24 hours, 7 days a week and are listed below.
+Business Registration & Applications
+  * [Registration for Business Tax Registration Certificate (BTRC)](https://latax.lacity.org/businessregapp/eappreg_criteria "Registration for Business Tax Registration Certificate \(BTRC\)")
+  * [Application for a New Police Alarm Permit](https://latax.lacity.org/policepermitapp "Application for a New Police Alarm Permit")
+  * [Parking Occupancy Tax Collection Bond/Escrow Application](https://latax.lacity.org/potbondapp "Parking Occupancy Tax Collection Bond/Escrow Application")
+  * [Tobacco Retailer's Permit Application](https://latax.lacity.org/tobaccoregistration/tobaccoreg_criteria "Tobacco Retailer's Permit Application")
+
+
+Annual Renewals
+  * [Annual Business Tax Renewal](https://latax.lacity.org/laweb/F-translate.jsp?lang=en "Annual Business Tax Renewal ")
+  * [Annual Police Alarm Permit Renewal](https://latax.lacity.org/policepermitren/par_logon "Annual Police Alarm Permit Renewal")
+  * [Annual Police and Fire Permit Renewal](https://latax.lacity.org/policefirepermitren/par_logon "Annual Police and Fire Permit Renewal")
+  * [Annual Tobacco Retailer's Permit Renewal](https://latax.lacity.org/tobaccopermitren/tbc_logon "Annual Tobacco Retailer's Permit Renewal")
+
+
+Quarterly Renewals
+  * [Quarterly Dance Hall Tax Renewal](https://latax.lacity.org/dancehallren/dhr_logon "Quarterly Dance Hall Tax Renewal")
+  * [Quarterly Commercial Tenants Occupancy Tax Renewal](https://latax.lacity.org/ctenantstaxren/cto_logon "Quarterly Commercial Tenants Occupancy Tax Renewal")
+
+
+Bi-Monthly Renewals
+  * [Bi-Monthly Official Police Garage Fee Renewal](https://latax.lacity.org/policegaragefeeren/opg_logon "Bi-Monthly official police garage fee renewal")
+
+
+Online Bill Pay & Other Services
+  * [On-Line Bill Payment](https://latax.lacity.org/billpay "On-line Bill Payment")
+  * [Cannabis Bill Pay](https://latax.lacity.org/cannabisbillpay/index "Cannabis Billpay")
+  * [Request for Penalty Waiver](https://latax.lacity.org/penaltywaiverreq/pw_logon "Request For Penalty Waiver")
+  * [Sign-Up for Paperless Statements](https://latax.lacity.org/paperlessstmtsignup/paperlessstmt-logon "Sign-up for Paperless Statements")
+  * [Internet Payment Policies](https://finance.lacity.gov/internet-payment-policies "Internet Payment Policies")
+
+
+Monthly Tax Renewals
+  * [Monthly Commercial Cannabis Tax Renewal](https://latax.lacity.org/lafin/CannabisMonthlyRenewal/ "Monthly Commercial Cannabis Tax Renewal")
+  * [Monthly Communications User Tax Renewal](https://latax.lacity.org/communicationstaxren "Monthly Communications User Tax Renewal")
+  * [Monthly Electricity User Tax Renewal for Residential Users](https://latax.lacity.org/electricitytaxren/res "Monthly Electricity User Tax Renewal for Residential Users")
+  * [Monthly Electricity User Tax Renewal for Commercial/Industrial Users](https://latax.lacity.org/electricitytaxren/com "Monthly Electricity User Tax Renewal for Commercial/Industrial Users")
+  * [Monthly Gas User Tax Renewal](https://latax.lacity.org/gastaxren "Monthly Gas User Tax Renewal")
+  * [Monthly Parking Occupancy Tax Renewal](https://latax.lacity.org/potbondren/potr_logon "Monthly Parking Occupancy Tax Renewal ")
+  * [Monthly Transient Occupancy Tax Renewal](https://latax.lacity.org/transoccupancytaxren/totr_logon "Monthly Transient Occupancy Tax Renewal")
+
+
+Office of Finance
+**_Mail_**
+Office of Finance Special Desk Unit  
+200 North Spring Street, Room 101  
+Los Angeles, CA 90012
+**_Phone_**
+Customer Service Center (844) 663-4411  
+Phone Hours:  
+Monday, Tuesday, Wednesday and Thursday : 9:00 a.m. - 3:00 p.m.  
+Friday : 9:00 a.m. - 2:00 p.m.
+**_Fax_**
+(213) 978-1548 Attn: Special Desk Unit
+**_E-mail_**
+Finance.CustomerService@lacity.org
+**_Office Locations_**
+[The Office of Finance has three locations across the City of Los Angeles to best service your needs as well as a new virtual public counter. Click here for more information](https://finance.lacity.gov/contact). 
+Popular Online Services
+**_Register_**
+[Business Tax Registration Certificate (BTRC)](https://latax.lacity.org/businessregapp/eappreg_criteria)  
+[Non-Profit Exempt Business Tax Registration Certificate](https://finance.lacity.org/sites/g/files/wph1721/files/2022-12/BTECPP_APP%201-%20122022.pdf)
+**_Renew_**
+[Annual Business Tax Renewal](https://latax.lacity.org/laweb/F-logon.jsp)  
+[Annual Police Alarm Permit](https://latax.lacity.org/policepermitren/par_logon)  
+[Annual Tobacco Permit](https://latax.lacity.org/tobaccopermitren/tbc_logon)   
+[Monthly Commercial Cannabis Tax Renewal](https://finance.lacity.org/tax-education/new-business-registration/cannabis-renewals)  
+[Monthly Parking Occupancy Tax](https://latax.lacity.org/potbondren/potr_logon)  
+[Monthly Transient Occupancy Ta](https://latax.lacity.org/transoccupancytaxren/totr_logon)[x](http://latax.lacity.org/oofweb/erentot/totr_logon.cfm)
+**_Pay_**
+[Online Bill Pay](https://latax.lacity.org/billpay/index)
+**_Other Services_**
+[Get Paperless Statements](https://latax.lacity.org/paperlessstmtsignup/paperlessstmt-logon)  
+[Penalty Waiver Request](https://latax.lacity.org/penaltywaiverreq/pw_logon)  
+[Public Records Request](https://finance.lacity.org/public-records-center)  
+[Refund Request](http://finance.lacity.org/refund-policy)  
+[Whistleblower Program](https://finance.lacity.org/whistleblower-program)
+[Follow On Twitter](https://twitter.com/CityOfLAFinance)  
+[Twitter](https://twitter.com/CityOfLAFinance) [ @CityofLAFinance](https://twitter.com/CityOfLAFinance)
+[Follow On Facebook](https://www.facebook.com/CityofLosAngelesOfficeofFinance)  
+[Facebook](https://www.facebook.com/CityofLosAngelesOfficeofFinance) [ @CityofLosAngeles OfficeofFinance](https://www.facebook.com/CityofLosAngelesOfficeofFinance)
+© Copyright 2025 City of Los Angeles. All rights reserved.
+Footer
+  * [Disclaimer](https://disclaimer.lacity.gov/disclaimer.htm)
+  * [Privacy Policy](https://disclaimer.lacity.gov/privacy.htm)
+
+
+Google Translate
+

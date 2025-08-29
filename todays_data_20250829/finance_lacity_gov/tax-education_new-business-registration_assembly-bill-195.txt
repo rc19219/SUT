@@ -1,0 +1,184 @@
+URL: https://finance.lacity.gov/tax-education/new-business-registration/assembly-bill-195
+TITLE: Assembly Bill 195 | Los Angeles Office of Finance
+TYPE: WEBPAGE
+SCRAPED: 2025-08-29 11:48:23
+FINANCIAL PATTERNS FOUND: 4
+------------------------------------------------------------
+DETECTED PATTERNS:
+Tax Assessment, Tax Assessment, Tax Assessment, Tax Assessment
+
+------------------------------------------------------------
+CONTENT:
+
+An Official Website of  
+the City of L.A. Los Angeles
+[ Services City Services ](https://myla311.lacity.org/) [ Directory City Directory ](https://lacity.gov/directory)
+[ Skip to main content ](https://finance.lacity.gov/tax-education/new-business-registration/assembly-bill-195#main-content)
+[ ![Home](https://finance.lacity.gov/sites/g/files/wph1721/files/2021-03/finance_logo_20210304_2.svg) ](https://finance.lacity.gov/ "Home")
+  * [About Finance](https://finance.lacity.gov/about-finance)
+  * [Investment](https://finance.lacity.gov/about-investment)
+  * [Forms](https://finance.lacity.gov/forms-list)
+  * [Online Services](https://finance.lacity.gov/online-taxpayer-services)
+  * [Tax Education »](https://finance.lacity.gov/tax-education)
+    * New Business Registration »
+      * [How to Register for a BTRC](https://finance.lacity.gov/tax-education/new-business-registration/how-register-btrc)
+      * [Business Types - No Registration Required](https://finance.lacity.gov/tax-education/new-business-registration/business-types-no-registration-required)
+      * [Assembly Bill 195](https://finance.lacity.gov/tax-education/new-business-registration/assembly-bill-195)
+      * [Business Tax Extensions](https://finance.lacity.gov/tax-education/new-business-registration/business-tax-extensions)
+      * [Received a Notice of Non-Compliance?](https://finance.lacity.gov/NNCFAQs)
+    * Business Tax Registration Renewal »
+      * [Renewal Deadlines, Forms and Online Services](https://finance.lacity.gov/tax-education/business-tax-registration-renewal/renewal-deadlines-forms-and-online-services)
+    * Permit Renewals »
+      * [Fire Permit](https://finance.lacity.gov/tax-education/permit-renewals/fire-permit)
+      * [Police Permits](https://finance.lacity.gov/tax-education/permit-renewals/police-permits)
+      * [Tobacco Permits](https://finance.lacity.gov/tax-education/permit-renewals/tobacco-retailers-permit)
+    * Business Taxes »
+      * [About the Business Tax](https://finance.lacity.gov/tax-education/business-taxes/about-business-tax)
+      * [Fiscal vs. Calendar Year Reporting](https://finance.lacity.gov/tax-education/business-taxes/fiscal-vs-calendar-year-reporting)
+      * [Know Your Rates](https://finance.lacity.gov/tax-education/business-taxes/know-your-rates)
+    * Tax Exemptions »
+      * [Lifeline - Utility Users Tax Exemption for Seniors and Individuals with Disabilities](https://finance.lacity.gov/tax-education/tax-exemptions/lifeline-utility-users-tax-exemption-seniors-and-individuals)
+      * [Tax Incentives and Exemptions](https://finance.lacity.gov/tax-education/tax-exemptions/tax-incentives-and-exemptions)
+    * Laws & Regulations »
+      * [Business Regulation in Los Angeles](https://finance.lacity.gov/tax-education/laws-regulations/business-regulation-los-angeles)
+      * [City Clerk's Ruling](https://finance.lacity.gov/tax-education/laws-regulations/city-clerks-ruling)
+      * [Legal Action for Non-Compliance](https://finance.lacity.gov/tax-education/laws-regulations/legal-action-non-compliance)
+      * [Required Hazardous Materials Reporting](https://finance.lacity.gov/tax-education/laws-regulations/required-hazardous-materials-reporting)
+      * [Voluntary Disclosure Program for Unregistered Businesses](https://finance.lacity.gov/tax-education/laws-regulations/voluntary-disclosure-program-unregistered-businesses)
+      * [Whistleblower Program](https://finance.lacity.gov/tax-education/laws-regulations/whistleblower-program)
+    * Tax Assessments »
+      * [Assessment Review General Information](https://finance.lacity.gov/tax-education/tax-assessments/assessment-review-general-information)
+      * [Board of Review](https://finance.lacity.gov/tax-education/tax-assessments/board-review)
+      * [Requesting a Hearing](https://finance.lacity.gov/tax-education/tax-assessments/requesting-hearing)
+      * [Settlement Bureau](https://finance.lacity.gov/tax-education/tax-assessments/settlement-bureau)
+    * Discovering Unregistered Businesses »
+      * [AB 63/SB 1146 - Tax Discovery](https://finance.lacity.gov/tax-education/discovering-unregistered-businesses/ab-63sb-1146-tax-discovery)
+      * [RMS Tax Discovery](https://finance.lacity.gov/tax-education/discovering-unregistered-businesses/rms-tax-discovery)
+    * In Collections or Have a Delinquent Account? »
+      * [Collection Agency Information](https://finance.lacity.gov/tax-education/collections-or-have-delinquent-account/collection-agency-information)
+      * [Offer in Compromise Info and FAQ](https://finance.lacity.gov/tax-education/collections-or-have-delinquent-account/offer-compromise-info-and-faq)
+    * Changing or Closing Business? »
+      * [Changing or Closing Your Business](https://finance.lacity.gov/tax-education/changing-or-closing-business/changing-or-closing-your-business)
+  * [Frequently Asked Questions](https://finance.lacity.gov/frequently-asked-questions)
+  * [Contact Us](https://finance.lacity.gov/contact-us)
+  * Translate
+  * Accessibility
+  * [Search](https://finance.lacity.gov/search)
+
+
+  1. [Home](https://finance.lacity.gov/)
+  2. [Tax Education](https://finance.lacity.gov/tax-education)
+  3. New Business Registration 
+  4. Assembly Bill 195 
+
+
+#  Assembly Bill 195
+AB 195 changes the application of the State's Excise Tax on cannabis business activity. The new law does not change the City of Los Angeles' tax code or how it is implemented. Consistent with how the City's Gross Receipts Tax has been implemented in the past, receipts collected in order to pay State Excise Tax are considered part of gross receipts, and are taxable under the City's code. The example below shows how this is applied. We've also provided a link to City's Cannabis Tax Compliance Guide for your reference. For further information about the Office of Finance and the City's Business Tax, please visit[ finance.lacity.org](http://finance.lacity.org/). Please note that the application of the State Excise Tax has changed -- for information, details, and examples of those changes, please see the CDTFA website at [https://www.cdtfa.ca.gov/industry/cannabis](https://www.cdtfa.ca.gov/industry/cannabis.htm).
+![Sample Sales Receipt Business Tax Computation](https://finance.lacity.gov/sites/g/files/wph1721/files/styles/default/public/2023-01/AB195%20revised.png.webp?itok=cLYDDNWr)
+Note - All receipts generated from cannabis activity should be included in the calculation of gross receipts. This includes any excise tax, other tax, and fees collected. Only Sales Tax is excluded from Gross Receipts.
+Note - The total Excise & Sales Tax shown is for example purposes only. Please see the CDTFA website for Excise & Sales Tax Computation.
+## Senate Bill 1059
+### RE: IMPORTANT TAX UPDATES RELATED TO THE PASSAGE OF CALIFORNIA SENATE BILL 1059 (SB 1059) FOR CANNABIS BUSINESSES
+  
+On September 28, 2024, Governor Newsom signed California Senate Bill 1059 (SB 1059) which added new section 16005 to the California Business and Professions Code. The changes introduced by the bill will directly impact how cannabis operators calculate and report their taxable receipts. The City will abide by the dictates of SB 1059 so long as it remains California law.
+### Summary of Changes under SB 1059:
+  1. Effective Date:The provisions of SB 1059 will take effect on January 1, 2025. The updated methodology will apply to the February 2025 tax filing deadline, which pertains to receipts from January 2025. Cannabis operators should ensure they
+  2. Excise Tax Exclusion Starting January 1, 2025:
+  3. Excise Tax Inclusion until December 31, 2024:calculating taxes as City law requires. The excise tax must continue to be factored into gross receipts for City tax reporting purposes until the end of this year.
+  4. City-Imposed Taxes Remain Taxable: While SB 1059 provides that the state excise tax will no longer be included in computing and measuring a cannabis operator’s
+
+
+To ensure compliance, we recommend that Cannabis operators review SB 1059 with your tax advisor (if any) and begin reviewing their tax practices. This includes preparing to adjust how taxable receipts are calculated starting in 2025 and ensuring that excise tax is properly included in receipts until the end of 2024.
+### Examples of these calculations are provided below as a reference guide only.
+![Cannabis SB 1059 Calculation](https://finance.lacity.gov/sites/g/files/wph1721/files/styles/default/public/2024-12/Cannabis%20SB%201059%20Calculation.png.webp?itok=t2ljDaIy)
+[Cannabis Tax Compliance Guide](https://finance.lacity.gov/sites/g/files/wph1721/files/2025-01/Cannabis%20Tax%20Compliance%20Guide%20-%20FINAL%20REV.%2001.08.25.pdf "Cannabis Tax Compliance Guide")  
+
+Tax Education
+  * New Business Registration
+    * [How to Register for a BTRC](https://finance.lacity.gov/tax-education/new-business-registration/how-register-btrc)
+    * [Business Types - No Registration Required](https://finance.lacity.gov/tax-education/new-business-registration/business-types-no-registration-required)
+    * [Assembly Bill 195](https://finance.lacity.gov/tax-education/new-business-registration/assembly-bill-195)
+    * [Business Tax Extensions](https://finance.lacity.gov/tax-education/new-business-registration/business-tax-extensions)
+    * [Received a Notice of Non-Compliance?](https://finance.lacity.gov/NNCFAQs)
+  * Business Tax Registration Renewal
+    * [Renewal Deadlines, Forms and Online Services](https://finance.lacity.gov/tax-education/business-tax-registration-renewal/renewal-deadlines-forms-and-online-services)
+  * Permit Renewals
+    * [Fire Permit](https://finance.lacity.gov/tax-education/permit-renewals/fire-permit)
+    * [Police Permits](https://finance.lacity.gov/tax-education/permit-renewals/police-permits)
+    * [Tobacco Permits](https://finance.lacity.gov/tax-education/permit-renewals/tobacco-retailers-permit)
+  * Business Taxes
+    * [About the Business Tax](https://finance.lacity.gov/tax-education/business-taxes/about-business-tax)
+    * [Fiscal vs. Calendar Year Reporting](https://finance.lacity.gov/tax-education/business-taxes/fiscal-vs-calendar-year-reporting)
+    * [Know Your Rates](https://finance.lacity.gov/tax-education/business-taxes/know-your-rates)
+  * Tax Exemptions
+    * [Lifeline - Utility Users Tax Exemption for Seniors and Individuals with Disabilities](https://finance.lacity.gov/tax-education/tax-exemptions/lifeline-utility-users-tax-exemption-seniors-and-individuals)
+    * [Tax Incentives and Exemptions](https://finance.lacity.gov/tax-education/tax-exemptions/tax-incentives-and-exemptions)
+  * Laws & Regulations
+    * [Business Regulation in Los Angeles](https://finance.lacity.gov/tax-education/laws-regulations/business-regulation-los-angeles)
+    * [City Clerk's Ruling](https://finance.lacity.gov/tax-education/laws-regulations/city-clerks-ruling)
+    * [Legal Action for Non-Compliance](https://finance.lacity.gov/tax-education/laws-regulations/legal-action-non-compliance)
+    * [Required Hazardous Materials Reporting](https://finance.lacity.gov/tax-education/laws-regulations/required-hazardous-materials-reporting)
+    * [Voluntary Disclosure Program for Unregistered Businesses](https://finance.lacity.gov/tax-education/laws-regulations/voluntary-disclosure-program-unregistered-businesses)
+    * [Whistleblower Program](https://finance.lacity.gov/tax-education/laws-regulations/whistleblower-program)
+  * Tax Assessments
+    * [Assessment Review General Information](https://finance.lacity.gov/tax-education/tax-assessments/assessment-review-general-information)
+    * [Board of Review](https://finance.lacity.gov/tax-education/tax-assessments/board-review)
+    * [Requesting a Hearing](https://finance.lacity.gov/tax-education/tax-assessments/requesting-hearing)
+    * [Settlement Bureau](https://finance.lacity.gov/tax-education/tax-assessments/settlement-bureau)
+  * Discovering Unregistered Businesses
+    * [AB 63/SB 1146 - Tax Discovery](https://finance.lacity.gov/tax-education/discovering-unregistered-businesses/ab-63sb-1146-tax-discovery)
+    * [RMS Tax Discovery](https://finance.lacity.gov/tax-education/discovering-unregistered-businesses/rms-tax-discovery)
+  * In Collections or Have a Delinquent Account?
+    * [Collection Agency Information](https://finance.lacity.gov/tax-education/collections-or-have-delinquent-account/collection-agency-information)
+    * [Offer in Compromise Info and FAQ](https://finance.lacity.gov/tax-education/collections-or-have-delinquent-account/offer-compromise-info-and-faq)
+  * Changing or Closing Business?
+    * [Changing or Closing Your Business](https://finance.lacity.gov/tax-education/changing-or-closing-business/changing-or-closing-your-business)
+
+
+Office of Finance
+**_Mail_**
+Office of Finance Special Desk Unit  
+200 North Spring Street, Room 101  
+Los Angeles, CA 90012
+**_Phone_**
+Customer Service Center (844) 663-4411  
+Phone Hours:  
+Monday, Tuesday, Wednesday and Thursday : 9:00 a.m. - 3:00 p.m.  
+Friday : 9:00 a.m. - 2:00 p.m.
+**_Fax_**
+(213) 978-1548 Attn: Special Desk Unit
+**_E-mail_**
+Finance.CustomerService@lacity.org
+**_Office Locations_**
+[The Office of Finance has three locations across the City of Los Angeles to best service your needs as well as a new virtual public counter. Click here for more information](https://finance.lacity.gov/contact). 
+Popular Online Services
+**_Register_**
+[Business Tax Registration Certificate (BTRC)](https://latax.lacity.org/businessregapp/eappreg_criteria)  
+[Non-Profit Exempt Business Tax Registration Certificate](https://finance.lacity.org/sites/g/files/wph1721/files/2022-12/BTECPP_APP%201-%20122022.pdf)
+**_Renew_**
+[Annual Business Tax Renewal](https://latax.lacity.org/laweb/F-logon.jsp)  
+[Annual Police Alarm Permit](https://latax.lacity.org/policepermitren/par_logon)  
+[Annual Tobacco Permit](https://latax.lacity.org/tobaccopermitren/tbc_logon)   
+[Monthly Commercial Cannabis Tax Renewal](https://finance.lacity.org/tax-education/new-business-registration/cannabis-renewals)  
+[Monthly Parking Occupancy Tax](https://latax.lacity.org/potbondren/potr_logon)  
+[Monthly Transient Occupancy Ta](https://latax.lacity.org/transoccupancytaxren/totr_logon)[x](http://latax.lacity.org/oofweb/erentot/totr_logon.cfm)
+**_Pay_**
+[Online Bill Pay](https://latax.lacity.org/billpay/index)
+**_Other Services_**
+[Get Paperless Statements](https://latax.lacity.org/paperlessstmtsignup/paperlessstmt-logon)  
+[Penalty Waiver Request](https://latax.lacity.org/penaltywaiverreq/pw_logon)  
+[Public Records Request](https://finance.lacity.org/public-records-center)  
+[Refund Request](http://finance.lacity.org/refund-policy)  
+[Whistleblower Program](https://finance.lacity.org/whistleblower-program)
+[Follow On Twitter](https://twitter.com/CityOfLAFinance)  
+[Twitter](https://twitter.com/CityOfLAFinance) [ @CityofLAFinance](https://twitter.com/CityOfLAFinance)
+[Follow On Facebook](https://www.facebook.com/CityofLosAngelesOfficeofFinance)  
+[Facebook](https://www.facebook.com/CityofLosAngelesOfficeofFinance) [ @CityofLosAngeles OfficeofFinance](https://www.facebook.com/CityofLosAngelesOfficeofFinance)
+© Copyright 2025 City of Los Angeles. All rights reserved.
+Footer
+  * [Disclaimer](https://disclaimer.lacity.gov/disclaimer.htm)
+  * [Privacy Policy](https://disclaimer.lacity.gov/privacy.htm)
+
+
+Google Translate
+

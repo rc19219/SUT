@@ -1,0 +1,698 @@
+URL: https://dor.sd.gov/businesses/taxes/municipal-tax/
+TITLE: Municipal Tax | South Dakota Department of Revenue
+TYPE: WEBPAGE
+SCRAPED: 2025-08-29 11:53:18
+FINANCIAL PATTERNS FOUND: 3
+------------------------------------------------------------
+DETECTED PATTERNS:
+1%, 2%, 1%
+
+------------------------------------------------------------
+CONTENT:
+
+[ Skip to main content ](https://dor.sd.gov/businesses/taxes/municipal-tax/#content)
+What Can We Do For You Today?
+Search DOR.GOV.SD pa Choose a filter to refine your search All dor.sd.gov Pages Forms / Resources
+Close search
+  * [Pages](https://dor.sd.gov/businesses/taxes/municipal-tax/#pagesResults)
+  * [Forms / Resources](https://dor.sd.gov/businesses/taxes/municipal-tax/#formsResourcesResults)
+  * [All dor.sd.gov](https://dor.sd.gov/businesses/taxes/municipal-tax/#allResults)
+
+
+[![South Dakota Department of Revenue](https://dor.sd.gov/images/logo-dor.svg?v=r0XjIEsmZhcMbN-uaSruyzk1sCAU30oDIiiKNmdn5Os)](https://dor.sd.gov/)
+#### Site navigation
+  * [Contact](https://dor.sd.gov/contact/ "Contact")
+  * [About DOR](https://dor.sd.gov/about-dor/ "About DOR")
+  * [Upcoming Dates](https://dor.sd.gov/calendar/ "Upcoming Dates")
+  * [Latest News](https://dor.sd.gov/newsroom/ "Latest News")
+  * [Live Chat](https://dorchat.sd.gov/Chat?id=NjRlZjkxYzktY2I1MS00Y2UxLThjM2YtMWE1NmQ1Mzk4OTkw "Live Chat")
+
+
+  * [ ](https://dor.sd.gov/individuals/ "Individuals")›
+    * ‹ Back
+    * [Gaming](https://dor.sd.gov/individuals/gaming/ "Gaming")›
+      * ‹ BackGaming
+      * [Gaming for Individuals](https://dor.sd.gov/individuals/gaming/ "Gaming for Individuals")
+* * *
+Find information about the South Dakota Commission on Gaming, laws, regulations and the seven types of gaming licenses issued to the general public.
+[Learn More](https://dor.sd.gov/individuals/gaming/ "Learn More")
+    * [Lottery](https://dor.sd.gov/individuals/lottery/ "Lottery")›
+      * ‹ BackLottery
+      * [Lottery for Individuals](https://dor.sd.gov/individuals/lottery/ "Lottery for Individuals")
+* * *
+Everything you need to know about games, licensing and beneficiaries of the South Dakota Lottery.
+[Learn More](https://dor.sd.gov/individuals/lottery/ "Learn More")
+    * [Motor Vehicle](https://dor.sd.gov/individuals/motor-vehicle/ "Motor Vehicle")›
+      * ‹ BackMotor Vehicle
+      * [ All Vehicles - Title, Fees & Registration ](https://dor.sd.gov/individuals/motor-vehicle/all-vehicles-title-fees-registration/ "All Vehicles - Title, Fees & Registration")
+      * [ Boats ](https://dor.sd.gov/individuals/motor-vehicle/boats/ "Boats")
+      * [ Cars, Trucks & Vans ](https://dor.sd.gov/individuals/motor-vehicle/cars-trucks-vans/ "Cars, Trucks & Vans")
+      * [ Historic Vehicles ](https://dor.sd.gov/individuals/motor-vehicle/historic-vehicles/ "Historic Vehicles")
+      * [ Low Speed Vehicles ](https://dor.sd.gov/individuals/motor-vehicle/low-speed-vehicles/ "Low Speed Vehicles")
+      * [ Manufactured Homes & Mobile Homes ](https://dor.sd.gov/individuals/motor-vehicle/manufactured-homes-mobile-homes/ "Manufactured Homes & Mobile Homes")
+      * [ Motorcycles ](https://dor.sd.gov/individuals/motor-vehicle/motorcycles/ "Motorcycles")
+      * [ Off-Road Vehicles ](https://dor.sd.gov/individuals/motor-vehicle/off-road-vehicles/ "Off-Road Vehicles")
+      * [ Rebuilt Vehicles ](https://dor.sd.gov/individuals/motor-vehicle/rebuilt-vehicles/ "Rebuilt Vehicles")
+      * [ Recreational, Motorhomes & Converted Housecars ](https://dor.sd.gov/individuals/motor-vehicle/recreational-motorhomes-converted-housecars/ "Recreational, Motorhomes & Converted Housecars")
+      * [ Snowmobiles ](https://dor.sd.gov/individuals/motor-vehicle/snowmobiles/ "Snowmobiles")
+      * [ Trailers ](https://dor.sd.gov/individuals/motor-vehicle/trailers/ "Trailers")
+      * [ Trucking ](https://dor.sd.gov/individuals/motor-vehicle/trucking/ "Trucking")
+    * [Taxes](https://dor.sd.gov/individuals/taxes/ "Taxes")›
+      * ‹ BackTaxes
+      * [ Alcohol ](https://dor.sd.gov/individuals/taxes/alcohol/ "Alcohol")
+      * [ Cigarette & Tobacco ](https://dor.sd.gov/individuals/taxes/cigarette-tobacco/ "Cigarette & Tobacco")
+      * [ Motor Fuel ](https://dor.sd.gov/individuals/taxes/motor-fuel/ "Motor Fuel")
+      * [ Property Tax ](https://dor.sd.gov/individuals/taxes/property-tax/ "Property Tax")
+      * [ Sales & Use Tax ](https://dor.sd.gov/individuals/taxes/sales-use-tax/ "Sales & Use Tax")
+      * [Individual Taxes](https://dor.sd.gov/individuals/taxes/ "Individual Taxes")
+* * *
+Learn what you need to file, pay and find information on taxes for the general public.
+[Learn More](https://dor.sd.gov/individuals/taxes/ "Learn More")
+    * [Individual FAQs](https://dor.sd.gov/individuals/individual-faqs/ "Individual FAQs")›
+      * ‹ BackIndividual FAQs
+      * [Individual Frequently Asked Questions](https://dor.sd.gov/individuals/individual-faqs/ "Individual Frequently Asked Questions")
+* * *
+See what other South Dakota taxpayers are asking the Department of Revenue.
+[Get Answers](https://dor.sd.gov/individuals/individual-faqs/ "Get Answers")
+    * [Individual Forms / Resources](https://sddor.seamlessdocs.com/sc/individual-forms/ "Individual Forms / Resources")›
+      * ‹ BackIndividual Forms / Resources
+      * [Individual Forms / Resources](https://sddor.seamlessdocs.com/sc/individual-forms/ "Individual Forms / Resources")
+* * *
+Quick links to help you find the right individual forms fast.
+[Find Individual Forms](https://sddor.seamlessdocs.com/sc/individual-forms/ "Find Individual Forms")
+  * [ ](https://dor.sd.gov/businesses/ "Businesses")›
+    * ‹ Back
+    * [Audit](https://dor.sd.gov/businesses/audit/ "Audit")›
+      * ‹ BackAudit
+      * [Business Audit](https://dor.sd.gov/businesses/audit/ "Business Audit")
+* * *
+See how DOR approaches reporting errors and omissions and correcting reporting habits for future returns.
+[Learn More](https://dor.sd.gov/businesses/audit/ "Learn More")
+    * [Gaming](https://dor.sd.gov/businesses/gaming/ "Gaming")›
+      * ‹ BackGaming
+      * [Gaming for Businesses](https://dor.sd.gov/businesses/gaming/ "Gaming for Businesses")
+* * *
+Find information on the South Dakota Commission on Gaming, applications, fees, annual reports, industry statistics and more.
+[Learn More](https://dor.sd.gov/businesses/gaming/ "Learn More")
+    * [Lottery](https://dor.sd.gov/businesses/lottery/ "Lottery")›
+      * ‹ BackLottery
+      * [Lottery for Businesses](https://dor.sd.gov/businesses/lottery/ "Lottery for Businesses")
+* * *
+Everything you need to know about games, licensing and South Dakota Lottery retailers.
+[Learn More](https://dor.sd.gov/businesses/lottery/ "Learn More")
+    * [Motor Vehicle](https://dor.sd.gov/businesses/motor-vehicle/ "Motor Vehicle")›
+      * ‹ BackMotor Vehicle
+      * [ Commercial Vehicles ](https://dor.sd.gov/businesses/motor-vehicle/commercial-vehicles/ "Commercial Vehicles")
+      * [ Dealer Vehicle Licenses ](https://dor.sd.gov/businesses/motor-vehicle/dealer-vehicle-licenses/ "Dealer Vehicle Licenses")
+      * [ Harvest Vehicles ](https://dor.sd.gov/businesses/motor-vehicle/harvest-vehicles/ "Harvest Vehicles")
+      * [ Nonprofit Organization Vehicles ](https://dor.sd.gov/businesses/motor-vehicle/nonprofit-organization-vehicles/ "Nonprofit Organization Vehicles")
+      * [ Motor Carrier Services ](https://dor.sd.gov/businesses/motor-vehicle/motor-carrier-services/ "Motor Carrier Services")
+      * [Business Motor Vehicle ](https://dor.sd.gov/businesses/motor-vehicle/ "Business Motor Vehicle ")
+* * *
+Get all the information you will need to title or renew your vehicle registration and license plates for your commercial vehicles.
+[Learn More](https://dor.sd.gov/businesses/motor-vehicle/ "Learn More")
+    * [Taxes](https://dor.sd.gov/businesses/taxes/ "Taxes")›
+      * ‹ BackTaxes
+      * [ Telecommunication Emergency Surcharges & Fees ](https://dor.sd.gov/businesses/taxes/telecommunication-emergency-surcharges-fees/ "Telecommunication Emergency Surcharges & Fees")
+      * [ Alcohol ](https://dor.sd.gov/businesses/taxes/alcohol/ "Alcohol")
+      * [ Amusement Machines ](https://dor.sd.gov/businesses/taxes/amusement-machines/ "Amusement Machines")
+      * [ Bank Franchise Tax ](https://dor.sd.gov/businesses/taxes/bank-franchise-tax/ "Bank Franchise Tax")
+      * [ Cigarette & Tobacco ](https://dor.sd.gov/businesses/taxes/cigarette-tobacco/ "Cigarette & Tobacco")
+      * [ Coin Operated Washers & Dryers ](https://dor.sd.gov/businesses/taxes/coin-operated-washers-dryers/ "Coin Operated Washers & Dryers")
+      * [ Contractor's Excise Tax ](https://dor.sd.gov/businesses/taxes/contractors-excise-tax/ "Contractor's Excise Tax")
+      * [ Motor Fuel ](https://dor.sd.gov/businesses/taxes/motor-fuel/ "Motor Fuel")
+      * [ Municipal Tax ](https://dor.sd.gov/businesses/taxes/municipal-tax/ "Municipal Tax")
+      * [ Precious Metal & Energy Mineral Severance Taxes & Conservation Tax ](https://dor.sd.gov/businesses/taxes/precious-metal-energy-mineral-severance-taxes-conservation-tax/ "Precious Metal & Energy Mineral Severance Taxes & Conservation Tax")
+      * [ Property Tax ](https://dor.sd.gov/businesses/taxes/property-tax/ "Property Tax")
+      * [ Sales & Use Tax ](https://dor.sd.gov/businesses/taxes/sales-use-tax/ "Sales & Use Tax")
+      * [ Tourism Tax ](https://dor.sd.gov/businesses/taxes/tourism-tax/ "Tourism Tax")
+    * [Sturgis Motorcycle Rally](https://dor.sd.gov/businesses/sturgis-motorcycle-rally/ "Sturgis Motorcycle Rally")›
+      * ‹ BackSturgis Motorcycle Rally
+      * [Sturgis Motor Cycle Rally](https://dor.sd.gov/businesses/sturgis-motorcycle-rally/ "Sturgis Motor Cycle Rally")
+* * *
+Find information, tax applications, licensing instructions and municipal tax rates for the Sturgis Motorcycle Rally.
+[Learn More](https://dor.sd.gov/businesses/sturgis-motorcycle-rally/ "Learn More")
+    * [Business FAQs](https://dor.sd.gov/businesses/business-faqs/ "Business FAQs")›
+      * ‹ BackBusiness FAQs
+      * [Business Frequently Asked Questions](https://dor.sd.gov/businesses/business-faqs/ "Business Frequently Asked Questions")
+* * *
+See what other business owners are asking the Department of Revenue.
+[Get Answers](https://dor.sd.gov/businesses/business-faqs/ "Get Answers")
+    * [Business Forms / Resources](https://sddor.seamlessdocs.com/sc/business-forms/ "Business Forms / Resources")›
+      * ‹ BackBusiness Forms / Resources
+      * [Business Forms / Resources](https://sddor.seamlessdocs.com/sc/business-forms/ "Business Forms / Resources")
+* * *
+Quick links to help you find the right business forms fast.
+[See Business Forms](https://sddor.seamlessdocs.com/sc/business-forms/ "See Business Forms")
+  * [ ](https://dor.sd.gov/government/ "Government")›
+    * ‹ Back
+    * [County Auditors](https://dor.sd.gov/government/county-auditors/ "County Auditors")›
+      * ‹ BackCounty Auditors
+      * [South Dakota County Auditors](https://dor.sd.gov/government/county-auditors/ "South Dakota County Auditors")
+* * *
+In-depth content for South Dakota County Auditors on calculating growth percentage, CPI, Relief Programs, TIF and other property tax essentials.
+[See County Resources](https://dor.sd.gov/government/county-auditors/ "See County Resources")
+    * [County Commissioners](https://dor.sd.gov/government/county-commissioners/ "County Commissioners")›
+      * ‹ BackCounty Commissioners
+      * [South Dakota County Commissioners](https://dor.sd.gov/government/county-commissioners/ "South Dakota County Commissioners")
+* * *
+Important South Dakota County Commissioners information including land assessment data, buffer strips and frequently asked levy questions.
+[See County Resources](https://dor.sd.gov/government/county-commissioners/ "See County Resources")
+    * [County Treasurers](https://dor.sd.gov/government/county-treasurers/ "County Treasurers")›
+      * ‹ BackCounty Treasurers
+      * [South Dakota County Treasurers](https://dor.sd.gov/government/county-treasurers/ "South Dakota County Treasurers")
+* * *
+Information for South Dakota County Treasurers to explain property tax relief programs, tax deeds and special assessments.
+[See County Resources](https://dor.sd.gov/government/county-treasurers/ "See County Resources")
+    * [Director of Equalization](https://dor.sd.gov/government/director-of-equalization/ "Director of Equalization")›
+      * ‹ BackDirector of Equalization
+      * [South Dakota Directors of Equalization](https://dor.sd.gov/government/director-of-equalization/ "South Dakota Directors of Equalization")
+* * *
+South Dakota Directors of Equalization knowledge base for property tax exemptions, sales / ratio and growth definitions.
+[See County Resources](https://dor.sd.gov/government/director-of-equalization/ "See County Resources")
+    * [Exempt Entities - Higher Education, Mass Transit & Tribal](https://dor.sd.gov/government/exempt-entities-higher-education-mass-transit-tribal/ "Exempt Entities - Higher Education, Mass Transit & Tribal")›
+      * ‹ BackExempt Entities - Higher Education, Mass Transit & Tribal
+      * [Government Motor Vehicle](https://dor.sd.gov/government/exempt-entities-higher-education-mass-transit-tribal/ "Government Motor Vehicle")
+* * *
+Get all the information you will need to title or renew your vehicle registration and license plates for your government vehicles.
+[Learn More](https://dor.sd.gov/government/exempt-entities-higher-education-mass-transit-tribal/ "Learn More")
+    * [Register of Deeds](https://dor.sd.gov/government/register-of-deeds/ "Register of Deeds")›
+      * ‹ BackRegister of Deeds
+      * [South Dakota Registers of Deeds](https://dor.sd.gov/government/register-of-deeds/ "South Dakota Registers of Deeds")
+* * *
+Essentials for Registers of Deeds relating to real estate value, deed transfers, sequence numbers and more.
+[See County Resources](https://dor.sd.gov/government/register-of-deeds/ "See County Resources")
+    * [Government FAQs](https://dor.sd.gov/government/government-faqs/ "Government FAQs")›
+      * ‹ BackGovernment FAQs
+      * [Government Frequently Asked Questions](https://dor.sd.gov/government/government-faqs/ "Government Frequently Asked Questions")
+* * *
+South Dakota government officials can find answers to frequently asked questions for local governments.
+[Get Answers](https://dor.sd.gov/government/government-faqs/ "Get Answers")
+    * [Government Forms / Resources](https://sddor.seamlessdocs.com/sc/government-forms/ "Government Forms / Resources")›
+      * ‹ BackGovernment Forms / Resources
+      * [Government Forms / Resources](https://sddor.seamlessdocs.com/sc/government-forms "Government Forms / Resources")
+* * *
+Quick links to help you find the right government forms fast.
+[See Government Forms](https://sddor.seamlessdocs.com/sc/government-forms "See Government Forms")
+  * [ ](https://sddor.seamlessdocs.com/sc/ "Forms / Resources")›
+    * ‹ Back
+    * [Business Forms](https://sddor.seamlessdocs.com/sc/business-forms/ "Business Forms")
+    * [Government Forms](https://sddor.seamlessdocs.com/sc/government-forms/ "Government Forms")
+    * [Individual Forms](https://sddor.seamlessdocs.com/sc/individual-forms/ "Individual Forms")
+    * [Master Form List](https://sddor.seamlessdocs.com/sc/master-forms/ "Master Form List")
+    * [Publications](https://sddor.seamlessdocs.com/sc/publications/ "Publications")›
+      * ‹ BackPublications
+      * [ Annual Reports ](https://sddor.seamlessdocs.com/sc/publications-annual-reports/ "Annual Reports")
+      * [ Guides ](https://sddor.seamlessdocs.com/sc/publications-guides/ "Guides")
+      * [ Newsletters ](https://sddor.seamlessdocs.com/sc/publications-newsletters/ "Newsletters")
+      * [ Sales Tax Rate Charts ](https://sddor.seamlessdocs.com/sc/publications-sales-tax-rate-charts/ "Sales Tax Rate Charts")
+      * [ Tax Facts ](https://sddor.seamlessdocs.com/sc/publications-tax-facts/ "Tax Facts")
+    * [Statistics](https://sddor.seamlessdocs.com/sc/statistics/ "Statistics")
+
+
+  * ![](https://dor.sd.gov/images/icons/search/search-dark.svg?v=qwfVNVDZwS-DU-WzbccI5H0IqugKRhnvplca1eRvjD0)
+  * [Online Services](https://dor.sd.gov/online-services/)
+
+
+Businesses
+The Motor Vehicle Division experiencing a backlog of up to three months,   
+[click here to request expedited title](https://dor.sd.gov/newsroom/request-a-vehicle-or-boat-title/ "Request A Title"). 
+  1. [Home](https://dor.sd.gov/)
+  2. [Businesses](https://dor.sd.gov/businesses/)
+  3. [Taxes](https://dor.sd.gov/businesses/taxes/)
+  4. Municipal Tax
+
+
+# Municipal Tax
+The South Dakota Department of Revenue is the administrative and enforcement agency for municipal sales or use tax, and gross receipts tax. [SDCL 10-52](http://sdlegislature.gov/statutes/Codified_laws/DisplayStatute.aspx?Statute=10-52&Type=Statute "SDCL 10-52")
+South Dakota law allows municipalities to impose a municipal sales or use tax, and gross receipts tax. Businesses report municipal sales tax, use tax, and gross receipts tax on the same tax return as they report the state sales tax and use tax. Only one tax return is needed to report and remit both state and municipal tax. The following guides and publications are available:
+  * [Municipal Tax Guide (PDF) July 2025](https://dor.sd.gov/media/kuvnx2ch/2025-07_municipal-tax-guide.pdf "2025 07 Municipal Tax Guide")
+  * [Municipal Tax Schedule July - December 2025 (PDF)](https://dor.sd.gov/media/ewfpl5kf/municipal-sj-tax-schedule-2025-07.pdf "Municipal SJ Tax Schedule 2025 07")
+  * [Municipal Tax Schedule July - December 2025 (XLSX)](https://dor.sd.gov/media/uv2hp25v/municipal-sj-tax-schedule-2025-07.xlsx "Municipal SJ Tax Schedule 2025 07 \(1\)")
+  * [Municipal Tax Chart July- December 2025 (PDF)](https://dor.sd.gov/media/uurbb0xr/municipal-sj-tax-rate-chart-2025-07.pdf "Municipal SJ Tax Rate Chart 2025 07")
+
+
+  * [Municipal Tax Guide (PDF) January 2025](https://dor.sd.gov/media/x2rc2tek/2025-01_municipal-tax-guide.pdf "2025 01 Municipal Tax Guide")
+  * [Municipal Tax Schedule January - June 2025 (PDF)](https://dor.sd.gov/media/efjfs5w5/municipal-sj-tax-schedule-2025-01.pdf "Municipal SJ Tax Schedule 2025-01")
+  * [Municipal Tax Schedule January - June 2025 (XLSX)](https://dor.sd.gov/media/bihdxo1w/municipal-sj-tax-schedule-2025-01.xlsx "Municipal SJ Tax Schedule 2025 01")
+  * [Municipal Tax Chart January - June 2025 (PDF)](https://dor.sd.gov/media/dujiu1sb/municipal-sj-tax-rate-chart-2025-01.pdf "Municipal SJ Tax Rate Chart 2025 01")
+
+
+  * [Municipal Tax Guide (PDF) July 2024](https://dor.sd.gov/media/4gkbvc0l/2024-07_municipal-tax-guide.pdf "July 2024 Municipal Tax Guide")
+  * [Municipal Tax Schedule July - December 2024 (PDF)](https://dor.sd.gov/media/1chpt0ai/municipal-sj-tax-schedule-2024-07.pdf "Municipal SJ Tax Schedule 2024 07 PDF")
+  * [Municipal Tax Schedule July - December 2024 (XLSX)](https://dor.sd.gov/media/forgwhjh/municipal-sj-tax-schedule-2024-07.xlsx "Municipal SJ Tax Schedule 2024 07")
+  * [Municipal Tax Chart July- December 2024 (PDF)](https://dor.sd.gov/media/jfbnrrfy/municipal-sj-tax-rate-chart-2024-07-1.pdf "Municipal SJ Tax Rate Chart 2024 07")
+
+
+  * [Municipal Tax Guide (PDF) January 2024](https://dor.sd.gov/media/gouah1sv/2024-01_municipal-tax-guide.pdf "2024 01 Municipal Tax Guide")
+  * [Municipal Tax Schedule January - June 2024 (PDF)](https://dor.sd.gov/media/1xzh3y5b/municipal-sj-tax-schedule-2024-01.pdf "Municipal SJ Tax Schedule 2024 01")
+  * [Municipal Tax Schedule January - June 2024 (XLSX)](https://dor.sd.gov/media/101fk2kt/municipal-sj-tax-schedule-2024-01.xlsx "Municipal SJ Tax Schedule 2024 01 \(1\)")
+  * [Municipal Tax Chart January - June 2024 (PDF)](https://dor.sd.gov/media/a21j1zot/municipal-sj-tax-rate-chart-2024-01.pdf "Municipal SJ Tax Rate Chart 2024 01")
+
+
+  * [Municipal Tax Guide for Municipal Officials (PDF)](https://dor.sd.gov/media/eeig2qy2/2019-12-taxguidemunicipalofficials.pdf "Mtguide")
+  * [Notice of Annexation](https://sddor.seamlessdocs.com/f/2043 "Notice of Annexation")
+  * [Notice of New or Updated Addresses](https://sddor.seamlessdocs.com/f/5028 "Notice of New or Updated Addresses")
+
+
+* * *
+## Quick Navigation
+###### [General Municipal Sales Tax](https://dor.sd.gov/businesses/taxes/municipal-tax/#general)
+###### [Municipal Gross Receipts Tax](https://dor.sd.gov/businesses/taxes/municipal-tax/#muni)
+###### [Other Taxes](https://dor.sd.gov/businesses/taxes/municipal-tax/#other)
+###### [Special Jurisdictions](https://dor.sd.gov/businesses/taxes/municipal-tax/#special)
+######  [Historical Tax Rates](https://dor.sd.gov/businesses/taxes/municipal-tax/#historical)
+###### [Business Education Program](https://dor.sd.gov/businesses/taxes/municipal-tax/#education)
+###### [Municipal Tax Charts By City](https://dor.sd.gov/businesses/taxes/municipal-tax/#taxpdfs)
+* * *
+## General Municipal Sales Tax
+All businesses licensed in South Dakota are also required to collect and remit municipal sales or use tax, and the municipal gross receipts tax. Municipal sales tax applies when the customer purchases or receives the products or services within a city that imposes a tax. The rate of tax is generally between 1% to 2%. Municipalities may impose or amend a municipal tax only on January 1st or July 1st. The list at the **bottom ↓ of this page** provides you with information of all municipalities located within the state that impose a local option sales tax and the general rate of tax.
+###### [MUNICIPAL Sales TAX (BY CITY)](https://dor.sd.gov/businesses/taxes/municipal-tax/#taxpdfs "Municipal Sales Tax")
+[See New Municipal Tax Changes](https://dor.sd.gov/newsroom/changes-in-municipal-taxes-take-effect-in-two-south-dakota-communities/ "Municipal Tax Changes")
+## Municipal Gross Receipts Tax
+The 1% municipal gross receipts tax (MGRT) is in addition to the municipal sales tax. The MGRT can be imposed on alcoholic beverages, eating establishments, lodging accommodations, admissions to places of amusement, athletic, and cultural events. MGRT can be, by municipality is listed at the **bottom ↓ of this page.**
+  * [Municipal Tax Guide (PDF)](https://dor.sd.gov/media/kuvnx2ch/2025-07_municipal-tax-guide.pdf "2025 07 Municipal Tax Guide") includes a detailed outline of what is included in MGRT. This includes the municipality’s name, current municipal tax rate, the tax code, and the MGRT code.
+  * If the municipality applies MGRT to these services or products, an “X” in the column will mean it is taxable.
+  * If there isn’t an “X”, the product or service is not subject to that municipality’s MGRT.
+
+
+###### [MUNICIPAL GROSS TAX (BY CITY)](https://dor.sd.gov/businesses/taxes/municipal-tax/#taxpdfs "Municipal Gross Tax")
+### Admissions to Places of Amusement, Athletic, and Cultural Events
+Sales of tickets and charges or fees to movie theaters, carnival rides, tourist attractions, swimming pools, bowling alleys, tennis courts, racquet ball courts, concerts, operas, ballets, sports contests, similar activities or events, and membership fees (golf clubs, etc.).
+### Alcoholic Beverages
+Alcoholic beverages as defined for on or off-sale liquor, wine, and beer in [SDCL 35-1-1](http://sdlegislature.gov/statutes/Codified_laws/DisplayStatute.aspx?Statute=35-1-1&Type=Statute "SDCL 35-1-1").
+### Eating Establishments
+Businesses where the public is invited to eat, dine, or purchase and carry out prepared food for immediate consumption, including snack bars and concession stands at movie theaters.
+### Lodging Accommodations
+Lease or rental of hotel/motel rooms, campsites, or other lodging accommodations for periods of less than 28 consecutive days.
+## Other Taxes
+The following are several tax types that if applicable are to be listed in the “City & Special Jurisdiction” section of the return:
+Other Taxes | Rate | Code  
+---|---|---  
+Other Taxes | Rate | Code  
+**Telecommunication Tax** | 4% | 900-1  
+**Tourism Tax** | 1.5% | 700-1  
+**Motor Vehicle** | 4.2% | 600-1  
+**Sioux Falls Lodging** | 1% | 800-1  
+## Special Jurisdictions
+Services received or products delivered within special jurisdictions should be reported under the Special Jurisdiction sales / use tax code. The tables at the **bottom ↓ of this page** provide information on these jurisdictions.
+## Historical Tax Rates
+Find a list of the last 10 years of past municipal tax history on the link provided below.
+[See Historical Tax Rates](https://dor.sd.gov/media/srvdd2ss/sddor_taxrates-current-historical-updated-july-2024.pdf "Municipal Tax Current Historical Rates")
+## Business Education Program
+![Woman Smiling at a Desk](https://dor.sd.gov/media/bfsduah4/government_womanbehinddesk.jpg)
+Want to expand your business knowledge and skills? The Department of Revenue provides training to South Dakota's entrepreneurs through our [Business Education Program](https://dor.sd.gov/online-services/business-education-program/ "Business Education Program"). The program offers [c](https://apps.sd.gov/rv23education/Request.aspx)[ustomized presentations](https://apps.sd.gov/rv23education/Request.aspx "Customized Presentations") tailored to the needs of your organization, business, or group as well as [reviews](https://apps.sd.gov/rv23education/Review.aspx)[ on South Dakota tax laws](https://apps.sd.gov/rv23education/Review.aspx "Review on SD Tax Laws"). The program can also:
+  * Offer seminars covering sales, use, and contractors' excise tax
+  * Provide updates on new tax legislation
+  * Provide speakers for your meetings
+  * Provide a custom tax seminar to meet your organization's needs
+
+
+### Basic Sales Tax Seminars
+Three-hour seminars are held three to four times throughout the year in Sioux Falls, Rapid City and Mitchell. A total of 3.0 CPE credits and/or 0.3 CEU credits are awarded for those who apply for them and attend the entire seminar. Each seminar will cover:
+  * How and when to apply for a tax license
+  * Exemptions from sales and use taxes
+  * Use tax
+  * Municipal Taxes
+  * Purchases for resale
+  * How to file returns (paper and electronically)
+
+
+[Find Upcoming Seminars](https://dor.sd.gov/online-services/business-education-program/ "Business Education Program")
+### Have Questions?
+Contact the Business Education Coordinator at [(605) 773-3311](tel:6057733311 "Call \(605\) 773-3311"), or email at business.education@state.sd.us.
+## Online Services
+[ ![Business Education Program](https://dor.sd.gov/media/zzaphbnt/business-education.svg) Business Education Program ](https://apps.sd.gov/RV23Education/Classes.aspx "Business Education Program")
+[ ![Sales Tax Rate Lookup](https://dor.sd.gov/media/fjdmvxko/search-1.svg) Sales Tax Rate Lookup ](https://apps.sd.gov/rv25taxmatch/main.aspx "Sales Tax Rate Lookup")
+* * *
+### Municipal Tax Charts (by city)
+Up-to-date municipal tax information can be found in the most recent municipal tax information bulletin as well as the tables below. Updated rates are printed in the department’s newsletter.
+#####  City Name: A - C 
+City | Rate | General Code | MGRT Rate | Tax Code | Lodging | Eating Establishments | Alcohol | Admissions  
+---|---|---|---|---|---|---|---|---  
+City | Rate | General Code | MGRT Rate | Tax Code | Lodging | Eating Establishments | Alcohol | Admissions  
+**Aberdeen** | 2.00% | 001-2 | 1.00% | 001-1 | X | X | X | X  
+**Akaska** | 2.00% | 004-2 |  |  |  |  |  |   
+**Alcester** | 2.00% | 006-2 |  |  |  |  |  |   
+**Alexandria** | 2.00% | 007-2 |  |  |  |  |  |   
+**Alpena** | 1.00% | 009-2 |  |  |  |  |  |   
+**Andover** | 2.00% | 011-2 |  |  |  |  |  |   
+**Arlington** | 2.00% | 013-2 | 1.00% | 013-1 | X | X | X | X  
+**Armour** | 2.00% | 014-2 |  |  |  |  |  |   
+**Artesian** | 2.00% | 015-2 |  |  |  |  |  |   
+**Ashton** | 2.00% | 016-2 |  |  |  |  |  |   
+**Astoria** | 2.00% | 017-2 |  |  |  |  |  |   
+**Aurora** | 2.00% | 019-2 |  |  |  |  |  |   
+**Avon** | 2.00% | 020-2 |  |  |  |  |  |   
+**Baltic** | 2.00% | 022-2 | 1.00% | 022-1 | X | X | X | X  
+**Belle Fourche** | 2.00% | 027-2 | 1.00% | 027-1 | X | X | X | X  
+**Belvidere** | 2.00% | 028-2 |  |  |  |  |  |   
+**Beresford** | 2.00% | 029-2 | 1.00% | 029-1 | X | X | X | X  
+**Big** **Stone City** | 2.00% | 031-2 |  |  |  |  |  |   
+**Bison** | 2.00% | 032-2 |  |  |  |  |  |   
+**Blunt** | 1.00% | 034-2 | 1.00% | 034-1 |  |  | X |   
+**Bonesteel** | 2.00% | 035-2 |  |  |  |  |  |   
+**Bowdle** | 2.00% | 035-2 |  |  |  |  |  |   
+**Box Elder** | 2.00% | 037-2 | 1.00% | 037-1 | X | X | X | X  
+**Bradley** | 2.00% | 038-2 |  |  |  |  |  |   
+**Brandon** | 2.00% | 039-2 | 1.00% | 039-1 | X | X | X | X  
+**Brandt** | 2.00% | 040-2 |  |  |  |  |  |   
+**Bridgewater** | 2.00% | 042-2 |  |  |  |  |  |   
+**Bristol** | 2.00% | 043-2 |  |  |  |  |  |   
+**Britton** | 2.00% | 044-2 | 1.00% | 044-1 | X | X | X | X  
+**Brookings** | 2.00% | 045-2 | 1.00% | 045-1 | X | X | X | X  
+**Bruce** | 2.00% | 046-2 |  |  |  |  |  |   
+**Bryant** | 2.00% | 047-2 |  |  |  |  |  |   
+**Buffalo** | 2.00% | 048-2 |  |  |  |  |  |   
+**Burke** | 2.00% | 053-2 |  |  |  |  |  |   
+**Camp Crook** | 1.00% | 054-2 |  |  |  |  |  |   
+**Canistota** | 2.00% | 055-2 | 1.00% | 055-1 | X | X | X | X  
+**Canova** | 1.95% | 056-2 |  |  |  |  |  |   
+**Canton** | 2.00% | 057-2 | 1.00% | 057-1 | X | X | X | X  
+**Carthage** | 2.00% | 061-2 |  |  |  |  |  |   
+**Castlewood** | 2.00% | 062-2 |  |  |  |  |  |   
+**Cavour** | 2.00% | 063-2 |  |  |  |  |  |   
+**Centerville** | 2.00% | 065-2 | 1.00% | 065-1 | X | X | X | X  
+**Central City** | 2.00% | 066-2 |  |  |  |  |  |   
+**Chamberlain** | 2.00% | 067-2 | 1.00% | 067-1 | X | X | X | X  
+**Chancellor** | 2.00% | 068-2 | 1.00% | 068-1 | X | X | X | X  
+**Clark** | 2.00% | 073-2 |  |  |  |  |  |   
+**Clear Lake** | 2.00% | 075-2 | 1.00% | 075-1 | X | X | X | X  
+**Colman** | 2.00% | 076-2 |  |  |  |  |  |   
+**Colome** | 2.00% | 077-2 | 1.00% | 077-1 | X | X | X | X  
+**Colton** | 2.00% | 078-2 | 1.00% | 078-1 | X | X | X | X  
+**Columbia** | 2.00% | 079-2 |  |  |  |  |  |   
+**Conde** | 2.00% | 080-2 |  |  |  |  |  |   
+**Corona** | 2.00% | 081-2 |  |  |  |  |  |   
+**Corsica** | 2.00% | 082-2 | 1.00% | 082-1 | X | X | X | X  
+**Cresbard** | 2.00% | 085-2 |  |  |  |  |  |   
+**Crooks** | 2.00% | 087-2 | 1.00% | 087-1 | X | X | X | X  
+**Custer** | 2.00% | 088-2 | 1.00% | 088-1 | X | X | X | X  
+#####  City Name: D - H 
+City | Rate | General Code | MGRT Rate | Tax Code | Lodging | Eating Establishments | Alcohol | Admissions  
+---|---|---|---|---|---|---|---|---  
+City | Rate | General Code | MGRT Rate | Tax Code | Lodging | Eating Establishments | Alcohol | Admissions  
+**Dallas** | 2.00% | 089-2 | 1.00% | 089-1 | X | X | X | X  
+**Dante** | 2.00% | 090-2 |  |  |  |  |  |   
+**Davis** | 2.00% | 091-2 |  |  |  |  |  |   
+**Deadwood** | 2.00% | 093-2 | 1.00% | 093-1 | X | X | X | X  
+**Dell Rapids** | 2.00% | 094-2 | 1.00% | 094-1 | X | X | X | X  
+**Delmont** | 2.00% | 095-2 |  |  |  |  |  |   
+**DeSmet** | 2.00% | 092-2 | 1.00% | 092-1 | X | X | X | X  
+**Dimock** | 2.00% | 097-2 |  |  |  |  |  |   
+**Doland** | 2.00% | 098-2 |  |  |  |  |  |   
+**Dupree** | 1.00% | 101-2 |  |  |  |  |  |   
+**Eagle Butte** | 2.00% | 102-2 | 1.00% | 102-1 | X | X |  | X  
+**Eden** | 1.00% | 103-2 |  |  |  |  |  |   
+**Edgemont** | 2.00% | 104-2 | 1.00% | 104-1 | X | X | X | X  
+**Egan** | 2.00% | 105-2 |  |  |  |  |  |   
+**Elk Point** | 2.00% | 106-2 | 1.00% | 106-1 | X | X | X | X  
+**Elkton** | 2.00% | 107-2 |  |  |  |  |  |   
+**Emery** | 2.00% | 110-2 |  |  |  |  |  |   
+**Erwin** | 2.00% | 112-2 |  |  |  |  |  |   
+**Estelline** | 2.00% | 113-2 |  |  |  |  |  |   
+**Ethan** | 2.00% | 114-2 |  |  |  |  |  |   
+**Eureka** | 2.00% | 115-2 |  |  |  |  |  |   
+**Fairfax** | 2.00% | 117-2 |  |  |  |  |  |   
+**Fairview** | 2.00% | 118-2 |  |  |  |  |  |   
+**Faith** | 2.00% | 119-2 | 1.00% | 119-1 | X | X | X | X  
+**Faulkton** | 2.00% | 121-2 | 1.00% | 121-1 | X | X | X |   
+**Flandreau** | 2.00% | 125-2 | 1.00% | 125-1 | X | X | X | X  
+**Florence** | 2.00% | 126-2 |  |  |  |  |  |   
+**Fort Pierre** | 2.00% | 129-2 | 1.00% | 129-1 | X | X | X | X  
+**Frankfort** | 2.00% | 131-2 |  |  |  |  |  |   
+**Frederick** | 1.00% | 132-2 |  |  |  |  |  |   
+**Freeman** | 2.00% | 133-2 | 1.00% | 133-1 | X | X | X | X  
+**Garretson** | 2.00% | 138-2 | 1.00% | 138-1 | X | X | X | X  
+**Gary** | 2.00% | 139-2 | 1.00% | 139-1 | X | X | X | X  
+**Gayville** | 2.00% | 140-2 |  |  |  |  |  |   
+**Geddes** | 2.00% | 141-2 |  |  |  |  |  |   
+**Gettysburg** | 2.00% | 142-2 | 1.00% | 142-1 | X | X | X | X  
+**Glenham** | 2.00% | 145-2 |  |  |  |  |  |   
+**Gregory** | 2.00% | 147-2 | 1.00% | 147-1 | X | X | X | X  
+**Grenville** | 2.00% | 148-2 |  |  |  |  |  |   
+**Groton** | 2.00% | 149-2 | 1.00% | 149-1 | X | X | X |   
+**Harrisburg** | 2.00% | 151-2 | 1.00% | 151-1 | X | X | X | X  
+**Harrold** | 2.00% | 153-2 |  |  |  |  |  |   
+**Hartford** | 2.00% | 154-2 | 1.00% | 154-1 | X | X | X | X  
+**Hayti** | 2.00% | 156-2 |  |  |  |  |  |   
+**Hazel** | 1.00% | 157-2 |  |  |  |  |  |   
+**Hecla** | 2.00% | 158-2 |  |  |  |  |  |   
+**Henry** | 2.00% | 159-2 |  |  |  |  |  |   
+**Hermosa** | 2.00% | 160-2 | 1.00% | 160-1 | X | X | X | X  
+**Herreid** | 2.00% | 161-2 |  |  |  |  |  |   
+**Highmore** | 2.00% | 164-2 | 1.00% | 164-1 | X | X | X | X  
+**Hill City** | 2.00% | 165-2 | 1.00% | 165-1 | X | X | X | X  
+**Hitchcock** | 1.00% | 166-2 |  |  |  |  |  |   
+**Hosmer** | 2.00% | 168-2 |  |  |  |  |  |   
+**Hot Springs** | 2.00% | 169-2 | 1.00% | 169-1 | X | X | X | X  
+**Hoven** | 2.00% | 171-2 |  |  |  |  |  |   
+**Howard** | 2.00% | 172-2 | 1.00% | 172-1 | X | X | X | X  
+**Hudson** | 2.00% | 174-2 |  |  |  |  |  |   
+**Humboldt** | 2.00% | 175-2 | 1.00% | 175-1 | X | X | X | X  
+**Hurley** | 2.00% | 176-2 |  |  |  |  |  |   
+**Huron** | 2.00% | 177-2 | 1.00% | 177-1 | X | X | X | X  
+#####  City Name: I - M 
+City | Rate | General Code | MGRT Rate | Tax Code | Lodging | Eating Establishments | Alcohol | Admissions  
+---|---|---|---|---|---|---|---|---  
+City | Rate | General Code | MGRT Rate | Tax Code | Lodging | Eating Establishments | Alcohol | Admissions  
+**Interior** | 2.00% | 179-2 | 1.00% | 179-1 | X | X | X | X  
+**Ipswich** | 2.00% | 181-2 |  |  |  |  |  |   
+**Irene** | 2.00% | 182-2 | 1.00% | 182-1 | X | X | X | X  
+**Iriquois** | 1.00% | 183-2 |  |  |  |  |  |   
+**Isabel** | 2.00% | 184-2 |  |  |  |  |  |   
+**Java** | 2.00% | 185-2 |  |  |  |  |  |   
+**Jefferson** | 2.00% | 186-2 |  |  |  |  |  |   
+**Kadoka** | 2.00% | 187-2 | 1.00% | 187-1 | X | X | X | X  
+**Kennebec** | 2.00% | 190-2 | 1.00% | 190-1 | X | X | X |   
+**Keystone** | 2.00% | 192-2 | 1.00% | 192-1 | X | X | X | X  
+**Kimball** | 2.00% | 193-2 | 1.00% | 193-1 | X | X | X | X  
+**Kranzburg** | 2.00% | 194-2 |  |  |  |  |  |   
+**La Bolt** | 1.00% | 196-2 |  |  |  |  |  |   
+**Lake Andes** | 2.00% | 197-2 |  |  |  |  |  |   
+**Lake City** | 2.00% | 198-2 |  |  |  |  |  |   
+**Lake Norden** | 2.00% | 199-2 |  |  |  |  |  |   
+**Lake Preston** | 2.00% | 200-2 |  |  |  |  |  |   
+**Lane** | 2.00% | 201-2 |  |  |  |  |  |   
+**Langford** | 2.00% | 202-2 |  |  |  |  |  |   
+**Lead** | 2.00% | 204-2 | 1.00% | 204-1 | X | X | X | X  
+**Lemmon** | 2.00% | 206-2 | 1.00% | 206-1 | X | X | X |   
+**Lennox** | 2.00% | 207-2 | 1.00% | 207-1 | X | X | X | X  
+**Leola** | 2.00% | 208-2 |  |  |  |  |  |   
+**Lesterville** | 2.00% | 209-2 |  |  |  |  |  |   
+**Letcher** | 2.00% | 210-2 | 1.00% | 210-1 | X | X | X |   
+**Madison** | 2.00% | 221-2 | 1.00% | 221-1 | X | X | X |   
+**Marion** | 2.00% | 226-2 |  |  |  |  |  |   
+**Martin** | 2.00% | 227-2 | 1.00% | 227-1 | X | X | X | X  
+**McCook Lake** | 2.00% | 258-2 | 1.00% | 258-1 | X | X | X | X  
+**McIntosh** | 2.00% | 219-2 |  |  |  |  |  |   
+**McLaughlin** | 2.00% | 220-2 |  |  |  |  |  |   
+**Mellette** | 2.00% | 232-2 |  |  |  |  |  |   
+**Menno** | 2.00% | 233-2 |  |  |  |  |  |   
+**Midland** | 2.00% | 234-2 |  |  |  |  |  |   
+**Milbank** | 2.00% | 235-2 | 1.00% | 235-1 | X | X | X |   
+**Miller** | 2.00% | 237-2 | 1.00% | 237-1 | X | X | X |   
+**Mission** | 2.00% | 239-2 |  |  |  |  |  |   
+**Mitchell** | 2.00% | 242-2 | 1.00% | 242-1 | X | X | X | X  
+**Mobridge** | 2.00% | 243-2 | 1.00% | 243-1 | X | X | X |   
+**Monroe** | 2.00% | 244-2 |  |  |  |  |  |   
+**Montrose** | 2.00% | 245-2 |  |  |  |  |  |   
+**Morristown** | 1.50% | 246-2 |  |  | X | X | X | X  
+**Mound City** | 2.00% | 247-2 |  |  |  |  |  |   
+**Mount Vernon** | 2.00% | 248-2 | 1.00% | 248-1 | X | X | X | X  
+**Murdo** | 2.00% | 250-2 | 1.00% | 250-1 | X | X | X | X  
+#####  City Name: N - S 
+City | Rate | General Code | MGRT Rate | Tax Code | Lodging | Eating Establishments | Alcohol | Admissions  
+---|---|---|---|---|---|---|---|---  
+City | Rate | General Code | MGRT Rate | Tax Code | Lodging | Eating Establishments | Alcohol | Admissions  
+**New Effington** | 2.00% | 252-2 |  |  |  |  |  |   
+**New Underwood** | 2.00% | 254-2 |  |  |  |  |  |   
+**Newell** | 2.00% | 255-2 | 1.00% | 255-1 | X | X | X | X  
+**Nisland** | 2.00% | 256-2 |  |  |  |  |  |   
+**North Sioux City** | 2.00% | 258-2 | 1.00% | 258-1 | X | X | X | X  
+**Oacoma** | 2.00% | 261-2 | 1.00% | 261-1 | X | X | X | X  
+**Oelrichs** | 2.00% | 262-2 |  |  |  |  |  |   
+**Oldham** | 2.00% | 266-2 |  |  |  |  |  |   
+**Olivet** | 1.00% | 267-2 |  |  |  |  |  |   
+**Onida** | 2.00% | 269-2 |  |  |  |  |  |   
+**Orient** | 1.00% | 272-2 |  |  |  |  |  |   
+**Parker** | 2.00% | 276-2 |  |  |  |  |  |   
+**Parkston** | 2.00% | 277-2 | 1.00% | 277-1 | X | X | X | X  
+**Peever** | 2.00% | 279-2 |  |  |  |  |  |   
+**Philip** | 2.00% | 280-2 |  |  |  |  |  |   
+**Pickstown** | 2.00% | 281-2 |  |  |  |  |  |   
+**Piedmont** | 2.00% | 282-2 |  |  |  |  |  |   
+**Pierpont** | 2.00% | 283-2 |  |  |  |  |  |   
+**Pierre** | 2.00% | 284-2 | 1.00% | 284-1 | X | X | X | X  
+**Plankinton** | 2.00% | 286-2 |  |  |  |  |  |   
+**Platte** | 2.00% | 287-2 | 1.00% | 287-1 | X | X | X |   
+**Pollock** | 2.00% | 288-2 |  |  |  |  |  |   
+**Presho** | 2.00% | 291-2 |  |  |  |  |  |   
+**Pringle** | 2.00% | 209-2 |  |  |  |  |  |   
+**Pukwana** | 2.00% | 294-2 |  |  |  |  |  |   
+**Quinn** | 1.00% | 295-2 | 1.00% | 295-1 | X | X | X | X  
+**Ramona** | 2.00% | 297-2 |  |  |  |  |  |   
+**Rapid City** | 2.00% | 298-2 | 1.00% | 298-1 | X | X | X | X  
+**Redfield** | 2.00% | 301-2 | 1.00% | 301-1 | X | X | X |   
+**Reliance** | 2.00% | 305-2 | 1.00% | 305-1 | X | X | X |   
+**Revillo** | 1.00% | 308-2 |  |  |  |  |  |   
+**Roscoe** | 2.00% | 312-2 |  |  |  |  |  |   
+**Rosholt** | 2.00% | 314-2 |  |  |  |  |  |   
+**Roslyn** | 3.00% | 315-2 |  |  |  |  |  |   
+**Saint Lawrence** | 2.00% | 320-2 | 1.00% | 235-1 | X | X | X |   
+**Salem** | 2.00% | 322-2 | 1.00% | 322-1 | X | X | X | X  
+**Scotland** | 2.00% | 324-2 |  |  |  |  |  |   
+**Selby** | 2.00% | 325-2 |  |  |  |  |  |   
+**Sherman** | 1.00% | 328-2 |  |  |  |  |  |   
+**Sioux Falls** | 2.00% | 330-2 | 1.00% | 330-1 | X | X | X | X  
+**Sisseton** | 2.00% | 331-2 | 1.00% | 331-1 | X | X | X |   
+**South Shore** | 1.00% | 333-2 |  |  |  |  |  |   
+**Spearfish** | 2.00% | 334-2 | 1.00% | 334-1 | X | X | X | X  
+**Spencer** | 2.00% | 335-2 |  |  |  |  |  |   
+**Springfield** | 2.00% | 336-2 |  |  |  |  |  |   
+**Stickney** | 2.00% | 337-2 |  |  |  |  |  |   
+**Stratford** | 2.00% | 340-2 |  |  |  |  |  |   
+**Sturgis** | 2.00% | 341-2 | 1.00% | 341-1 | X | X | X | X  
+**Summerset** | 2.00% | 425-2 | 1.00% | 425-1 | X | X | X | X  
+**Summit** | 2.00% | 342-2 |  |  |  |  |  |   
+#####  City Name: T - Z 
+City | Rate | General Code | MGRT Rate | Tax Code | Lodging | Eating Establishments | Alcohol | Admissions  
+---|---|---|---|---|---|---|---|---  
+City | Rate | General Code | MGRT Rate | Tax Code | Lodging | Eating Establishments | Alcohol | Admissions  
+**Tabor** | 2.00% | 343-2 |  |  |  |  |  |   
+**Tea** | 2.00% | 344-2 | 1.00% | 344-1 | X | X | X | X  
+**Timber Lake** | 2.00% | 345-2 |  |  |  |  |  |   
+**Toronto** | 2.00% | 347-2 |  |  |  |  |  |   
+**Trent** | 2.00% | 349-2 |  |  |  |  |  |   
+**Tripp** | 2.00% | 350-2 |  |  |  |  |  |   
+**Tulare** | 1.00% | 351-2 |  |  |  |  |  |   
+**Tyndall** | 2.00% | 355-2 |  |  |  |  |  |   
+**Utica** | 1.00% | 357-2 |  |  |  |  |  |   
+**Valley Springs** | 2.00% | 359-2 |  |  |  |  |  |   
+**Veblen** | 2.00% | 360-2 |  |  |  |  |  |   
+**Vermillion** | 2.00% | 362-2 | 1.00% | 362-1 | X | X | X | X  
+**Viborg** | 2.00% | 363-2 | 1.00% | 363-1 | X | X | X | X  
+**Volga** | 2.00% | 367-2 |  |  |  |  |  |   
+**Volin** | 2.00% | 368-2 |  |  |  |  |  |   
+**Wagner** | 2.00% | 369-2 | 1.00% | 369-1 | X | X | X | X  
+**Wakonda** | 2.00% | 370-2 |  |  |  |  |  |   
+**Wall** | 2.00% | 372-2 | 1.00% | 372-1 | X | X | X | X  
+**Wallace** | 1.00% | 373-2 |  |  |  |  |  |   
+**Ward** | 2.00% | 375-2 |  |  |  |  |  |   
+**Warner** | 2.00% | 376-2 |  |  |  |  |  |   
+**Wasta** | 1.00% | 377-2 |  |  |  |  |  |   
+**Watertown** | 2.00% | 379-2 | 1.00% | 379-1 | X | X | X | X  
+**Waubay** | 2.00% | 380-2 |  |  |  |  |  |   
+**Webster** | 2.00% | 382-2 | 1.00% | 382-1 | X | X | X | X  
+**Wentworth** | 2.00% | 383-2 |  |  |  |  |  |   
+**Wessington** | 2.00% | 384-2 |  |  |  |  |  |   
+**Wessington Springs** | 2.00% | 385-2 |  |  |  |  |  |   
+**Westport** | 2.00% | 386-2 |  |  |  |  |  |   
+**White** | 2.00% | 388-2 |  |  |  |  |  |   
+**White Lake** | 2.00% | 389-2 | 1.00% | 389-1 | X | X | X | X  
+**White River** | 2.00% | 391-2 |  |  |  |  |  |   
+**Whitewood** | 2.00% | 393-2 | 1.00% | 393-1 | X | X | X | X  
+**Willow Lake** | 2.00% | 394-2 |  |  |  |  |  |   
+**Wilmont** | 2.00% | 395-2 |  |  |  |  |  |   
+**Winner** | 2.00% | 397-2 | 1.00% | 397-1 | X | X | X |   
+**Witten** | 2.00% | 398-2 |  |  |  |  |  |   
+**Wolsey** | 2.00% | 399-2 |  |  |  |  |  |   
+**Wood** | 2.00% | 400-2 |  |  |  |  |  |   
+**Woonsocket** | 2.00% | 401-2 |  |  |  |  |  |   
+**Worthing** | 2.00% | 402-2 | 1.00% | 402-1 | X | X | X | X  
+**Yale** | 1.00% | 404-2 |  |  |  |  |  |   
+**Yankton** | 2.00% | 405-2 | 1.00% | 405-1 | X | X | X | X  
+For additional information on how the municipal gross receipts tax applies to the sale of products or services please see our [Municipal Tax Guide](https://dor.sd.gov/media/kuvnx2ch/2025-07_municipal-tax-guide.pdf "2025 07 Municipal Tax Guide") or[ Municipal Tax Rate Chart.](https://dor.sd.gov/media/a21j1zot/municipal-sj-tax-rate-chart-2024-01.pdf "Municipal SJ Tax Rate Chart 2024 01")
+[See Municipal Tax Guide](https://dor.sd.gov/media/kuvnx2ch/2025-07_municipal-tax-guide.pdf "2025 07 Municipal Tax Guide")
+* * *
+### Special Jurisdictions
+The tables below indicate cities within Special Jurisdictions that have a municipal tax as well as sales/use tax. The applicable code and rate are listed next to each city. If a city is not listed or does not have a code and rate listed, it does not have municipal tax.
+#####  Cheyenne River Special Jurisdiction 
+City | Rate | Code  
+---|---|---  
+City | Rate | Code  
+**Bridger** |  |   
+**Cherry Creek** |  |   
+**Dupree** | 1% | 101-2  
+**Eagle Butte** | 2% | 102-2  
+**Firesteel** |  |   
+**Glad Valley** |  |   
+**Glencross** |  |   
+**Isabel** | 2% | 184-2  
+**Lantry** |  |   
+**La Plant** |  |   
+**Ridgeview** |  |   
+**Timber Lake** | 2% | 345-2  
+**Whitehorse** |  |   
+#####  Crow Creek Special Jurisdiction 
+City | Rate | Code  
+---|---|---  
+City | Rate | Code  
+**Fort Thompson** |  |   
+**Stephan** |  |   
+#####  Oglala (Pine Ridge) Special Jurisdiction 
+City | Rate | Code  
+---|---|---  
+City | Rate | Code  
+**Batesland** |  |   
+**Kyle** |  |   
+**Long Valley** |  |   
+**Manderson** |  |   
+**Oglala** |  |   
+**Pine Ridge** |  |   
+**Porcupine** |  |   
+**Sharps Corner** |  |   
+**Wanblee** |  |   
+**Wounded Knee** |  |   
+#####  Rosebud Special Jurisdiction 
+City | Rate | Code  
+---|---|---  
+City | Rate | Code  
+**Mission** | 2% | 239-2  
+**Okreek** |  |   
+**Parmelee** |  |   
+**Rosebud** |  |   
+**St. Francis** |  |   
+#####  Standing Rock Special Jurisdiction 
+City | Rate | Code  
+---|---|---  
+City | Rate | Code  
+**Bullhead** |  |   
+**Keldron** |  |   
+**Kenel** |  |   
+**Little Eagle** |  |   
+**McIntosh** | 2% | 219-2  
+**McLaughlin** | 2% | 220-2  
+**Morristown** | 1.5% | 246-2  
+**Trail City** |  |   
+**Wakpala** |  |   
+**Watauga** |  |   
+For additional information on how the municipal gross receipts tax applies to the sale of products or services please see our [Municipal Tax Guide](https://dor.sd.gov/media/4gkbvc0l/2024-07_municipal-tax-guide.pdf "2024 07 Municipal Tax Guide") or [Municipal Tax Rate Chart.](https://dor.sd.gov/media/jemp0ulc/municipal-sj-tax-rate-chart-2022-01.xlsx "Municipal SJ Tax Rate Chart 2022 01 \(1\)")
+[See Municipal Tax Guide](https://dor.sd.gov/media/4gkbvc0l/2024-07_municipal-tax-guide.pdf "2024 07 Municipal Tax Guide")
+## Municipal Tax Laws & Regulations
+File your annual returns for the precious metals, energy mineral severance and conservation tax.
+[Learn More](https://dor.sd.gov/businesses/taxes/municipal-tax/municipal-tax-laws-regulations/)
+## Email Sign Up
+Get the latest Department of Revenue [news and updates](https://dor.sd.gov/businesses/taxes/municipal-tax/#SignUp) sent straight to your inbox.
+First Name
+Last Name
+Email
+By submitting this form, you agree to receive marketing and other information from DOR which will be collected as outlined in our [privacy policy](https://sd.gov/privacy.aspx "privacy policy"). 
+Quarterly Updates Education, Workshops & Webinars Deadlines & Due Dates
+![Department of Revenue logo](https://dor.sd.gov/images/logo-dor.svg?v=r0XjIEsmZhcMbN-uaSruyzk1sCAU30oDIiiKNmdn5Os)
+[445 E Capitol Avenue, Pierre, SD 57501](https://www.google.com/maps/place/South+Dakota+Department+of+Revenue/@44.3658843,-100.416591,12z/data=!4m8!1m2!2m1!1ssouth+dakota+department+of+revenue!3m4!1s0x8780121e8c60313f:0xd9c4c2f4b705024!8m2!3d44.3658843!4d-100.3465532)
+  * [Careers](https://sd.gov/employment.aspx "Careers")
+  * [Contact](https://dor.sd.gov/contact/ "Contact")
+  * [Report Tax Fraud](https://sddor.seamlessdocs.com/f/2038 "Report Tax Fraud")
+  * [DOR Intranet](https://intranetdor.sd.gov/ "DOR Intranet")
+  * [SD.GOV](http://sd.gov/ "SD.GOV")
+  * [SD News](https://www.sd.gov/news "SD News")
+  * [Privacy Policy](http://sd.gov/privacy.aspx "Privacy Policy")
+  * [Request Public Records](https://www.sd.gov/cs?id=sc_cat_item&sys_id=f7f939eddbd4b150b2fb93d4f39619c0 "Request Public Records")
+
+
+[ ![Facebook](https://dor.sd.gov/images/icons/social/facebook.svg?v=X5TgU87k6EWyozGSxytGFidemfRWKto4aWMki40oqKM) ](https://www.facebook.com/SDRevenue "Facebook")
+[ ![YouTube](https://dor.sd.gov/images/icons/social/youtube.svg?v=wtnXNyFUMpzZmsyp497JiKPfcN5bh4VRX-JvJZ5NWlA) ](http://www.youtube.com/user/SouthDakotaDOR "YouTube")
+[ ![Twitter](https://dor.sd.gov/images/icons/social/twitter.svg?v=6d4YrOHi9r_1XXewfEYxt6nOTAX9Adz6aaCpV6K-fPo) ](https://www.twitter.com/SDRevenue "Twitter")
+© Copyright 2025 - State of South Dakota
+

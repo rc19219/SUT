@@ -1,0 +1,513 @@
+URL: https://dor.sd.gov/government/county-auditors/
+TITLE: County Auditors | South Dakota Department of Revenue
+TYPE: WEBPAGE
+SCRAPED: 2025-08-29 11:54:26
+FINANCIAL PATTERNS FOUND: 12
+------------------------------------------------------------
+DETECTED PATTERNS:
+1.2%, 1.2%, 3.1%, Tax Rate  
+172, tax rate
+0, $675,656, $21,051,985, $163,237.05, Tax Liability, tax liability
+
+------------------------------------------------------------
+CONTENT:
+
+[ Skip to main content ](https://dor.sd.gov/government/county-auditors/#content)
+What Can We Do For You Today?
+Search DOR.GOV.SD p Choose a filter to refine your search All dor.sd.gov Pages Forms / Resources
+Close search
+  * [Pages](https://dor.sd.gov/government/county-auditors/#pagesResults)
+  * [Forms / Resources](https://dor.sd.gov/government/county-auditors/#formsResourcesResults)
+  * [All dor.sd.gov](https://dor.sd.gov/government/county-auditors/#allResults)
+
+
+[![South Dakota Department of Revenue](https://dor.sd.gov/images/logo-dor.svg?v=r0XjIEsmZhcMbN-uaSruyzk1sCAU30oDIiiKNmdn5Os)](https://dor.sd.gov/)
+#### Site navigation
+  * [Contact](https://dor.sd.gov/contact/ "Contact")
+  * [About DOR](https://dor.sd.gov/about-dor/ "About DOR")
+  * [Upcoming Dates](https://dor.sd.gov/calendar/ "Upcoming Dates")
+  * [Latest News](https://dor.sd.gov/newsroom/ "Latest News")
+  * [Live Chat](https://dorchat.sd.gov/Chat?id=NjRlZjkxYzktY2I1MS00Y2UxLThjM2YtMWE1NmQ1Mzk4OTkw "Live Chat")
+
+
+  * [ ](https://dor.sd.gov/individuals/ "Individuals")›
+    * ‹ Back
+    * [Gaming](https://dor.sd.gov/individuals/gaming/ "Gaming")›
+      * ‹ BackGaming
+      * [Gaming for Individuals](https://dor.sd.gov/individuals/gaming/ "Gaming for Individuals")
+* * *
+Find information about the South Dakota Commission on Gaming, laws, regulations and the seven types of gaming licenses issued to the general public.
+[Learn More](https://dor.sd.gov/individuals/gaming/ "Learn More")
+    * [Lottery](https://dor.sd.gov/individuals/lottery/ "Lottery")›
+      * ‹ BackLottery
+      * [Lottery for Individuals](https://dor.sd.gov/individuals/lottery/ "Lottery for Individuals")
+* * *
+Everything you need to know about games, licensing and beneficiaries of the South Dakota Lottery.
+[Learn More](https://dor.sd.gov/individuals/lottery/ "Learn More")
+    * [Motor Vehicle](https://dor.sd.gov/individuals/motor-vehicle/ "Motor Vehicle")›
+      * ‹ BackMotor Vehicle
+      * [ All Vehicles - Title, Fees & Registration ](https://dor.sd.gov/individuals/motor-vehicle/all-vehicles-title-fees-registration/ "All Vehicles - Title, Fees & Registration")
+      * [ Boats ](https://dor.sd.gov/individuals/motor-vehicle/boats/ "Boats")
+      * [ Cars, Trucks & Vans ](https://dor.sd.gov/individuals/motor-vehicle/cars-trucks-vans/ "Cars, Trucks & Vans")
+      * [ Historic Vehicles ](https://dor.sd.gov/individuals/motor-vehicle/historic-vehicles/ "Historic Vehicles")
+      * [ Low Speed Vehicles ](https://dor.sd.gov/individuals/motor-vehicle/low-speed-vehicles/ "Low Speed Vehicles")
+      * [ Manufactured Homes & Mobile Homes ](https://dor.sd.gov/individuals/motor-vehicle/manufactured-homes-mobile-homes/ "Manufactured Homes & Mobile Homes")
+      * [ Motorcycles ](https://dor.sd.gov/individuals/motor-vehicle/motorcycles/ "Motorcycles")
+      * [ Off-Road Vehicles ](https://dor.sd.gov/individuals/motor-vehicle/off-road-vehicles/ "Off-Road Vehicles")
+      * [ Rebuilt Vehicles ](https://dor.sd.gov/individuals/motor-vehicle/rebuilt-vehicles/ "Rebuilt Vehicles")
+      * [ Recreational, Motorhomes & Converted Housecars ](https://dor.sd.gov/individuals/motor-vehicle/recreational-motorhomes-converted-housecars/ "Recreational, Motorhomes & Converted Housecars")
+      * [ Snowmobiles ](https://dor.sd.gov/individuals/motor-vehicle/snowmobiles/ "Snowmobiles")
+      * [ Trailers ](https://dor.sd.gov/individuals/motor-vehicle/trailers/ "Trailers")
+      * [ Trucking ](https://dor.sd.gov/individuals/motor-vehicle/trucking/ "Trucking")
+    * [Taxes](https://dor.sd.gov/individuals/taxes/ "Taxes")›
+      * ‹ BackTaxes
+      * [ Alcohol ](https://dor.sd.gov/individuals/taxes/alcohol/ "Alcohol")
+      * [ Cigarette & Tobacco ](https://dor.sd.gov/individuals/taxes/cigarette-tobacco/ "Cigarette & Tobacco")
+      * [ Motor Fuel ](https://dor.sd.gov/individuals/taxes/motor-fuel/ "Motor Fuel")
+      * [ Property Tax ](https://dor.sd.gov/individuals/taxes/property-tax/ "Property Tax")
+      * [ Sales & Use Tax ](https://dor.sd.gov/individuals/taxes/sales-use-tax/ "Sales & Use Tax")
+      * [Individual Taxes](https://dor.sd.gov/individuals/taxes/ "Individual Taxes")
+* * *
+Learn what you need to file, pay and find information on taxes for the general public.
+[Learn More](https://dor.sd.gov/individuals/taxes/ "Learn More")
+    * [Individual FAQs](https://dor.sd.gov/individuals/individual-faqs/ "Individual FAQs")›
+      * ‹ BackIndividual FAQs
+      * [Individual Frequently Asked Questions](https://dor.sd.gov/individuals/individual-faqs/ "Individual Frequently Asked Questions")
+* * *
+See what other South Dakota taxpayers are asking the Department of Revenue.
+[Get Answers](https://dor.sd.gov/individuals/individual-faqs/ "Get Answers")
+    * [Individual Forms / Resources](https://sddor.seamlessdocs.com/sc/individual-forms/ "Individual Forms / Resources")›
+      * ‹ BackIndividual Forms / Resources
+      * [Individual Forms / Resources](https://sddor.seamlessdocs.com/sc/individual-forms/ "Individual Forms / Resources")
+* * *
+Quick links to help you find the right individual forms fast.
+[Find Individual Forms](https://sddor.seamlessdocs.com/sc/individual-forms/ "Find Individual Forms")
+  * [ ](https://dor.sd.gov/businesses/ "Businesses")›
+    * ‹ Back
+    * [Audit](https://dor.sd.gov/businesses/audit/ "Audit")›
+      * ‹ BackAudit
+      * [Business Audit](https://dor.sd.gov/businesses/audit/ "Business Audit")
+* * *
+See how DOR approaches reporting errors and omissions and correcting reporting habits for future returns.
+[Learn More](https://dor.sd.gov/businesses/audit/ "Learn More")
+    * [Gaming](https://dor.sd.gov/businesses/gaming/ "Gaming")›
+      * ‹ BackGaming
+      * [Gaming for Businesses](https://dor.sd.gov/businesses/gaming/ "Gaming for Businesses")
+* * *
+Find information on the South Dakota Commission on Gaming, applications, fees, annual reports, industry statistics and more.
+[Learn More](https://dor.sd.gov/businesses/gaming/ "Learn More")
+    * [Lottery](https://dor.sd.gov/businesses/lottery/ "Lottery")›
+      * ‹ BackLottery
+      * [Lottery for Businesses](https://dor.sd.gov/businesses/lottery/ "Lottery for Businesses")
+* * *
+Everything you need to know about games, licensing and South Dakota Lottery retailers.
+[Learn More](https://dor.sd.gov/businesses/lottery/ "Learn More")
+    * [Motor Vehicle](https://dor.sd.gov/businesses/motor-vehicle/ "Motor Vehicle")›
+      * ‹ BackMotor Vehicle
+      * [ Commercial Vehicles ](https://dor.sd.gov/businesses/motor-vehicle/commercial-vehicles/ "Commercial Vehicles")
+      * [ Dealer Vehicle Licenses ](https://dor.sd.gov/businesses/motor-vehicle/dealer-vehicle-licenses/ "Dealer Vehicle Licenses")
+      * [ Harvest Vehicles ](https://dor.sd.gov/businesses/motor-vehicle/harvest-vehicles/ "Harvest Vehicles")
+      * [ Nonprofit Organization Vehicles ](https://dor.sd.gov/businesses/motor-vehicle/nonprofit-organization-vehicles/ "Nonprofit Organization Vehicles")
+      * [ Motor Carrier Services ](https://dor.sd.gov/businesses/motor-vehicle/motor-carrier-services/ "Motor Carrier Services")
+      * [Business Motor Vehicle ](https://dor.sd.gov/businesses/motor-vehicle/ "Business Motor Vehicle ")
+* * *
+Get all the information you will need to title or renew your vehicle registration and license plates for your commercial vehicles.
+[Learn More](https://dor.sd.gov/businesses/motor-vehicle/ "Learn More")
+    * [Taxes](https://dor.sd.gov/businesses/taxes/ "Taxes")›
+      * ‹ BackTaxes
+      * [ Telecommunication Emergency Surcharges & Fees ](https://dor.sd.gov/businesses/taxes/telecommunication-emergency-surcharges-fees/ "Telecommunication Emergency Surcharges & Fees")
+      * [ Alcohol ](https://dor.sd.gov/businesses/taxes/alcohol/ "Alcohol")
+      * [ Amusement Machines ](https://dor.sd.gov/businesses/taxes/amusement-machines/ "Amusement Machines")
+      * [ Bank Franchise Tax ](https://dor.sd.gov/businesses/taxes/bank-franchise-tax/ "Bank Franchise Tax")
+      * [ Cigarette & Tobacco ](https://dor.sd.gov/businesses/taxes/cigarette-tobacco/ "Cigarette & Tobacco")
+      * [ Coin Operated Washers & Dryers ](https://dor.sd.gov/businesses/taxes/coin-operated-washers-dryers/ "Coin Operated Washers & Dryers")
+      * [ Contractor's Excise Tax ](https://dor.sd.gov/businesses/taxes/contractors-excise-tax/ "Contractor's Excise Tax")
+      * [ Motor Fuel ](https://dor.sd.gov/businesses/taxes/motor-fuel/ "Motor Fuel")
+      * [ Municipal Tax ](https://dor.sd.gov/businesses/taxes/municipal-tax/ "Municipal Tax")
+      * [ Precious Metal & Energy Mineral Severance Taxes & Conservation Tax ](https://dor.sd.gov/businesses/taxes/precious-metal-energy-mineral-severance-taxes-conservation-tax/ "Precious Metal & Energy Mineral Severance Taxes & Conservation Tax")
+      * [ Property Tax ](https://dor.sd.gov/businesses/taxes/property-tax/ "Property Tax")
+      * [ Sales & Use Tax ](https://dor.sd.gov/businesses/taxes/sales-use-tax/ "Sales & Use Tax")
+      * [ Tourism Tax ](https://dor.sd.gov/businesses/taxes/tourism-tax/ "Tourism Tax")
+    * [Sturgis Motorcycle Rally](https://dor.sd.gov/businesses/sturgis-motorcycle-rally/ "Sturgis Motorcycle Rally")›
+      * ‹ BackSturgis Motorcycle Rally
+      * [Sturgis Motor Cycle Rally](https://dor.sd.gov/businesses/sturgis-motorcycle-rally/ "Sturgis Motor Cycle Rally")
+* * *
+Find information, tax applications, licensing instructions and municipal tax rates for the Sturgis Motorcycle Rally.
+[Learn More](https://dor.sd.gov/businesses/sturgis-motorcycle-rally/ "Learn More")
+    * [Business FAQs](https://dor.sd.gov/businesses/business-faqs/ "Business FAQs")›
+      * ‹ BackBusiness FAQs
+      * [Business Frequently Asked Questions](https://dor.sd.gov/businesses/business-faqs/ "Business Frequently Asked Questions")
+* * *
+See what other business owners are asking the Department of Revenue.
+[Get Answers](https://dor.sd.gov/businesses/business-faqs/ "Get Answers")
+    * [Business Forms / Resources](https://sddor.seamlessdocs.com/sc/business-forms/ "Business Forms / Resources")›
+      * ‹ BackBusiness Forms / Resources
+      * [Business Forms / Resources](https://sddor.seamlessdocs.com/sc/business-forms/ "Business Forms / Resources")
+* * *
+Quick links to help you find the right business forms fast.
+[See Business Forms](https://sddor.seamlessdocs.com/sc/business-forms/ "See Business Forms")
+  * [ ](https://dor.sd.gov/government/ "Government")›
+    * ‹ Back
+    * [County Auditors](https://dor.sd.gov/government/county-auditors/ "County Auditors")›
+      * ‹ BackCounty Auditors
+      * [South Dakota County Auditors](https://dor.sd.gov/government/county-auditors/ "South Dakota County Auditors")
+* * *
+In-depth content for South Dakota County Auditors on calculating growth percentage, CPI, Relief Programs, TIF and other property tax essentials.
+[See County Resources](https://dor.sd.gov/government/county-auditors/ "See County Resources")
+    * [County Commissioners](https://dor.sd.gov/government/county-commissioners/ "County Commissioners")›
+      * ‹ BackCounty Commissioners
+      * [South Dakota County Commissioners](https://dor.sd.gov/government/county-commissioners/ "South Dakota County Commissioners")
+* * *
+Important South Dakota County Commissioners information including land assessment data, buffer strips and frequently asked levy questions.
+[See County Resources](https://dor.sd.gov/government/county-commissioners/ "See County Resources")
+    * [County Treasurers](https://dor.sd.gov/government/county-treasurers/ "County Treasurers")›
+      * ‹ BackCounty Treasurers
+      * [South Dakota County Treasurers](https://dor.sd.gov/government/county-treasurers/ "South Dakota County Treasurers")
+* * *
+Information for South Dakota County Treasurers to explain property tax relief programs, tax deeds and special assessments.
+[See County Resources](https://dor.sd.gov/government/county-treasurers/ "See County Resources")
+    * [Director of Equalization](https://dor.sd.gov/government/director-of-equalization/ "Director of Equalization")›
+      * ‹ BackDirector of Equalization
+      * [South Dakota Directors of Equalization](https://dor.sd.gov/government/director-of-equalization/ "South Dakota Directors of Equalization")
+* * *
+South Dakota Directors of Equalization knowledge base for property tax exemptions, sales / ratio and growth definitions.
+[See County Resources](https://dor.sd.gov/government/director-of-equalization/ "See County Resources")
+    * [Exempt Entities - Higher Education, Mass Transit & Tribal](https://dor.sd.gov/government/exempt-entities-higher-education-mass-transit-tribal/ "Exempt Entities - Higher Education, Mass Transit & Tribal")›
+      * ‹ BackExempt Entities - Higher Education, Mass Transit & Tribal
+      * [Government Motor Vehicle](https://dor.sd.gov/government/exempt-entities-higher-education-mass-transit-tribal/ "Government Motor Vehicle")
+* * *
+Get all the information you will need to title or renew your vehicle registration and license plates for your government vehicles.
+[Learn More](https://dor.sd.gov/government/exempt-entities-higher-education-mass-transit-tribal/ "Learn More")
+    * [Register of Deeds](https://dor.sd.gov/government/register-of-deeds/ "Register of Deeds")›
+      * ‹ BackRegister of Deeds
+      * [South Dakota Registers of Deeds](https://dor.sd.gov/government/register-of-deeds/ "South Dakota Registers of Deeds")
+* * *
+Essentials for Registers of Deeds relating to real estate value, deed transfers, sequence numbers and more.
+[See County Resources](https://dor.sd.gov/government/register-of-deeds/ "See County Resources")
+    * [Government FAQs](https://dor.sd.gov/government/government-faqs/ "Government FAQs")›
+      * ‹ BackGovernment FAQs
+      * [Government Frequently Asked Questions](https://dor.sd.gov/government/government-faqs/ "Government Frequently Asked Questions")
+* * *
+South Dakota government officials can find answers to frequently asked questions for local governments.
+[Get Answers](https://dor.sd.gov/government/government-faqs/ "Get Answers")
+    * [Government Forms / Resources](https://sddor.seamlessdocs.com/sc/government-forms/ "Government Forms / Resources")›
+      * ‹ BackGovernment Forms / Resources
+      * [Government Forms / Resources](https://sddor.seamlessdocs.com/sc/government-forms "Government Forms / Resources")
+* * *
+Quick links to help you find the right government forms fast.
+[See Government Forms](https://sddor.seamlessdocs.com/sc/government-forms "See Government Forms")
+  * [ ](https://sddor.seamlessdocs.com/sc/ "Forms / Resources")›
+    * ‹ Back
+    * [Business Forms](https://sddor.seamlessdocs.com/sc/business-forms/ "Business Forms")
+    * [Government Forms](https://sddor.seamlessdocs.com/sc/government-forms/ "Government Forms")
+    * [Individual Forms](https://sddor.seamlessdocs.com/sc/individual-forms/ "Individual Forms")
+    * [Master Form List](https://sddor.seamlessdocs.com/sc/master-forms/ "Master Form List")
+    * [Publications](https://sddor.seamlessdocs.com/sc/publications/ "Publications")›
+      * ‹ BackPublications
+      * [ Annual Reports ](https://sddor.seamlessdocs.com/sc/publications-annual-reports/ "Annual Reports")
+      * [ Guides ](https://sddor.seamlessdocs.com/sc/publications-guides/ "Guides")
+      * [ Newsletters ](https://sddor.seamlessdocs.com/sc/publications-newsletters/ "Newsletters")
+      * [ Sales Tax Rate Charts ](https://sddor.seamlessdocs.com/sc/publications-sales-tax-rate-charts/ "Sales Tax Rate Charts")
+      * [ Tax Facts ](https://sddor.seamlessdocs.com/sc/publications-tax-facts/ "Tax Facts")
+    * [Statistics](https://sddor.seamlessdocs.com/sc/statistics/ "Statistics")
+
+
+  * ![](https://dor.sd.gov/images/icons/search/search-dark.svg?v=qwfVNVDZwS-DU-WzbccI5H0IqugKRhnvplca1eRvjD0)
+  * [Online Services](https://dor.sd.gov/online-services/)
+
+
+Government
+The Motor Vehicle Division experiencing a backlog of up to three months,   
+[click here to request expedited title](https://dor.sd.gov/newsroom/request-a-vehicle-or-boat-title/ "Request A Title"). 
+  1. [Home](https://dor.sd.gov/)
+  2. [Government](https://dor.sd.gov/government/)
+  3. County Auditors
+
+
+# County Auditors
+The auditor is the watchdog of the county for property taxes. The auditor receives all tax requests from the various governing boards that can tax real property and ensures the amount being levied follows all laws of the state. They ensure these entities meet the criteria necessary to impose a tax real estate, and also guarantees the amount being levied follows all laws of the state. The auditor is the keeper of county records and acts as a bookkeeper for county business. Records may include documents, books, or minutes from county commission meetings. The auditor is responsible for scheduling county commission meetings, preparing the agenda, following up on commission decisions through letters and memoranda, and preparing the county budget.  
+  
+
+![Helpful Worker](https://dor.sd.gov/media/10tdgk5i/government_helpfulstaff.jpg)
+* * *
+## Quick Navigation
+###### [Opt Outs](https://dor.sd.gov/government/county-auditors/#opt)
+###### [Levy / Levy Training Documentation](https://dor.sd.gov/government/county-auditors/#levy)
+###### [Growth Percentage](https://dor.sd.gov/government/county-auditors/#growth)
+###### [Consumer Price Index (CPI)](https://dor.sd.gov/government/county-auditors/#cpi)
+###### [School Capital Outlay Limitations](https://dor.sd.gov/government/county-auditors/#school)
+###### [Consumer Price Index (CPI)](https://dor.sd.gov/government/county-auditors/#index)
+###### [Utilities Breakdown Information](https://dor.sd.gov/government/county-auditors/#utility)
+###### [Tax Increment Financing (TIF) Information](https://dor.sd.gov/government/county-auditors/#tif)
+###### [Appeal Documents to Township Boards](https://dor.sd.gov/government/county-auditors/#town)
+###### [Appeals Information](https://dor.sd.gov/government/county-auditors/#appeal)
+###### [Property Tax Relief Programs](https://dor.sd.gov/government/county-auditors/#relief)
+######  [Calculating an Abatement](https://dor.sd.gov/government/county-auditors/#calculate)****
+###### [Special Assessment](https://dor.sd.gov/government/county-auditors/#special)
+###### [Centrally Assessed Utilities](https://dor.sd.gov/government/county-auditors/#central)
+###### [Notice of Intention to Add Omitted Property to the Assessment Rolls](https://dor.sd.gov/government/county-auditors/#notice)
+###### [Publications](https://dor.sd.gov/government/county-auditors/#publications)
+###### [County Auditors Online Forms](https://dor.sd.gov/government/county-auditors/#forms)
+* * *
+## Opt Outs
+To “Opt Out” means the taxing entity needs more monies from property taxes than they are allowed by the limitation. The limitation allows for taxes to increase over taxes payable in the preceding year by the Consumer Price Index (CPI) and growth. The CPI for taxes payable in 2022 has been set at 1.2%. Therefore, total increase allowed through the limitation would be 1.2% plus percent increase due ****to growth. (ex: If growth is 3.1%….then 1.2% (CPI) + 3.1% (growth) would allow a maximum increase of 4.3% to the previous year’s taxes received).
+**Note:** Official growth numbers are not available from the County Auditor until **after** the Department of Revenue certifies values, which is at the end of August. Regardless of the percent increase allowed or opt out amount, taxing entities (except school general fund) **cannot** exceed statute levy limitations.
+### Timeframe
+An Opt Out should not be done until January 1 or after of the year prior to the year the taxes are payable, but must be done on or before July 15 of the year prior to the year the taxes are payable. For example, a taxing jurisdiction has a project for 2024 in which they will need additional funds. The opt out needs to be passed by the governing board between January 1 - July 15, 2023.
+If the opt out decision has been referred to a vote and has been defeated, the governing board may opt out again IF done so prior to July 15 of the year prior to the year the taxes are payable. The decision to opt out may be rescinded if done so prior to July 15 of the year prior to the year the taxes are payable. However, if the opt out decision was referred to a vote and withstood the vote (meaning the voters supported the Opt Out) the governing body **cannot** rescind the Opt Out. They would have the capability to simply not ask for the amount of the Opt Out.
+### Requirements
+For all entities there are a set of requirements that must be followed with all opt outs:
+  * Opting out requires a two-thirds vote of the governing body on or before July 15th.
+  * The opt out resolution to opt out must be published within ten days of decision.
+  * The decision may be referred by a petition if it is: 
+    * signed by at least five percent of the registered voters in the taxing district; and
+    * filed with the governing body within twenty days of the first publication.
+
+
+### Documentation
+All taxing entities must send the following to the County Auditor:
+  * a copy of the opt out resolution
+  * copies of the minutes of the meeting at which the Opt Out took place
+  * proof of publication/notification
+  * the outcome of the election (if Opt Out is referred to a vote)
+
+
+For additional information on Opt Outs please refer to [Tax Limitation and Opt Out Information for All Taxing Districts (PDF)](https://dor.sd.gov/media/0pif4hrt/optouts_except-schools_pay2026.pdf "Opting Out Of Tax Limitations Except School Districts") and [Tax Limitation and Opt Out Information for School Districts Only (PDF).](https://dor.sd.gov/media/ygndkege/optouts_school-districts-only_pay2026-copy.pdf "Optouts School Districts Only Pay2024")
+## Levy / Levy Training Documentation
+Property Tax is an ad valorem tax on all property that has been deemed taxable by the South Dakota Legislature. Ad valorem means “according to value.” Under South Dakota law all real property, defined as the land and any improvements on the land, is subject to taxation. Personal property is not taxable. Property tax is the primary source of revenue for local governments. The State **does not** collect or spend any property tax revenue. In order to determine how much money a governing body may receive the following information is needed:
+  * What revenues did the governing body receive last year in property taxes?
+  * Was any of that Opt Out Money?
+  * What is the current year growth percentage for the governing body?
+  * What is the current year CPI?
+
+
+## Growth Percentage
+To calculate the growth percentage take the valuation increase due to addition, improvement, or change in use and divide by last year’s final value.
+###### Growth Percentage Example
+If the increase due to addition, improvement, or change in use was $675,656  
+Last year’s final value was $21,051,985
+674,565 ÷ 21,051,985 = .0320 = **3.20%**
+### Consumer Price Index (CPI)
+The index factor is the annual percentage change in the consumer price index for urban wage earners and clerical workers as computed by the Bureau of Labor Statistics, United States Department of Labor Statistics for the year prior to the year immediately preceding the year in which the taxes are payable. [SDCL 10-13-38](https://sdlegislature.gov/Rules/DisplayRule.aspx?Rule=64%3a04%3a01%3a31.01 "SDCL 10-13-38") It is calculated by South Dakota’s State Economist. CPI is available to all taxing entities and is the same for everyone.
+#### Calculating Tax Request
+In this example, a municipality is trying to determine how much can be requested for property taxes for Pay 2020:
+###### Tax Request Example
+Amount of Taxes Requested in Pay 2019: $163,237.05  
+Opt Out Money: None  
+Current Year Growth Percent: 3.2%  
+Current Year CPI Percent: 2.4%
+Every property owner will have to pay their fair share of the tax requested. This is determined by spreading the same levy across all value in the city as shown here:
+163,237.05 x (3.2% + 2.4%) = 9,141 = amount city can increase their tax call  
+163,237 + 9,141 = 172,378 = maximum amount the city can request.
+#### Calculating Levies
+Tax levies for each taxing jurisdiction are determined by dividing the tax requested by the total taxable value within the taxing jurisdiction and multiple the results by 1000. A County Auditor needs to know the Taxable Value of the taxing entity (from the growth form) and its current Tax Requested:
+###### Levy Formula
+Request ÷ Value = Tax Rate
+###### Levy Formula Example
+In our example the City Tax Request is $172,378 and the City Current Taxable Value is 24,299,059. In this example, the levy is calculated against $1,000 dollars of assessed value.
+Request ÷ Value = Tax Rate  
+172,378 ÷ 24,299,059 = .007094
+Multiply the Tax Rate x 1000 to determine the Levy  
+0.007094 x 1000 = 7.094
+#### Calculating Individual Taxes
+If a house has a taxable value of $100,000 their city tax levy would be calculated as follows:
+###### Individual Tax Example
+(100,000 **÷** 1,000) x 7.094  
+100 x 7.094 = 709.40 = City Property Tax Liability
+### Why Taxes Differ
+There are a number of factors which may result in differences in each of the governing bodies. It is not uncommon for the property tax of one county to differ from their neighboring counties. Factors may include:
+  * Property Tax Limitation Act 
+    * Where were their tax requests at the time of the freeze?
+  * Growth 
+    * How much value is in the district?
+    * How quickly is the district growing?
+  * Opt Outs
+  * Number of Taxing Districts
+  * New Authority for Levies
+
+
+## School Capital Outlay Limitations
+South Dakota law allows a school district to authorize an annual tax levy up to $3.00 per $1,000 of taxable valuation for capital outlay fund purposes. The levy is the same for all land classes.
+### Capital Outlay Limitations Defined
+  * The Growth + 3% Limitation states that the total amount of taxes collected from the capital outlay levy cannot increase annually more than 3% plus a growth factor.([SDCL 13-16-7)](https://sdlegislature.gov/statutes/Codified_laws/DisplayStatute.aspx?Statute=13-16-7&Type=Statute "SDCL 13-16-7") The growth factor is defined as any new construction that has occurred in the last year within the school district boundaries.
+  * The $3,400 Per Student Limitation allows a school district to levy up to a calculated dollar amount for each enrolled student from the previous school year. ([SDCL 13-16-7.2](https://sdlegislature.gov/Statutes/13-16-7.2 "SDCL 13-16-7.2")) The dollar amount is increased by an index factor annually. 
+  * The $1,400 Per Student Limitation applies only to those school districts that met certain qualifications taxes payable 2021. These school districts are Belle Fourche, Douglas, McLaughlin, Tea Area, and White River. The districts may levy up to a calculated dollar amount for each enrolled student from the previous school year. The dollar amount is increased by an index factor annually. ([SDCL 13-16-7.3](https://sdlegislature.gov/Statutes/13-16-7.3 "SDCL 13-16-7.3")) 
+
+
+Other than those districts subject to the $1,400 Per Student Limitation, a school district will be limited to the maximum revenue allowed by either the Growth + 3% Limitation or the $3,400 Per Student Limitation, whichever is less. The school district and the Department of Revenue will analyze the data and calculations annually. Learn more in the [Capital Outlay Tax Fact (PDF)](https://dor.sd.gov/media/i2bfe0tx/capital-outlay.pdf "Tax Fact Capital Outlay").
+**School Levy Calculation Worksheet**
+In order to assist school officials in determining the levy necessary to meet the budgetary needs of the district, a levy calculation worksheet has been developed. Each year school officials are required to complete the form and submit it for approval by the Department by November 1st. 
+[Complete Worksheet](https://sddor.seamlessdocs.com/f/3007 "School Levy Worksheet")
+## Consumer Price Index (CPI)
+State law requires the Department to notify county auditors by February 1 of each year of the CPI. The law also requires the county auditors to notify each taxing district, except school districts, within the county by March 1 of this index factor. [SDCL 10-13-38](https://sdlegislature.gov/statutes/Codified_laws/DisplayStatute.aspx?Statute=10-13-38&Type=Statute "SDCL 10-13-38") The index factor is the percent a taxing district may increase the taxes payable in the following year [SDCL 10-13-35](https://sdlegislature.gov/statutes/Codified_laws/DisplayStatute.aspx?Statute=10-13-35&Type=Statute "SDCL 10-13-35"). Total amount of increase is the CPI and growth.
+Caution should be expressed to taxing districts that accurate growth numbers will not be available until county auditors receive the growth of utilities by the fourth Monday in August. See the [Consumer Price Index Letter to County Auditors (PDF)](https://dor.sd.gov/media/0awb4h35/cpi_pay25.pdf "Consumer Price Index Letter to County Auditors") for the most current notification sent to county auditors with regards to CPI.
+## Utilities Breakdown Information
+On the 4th Monday in August, the Department of Revenue sends each county auditor the valuation of all centrally assessed utility companies in the county. The documents show how the information was reported to the Department. The county auditor must then break that value down by taxing district, remove any discretionary, and account for any other nuances specific to the county. In order to break the information down, the following steps should be taken:
+  * Get a blank copy of the county growth forms from the DOE.
+  * To avoid getting overwhelmed we advise that you look at each utility company separately.
+  * Break down the value in a couple of different ways: 
+    * First, by townships, secondary road, road districts, and cities; then
+    * By school districts; then
+    * By special districts: 
+      * Fire districts
+      * Ambulance districts
+      * Water districts
+      * Finally, countywide
+
+
+**Note** : The only concern is with the Taxable Value and Taxable Growth columns. For more information and a breakdown of the steps, see the [Utilities Breakdown Overview (PDF)](https://dor.sd.gov/media/34wntfct/utilities-breakdown.pdf "Utilities Breakdown").
+## Tax Increment Financing (TIF) Information
+Tax Increment Financing is a means of financing public improvements in a defined geographic area, known as a tax increment financing district, or TIF district. In South Dakota, a TIF district can be created by either a municipality or county. TIF has become an increasingly popular tool for communities looking to upgrade existing infrastructure or as a means of incentivizing new investments in infrastructure for economic development. As of July 1, 2018, South Dakota state law authorizes four classifications for TIF districts: Local, Industrial, Economic Development, and Affordable Housing. TIF district classification is a function of the state-aid to education formula and determines how a given TIF district impacts school funding in South Dakota.
+The Department has put together some guidelines for the creation, classification and annual certification of Tax Increment Financing and Tax Increment Districts. The [Tax Increment Financing Annual Report (PDF)](https://dor.sd.gov/media/uc2prf1b/tif-2023-annual-report.pdf "2023 TIF Annual Report") details project descriptions, valuation information, and timelines for each TIF district. For more information, please reference the following guidelines.
+  * [TIF Guidelines (PDF)](https://dor.sd.gov/media/ybvfvvrq/tif-guidelines-june-2018-revisions.pdf "TIF Guidelines")
+  * [Tax Increment Financing (TIF) Tax Fact (PDF)](https://dor.sd.gov/media/cp5p4iis/tax-increment-financing.pdf "2019 11 Tax Increment Financing TIF")[](https://dor.sd.gov/media/cp5p4iis/tax-increment-financing.pdf "2019 11 Tax Increment Financing TIF")
+  * [Tax Increment Financing District Establishment Submission Form](https://sddor.seamlessdocs.com/f/3012 "Tax Increment Financing District Establishment Submission Form")
+  * [SDCL Chapter 11-9](http://sdlegislature.gov/statutes/Codified_laws/DisplayStatute.aspx?Statute=11-9&Type=Statute "SDCL Chapter 11-9")
+
+
+## Appeal Documents to Township Boards
+Appeal to the local board must be perfected by mailing or by filing a written notice of appeal with the clerk of the local board by the specified date in March. Postmarked by the deadline is considered timely. The local board of equalization shall begin meeting on the third Monday of March and adjourn no later than the following Friday. The meeting shall be at the office of the clerk or finance officer of the township or municipality.
+The local board of equalization has the duty to hear and decide appeals within five days. The board's action must be included in the minutes. The board has the authority to equalize assessments between individual parcels of property but does not have the authority to change the level of assessment between classes of property. **Any appeals not resolved by the local board are considered as no change.** A written notice must be sent within seven days of adjournment to each appellant on the board’s decision of his/her appeal.
+## Appeals Information
+Individuals have the right ensure their property is being assessed at no more than market value, as well as assessed equitably in relationship to other properties. Land owners who have questions on the assessed value of their land are asked to first speak with their county director of equalization. If the land owner still disagrees with the total value of the property may submit an appeal to their local board of equalization. Land owners may appeal the following:
+  * Property’s owner-occupied status;
+  * Taxable status of the property; or
+  * Total value of the property.
+
+
+### Property Owner Online Resources
+  * [Appeal Process Guide for the Property Owner (PDF)](https://dor.sd.gov/media/hm2dk2cu/property-owner_2025-pt-appeal-process-guide.pdf "Property Owner Appeal Process Guide")[](https://sddor.seamlessdocs.com/f/PT17A/)[](https://sddor.seamlessdocs.com/f/PT17A/)
+
+
+### Board of Equalization Online Resources
+  * [Appeal Process Guide for Boards of Equalization (PDF)](https://dor.sd.gov/media/0hajl2ya/board-appealprocessguide-2025.pdf "Boards Of EQ 2020 Appeal Process Guide")
+
+
+## Property Tax Relief Programs
+Our Department and state officials understand that many South Dakotans live on fixed incomes and may have difficulty meeting their tax obligations. The following explain the different property tax relief programs that are available, what eligibility requirements must be met, and how to apply.
+### Property Tax Reduction for Paraplegics
+#### What the Program Does
+Reduces the property owner’s taxes on a graduated scale based on their income through the abatement process. Property is the house, garage and the lot upon which it sits or one acre, whichever is less.
+#### To Be Eligible
+The property must be owned or occupied by a paraplegic or individual with the loss or loss of use of both lower extremities, or the un-remarried widow/widower of such paraplegic.
+  * The property must be specifically designed for wheelchair use within the structure.
+  * Income and occupancy limits apply.
+
+
+#### To Apply
+You may [download an online application](https://sddor.seamlessdocs.com/f/pt46b "online application") or visit any county courthouse beginning in January of each year. Applications must be submitted annually to your county auditor.
+[See Application](https://sddor.seamlessdocs.com/f/pt46b "Property Tax Reduction Application")
+### Property Tax Homestead Exemption
+#### What the Program Does
+Delays the payment of property taxes until the property is sold. The taxes are a lien on the property and must be paid along with the interest before the property can be transferred. Property is the house, garage and the lot upon which it sits or one acre, whichever is less. Learn more in the [Homestead Exemption Program Guide (PDF)](https://dor.sd.gov/media/5lrpvndw/homestead-exemption-brochure.pdf "Homestead Exemption Brochure").
+#### To Be Eligible
+  * The property owner must be at least 70 years old or a surviving spouse.
+  * Income and residency requirements apply.
+
+
+#### To Apply
+People who qualify for this program are ineligible for the Sales and Property Tax Refund Program. You may [download an online application](https://sddor.seamlessdocs.com/f/pt38c "online application") or visit any county courthouse beginning in January of each year. Applications must be submitted annually to the applicant’s county treasurer on or before April 1st.
+[SEE Application](https://sddor.seamlessdocs.com/f/pt38c "Property Tax Reduction Application")
+## Calculating an Abatement
+Information received from the Director of Equalization should include a breakdown of each class of land and each class total valuation for the entire county and a breakdown of each district (municipality, township, school board, etc.). Once you have identified each district, pull the information from the prior year to determine the total levy that was assess for each particular land classification. In order to determine the abatement amount you will take the following steps:
+###### Abatement Formula
+###### 1. Determine the percentage of the total levy that goes to the school district.
+###### Step 1 Example
+If the total levy for OO in a district is 14.449 and 9.492 is for a school district, then 65.7% of every tax dollar goes to schools.
+###### 2. Determine what percentage of the total school levy goes to General and what portion goes to Spec Ed.
+###### Step 2 Example
+The total school levy is 9.492. There is a general opt out of 3.663; and the general fund levy is 4.029 and the Spec Ed levy is .500%. Therefore 81% of every school dollar goes to the general fund and 5.3% goes to Spec Ed purposes.
+###### 3. Determine the portion of the taxes abated that were for each school district.
+###### Step 3 Example
+The total abatement for the county was $7,573. We already determined that 65.7% of all tax dollars went to school. So, of the $7,573, the school is losing $4,975.
+###### 
+###### 4. Calculate the portions of General and Special Ed funds that schools need to recoup.
+###### Step 4 Example
+The school is losing $4,975. The portion that applies to the general fund is $4030; and $264 is Special Ed.
+## Special Assessments
+Special Assessments are a financing mechanism that allow payment for improvements by those who benefit, or for specific items, rather than general taxation. Special assessments may be used alone to finance a project, or in combination with general funds, bonds, or other financing mechanisms. A governing body may make the determination that the improvement is necessary, or landowners may petition for local improvements. If landowners request an improvement be made, a petition of at least 55% of the property owners in the area requesting the construction of a local improvement to be special assessed must be presented to the governing body.
+For additional information about special assessments and additional details about the steps that must be taken to impose a special assessment or maintenance fee, please references the [South Dakota Municipal League Guide to Special Assessments (PDF)](https://dor.sd.gov/media/xjzforb4/sdml_guide_to_special_assessments.pdf "SDML Guide To Special Assessments").
+## Centrally Assessed Utilities
+The taxes on the operating property of public utility, railroad, and air flight companies differ with respect to industry, company size, category of ownership, and degree of regulation. The Department of Revenue shares property assessment duties with local South Dakota County Directors of Equalization. While some industries pay property taxes, others are responsible for paying a Gross Receipts Tax. Regardless of the method of taxation, all tax dollars are submitted to local government.
+The property tax division is also responsible of the in lieu of property taxes for land telephone companies who provide local service, the rural electric generation tax and the alternative taxes paid by commercial wind and solar farms. The commercial wind farms generated money school districts, townships, counties, and the State general fund each year. There are currently no commercial solar farms in the State that pay the alternative taxes. The rural electric generation tax and telephone gross receipts tax generated about $24.689 million for the school districts for pay 2018.
+### Wind Farms
+#### Nameplate Capacity Tax
+Wind farms pay a nameplate capacity tax in lieu of property tax. The nameplate capacity tax is $3.00 times the number of kilowatt hours of capacity. For the first year following the commercial operation date, the nameplate capacity tax is prorated based on the number of days the wind farm is in service. 
+###### Nameplate Capacity Tax Example
+If each tower has a capacity of 1.5 MW, then the per tower nameplate capacity tax is:  
+1.5 X 1000 X $3.00 = $4,500 (per tower nameplate capacity tax)
+Distribution of the nameplate capacity tax:  
+100% of the nameplate capacity tax goes to the counties.
+#### Production Tax
+The production tax is the actual amount of electricity produced in a calendar year times the production tax rate of $.00045 for any wind farms that began producing power on or after April 1, 2015. The production tax rate for wind farms that began producing power prior to April 1, 2015, is $.00065. To calculate the production tax an estimation of the wind farm efficiency, a reasonable assumption is 40%. If the wind farm operates at 40% efficiency, the production tax is calculated as follows:
+###### Production Tax Formula
+#KW of capacity x 24 hours x 365 days in a year x 40% (efficiency factor) x production tax rate
+0.00065 for wind farms producing before April 1, 2015; and  
+0.00045 for wind farms producing on or after April 1, 2015
+###### Production Tax Example
+For example, a wind farm with 1.5 MW Towers that begin producing power today, the production tax per tower would be:
+1.5 X 1000 X 24 X 365 X .40 X .00045 = $2,365.20 of production tax for each tower
+**Distribution of Production Tax:**
+  * 20% to the counties
+  * 80% to the State
+
+
+**Distribution of the Nameplate Capacity Tax and the County Portion of the Production Tax:**
+If the wind towers are located in a county with no organized townships or in an unorganized portion of the county, the township portion will remain with the county.
+  * 50% School(s)
+  * 35% County
+  * 15% Township(s) where the towers are located
+
+
+**Additional Information:** There are no taxes due while the commercial wind farm is under construction. The first year the wind farm will pay the alternative taxes is the year after the commercial operation date.
+**Important Date:** Annual reports for wind farms are submitted in February of each year, payments are remitted to the counties prior to May 1st.
+### Railroad Tax Credits
+The purpose of the railroad property tax credits is to encourage railroad companies to make capital investments to portions of line in the state that are vital for the state’s economy but may not have enough traffic to warrant frequent capital investment. No credit may be given for:
+  1. The repair or replacement of railway line necessitated by washout, fire, or train derailment;
+  2. Any portion of the project that is funded with state or federal grant funds or paid for by any third party; or
+  3. Any expense of a capital nature that are made on a segment of the rail line that exceeds ten million gross tone miles of revenue freight per mile in the previous calendar year.
+
+
+Once the credit has been certified by the Department, the credit provided will be applied proportionally across the railroad’s entire mainline within the state, excluding any portion of the mainline that goes over ten million gross ton miles of revenue freight per mile annually in a calendar year. The credit will be applied to the tax liability over a three-year period in equal amounts.
+## Notice of Intention to Add Omitted Property to the Assessment Rolls
+It is the duty of the board to certify the accuracy of the assessment roll and deliver it to the director of equalization on or before the fourth Monday in March, along with a copy of the minutes and all completed PT 17 forms. The board is to review all properties to ensure there is equalization of the assessments and that all property is listed. Prior to adding omitted property or increasing an assessment on property, the board must notify the property owner of the proposed addition or increase and the time and place of the board meeting at which the addition or increase will be considered. The board must give a property owner an opportunity to appear before the board or submit written documentation concerning the addition or increase.
+The local board of equalization does not have the authority to hear appeals on owner-occupied status. They may inform the Director of Equalization of errors in owner-occupied status. The [Notice of Intention to Add Omitted Property to the Assessment Rolls form](https://sddor.seamlessdocs.com/f/pt18 "Notice of Intention Form") [](https://www.state.sd.us/eforms/secure/eforms/E1301V3-NoticeOfIntentionToAddOmittedPropertyOrValuationToTheAssessmentRollsOfCounty.pdf)is used add previously omitted property to the assessment rolls of a specific county.
+## Publications
+  * [County Road and Bridge & Township Capital Improvement Guide (PDF)](https://dor.sd.gov/media/jy2flxt1/county-road-and-bridge-township-capital-improvement.pdf "Improvement Guide")
+
+
+  * [Procedure to Impose a Tax Levy Guide (PDF)](https://dor.sd.gov/media/og4psjea/procedure-to-impose-a-tax-levy.pdf "Procedure to Impose a Tax Levy Guide")
+
+
+### County Auditors Online Forms
+[ **CalSchLev24PT3007** ](https://sddor.seamlessdocs.com/f/3007_2024 "CalSchLev24PT3007")
+<https://sddor.seamlessdocs.com/f/3007_2024>
+[ Complete Form CalSchLev24PT3007 ](https://sddor.seamlessdocs.com/f/3007_2024 "CalSchLev24PT3007")
+[ **NewOptOutandTaxImpForPT3004** ](https://sddor.seamlessdocs.com/f/NewOptOutandTaxImpForPT3004 "NewOptOutandTaxImpForPT3004")
+<https://sddor.seamlessdocs.com/f/NewOptOutandTaxImpForPT3004>
+[ Complete Form NewOptOutandTaxImpForPT3004 ](https://sddor.seamlessdocs.com/f/NewOptOutandTaxImpForPT3004 "NewOptOutandTaxImpForPT3004")
+[See All Government Online Forms](https://sddor.seamlessdocs.com/sc/government-forms "See All Government Online Forms")
+## Email Sign Up
+Get the latest Department of Revenue [news and updates](https://dor.sd.gov/government/county-auditors/#SignUp) sent straight to your inbox.
+First Name
+Last Name
+Email
+By submitting this form, you agree to receive marketing and other information from DOR which will be collected as outlined in our [privacy policy](https://sd.gov/privacy.aspx "privacy policy"). 
+Quarterly Updates Education, Workshops & Webinars Deadlines & Due Dates
+![Department of Revenue logo](https://dor.sd.gov/images/logo-dor.svg?v=r0XjIEsmZhcMbN-uaSruyzk1sCAU30oDIiiKNmdn5Os)
+[445 E Capitol Avenue, Pierre, SD 57501](https://www.google.com/maps/place/South+Dakota+Department+of+Revenue/@44.3658843,-100.416591,12z/data=!4m8!1m2!2m1!1ssouth+dakota+department+of+revenue!3m4!1s0x8780121e8c60313f:0xd9c4c2f4b705024!8m2!3d44.3658843!4d-100.3465532)
+  * [Careers](https://sd.gov/employment.aspx "Careers")
+  * [Contact](https://dor.sd.gov/contact/ "Contact")
+  * [Report Tax Fraud](https://sddor.seamlessdocs.com/f/2038 "Report Tax Fraud")
+  * [DOR Intranet](https://intranetdor.sd.gov/ "DOR Intranet")
+  * [SD.GOV](http://sd.gov/ "SD.GOV")
+  * [SD News](https://www.sd.gov/news "SD News")
+  * [Privacy Policy](http://sd.gov/privacy.aspx "Privacy Policy")
+  * [Request Public Records](https://www.sd.gov/cs?id=sc_cat_item&sys_id=f7f939eddbd4b150b2fb93d4f39619c0 "Request Public Records")
+
+
+[ ![Facebook](https://dor.sd.gov/images/icons/social/facebook.svg?v=X5TgU87k6EWyozGSxytGFidemfRWKto4aWMki40oqKM) ](https://www.facebook.com/SDRevenue "Facebook")
+[ ![YouTube](https://dor.sd.gov/images/icons/social/youtube.svg?v=wtnXNyFUMpzZmsyp497JiKPfcN5bh4VRX-JvJZ5NWlA) ](http://www.youtube.com/user/SouthDakotaDOR "YouTube")
+[ ![Twitter](https://dor.sd.gov/images/icons/social/twitter.svg?v=6d4YrOHi9r_1XXewfEYxt6nOTAX9Adz6aaCpV6K-fPo) ](https://www.twitter.com/SDRevenue "Twitter")
+© Copyright 2025 - State of South Dakota
+

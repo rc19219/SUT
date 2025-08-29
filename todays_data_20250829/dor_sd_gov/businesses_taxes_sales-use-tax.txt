@@ -1,0 +1,1467 @@
+URL: https://dor.sd.gov/businesses/taxes/sales-use-tax/
+TITLE: Sales & Use Tax | South Dakota Department of Revenue
+TYPE: WEBPAGE
+SCRAPED: 2025-08-29 11:52:05
+FINANCIAL PATTERNS FOUND: 5
+------------------------------------------------------------
+DETECTED PATTERNS:
+4.2%, $100,000, $100,000, $100,000, tax liability
+
+------------------------------------------------------------
+CONTENT:
+
+[ Skip to main content ](https://dor.sd.gov/businesses/taxes/sales-use-tax/#content)
+What Can We Do For You Today?
+Search DOR.GOV.SD pa Choose a filter to refine your search All dor.sd.gov Pages Forms / Resources
+Close search
+  * [Pages](https://dor.sd.gov/businesses/taxes/sales-use-tax/#pagesResults)
+  * [Forms / Resources](https://dor.sd.gov/businesses/taxes/sales-use-tax/#formsResourcesResults)
+  * [All dor.sd.gov](https://dor.sd.gov/businesses/taxes/sales-use-tax/#allResults)
+
+
+[![South Dakota Department of Revenue](https://dor.sd.gov/images/logo-dor.svg?v=r0XjIEsmZhcMbN-uaSruyzk1sCAU30oDIiiKNmdn5Os)](https://dor.sd.gov/)
+#### Site navigation
+  * [Contact](https://dor.sd.gov/contact/ "Contact")
+  * [About DOR](https://dor.sd.gov/about-dor/ "About DOR")
+  * [Upcoming Dates](https://dor.sd.gov/calendar/ "Upcoming Dates")
+  * [Latest News](https://dor.sd.gov/newsroom/ "Latest News")
+  * [Live Chat](https://dorchat.sd.gov/Chat?id=NjRlZjkxYzktY2I1MS00Y2UxLThjM2YtMWE1NmQ1Mzk4OTkw "Live Chat")
+
+
+  * [ ](https://dor.sd.gov/individuals/ "Individuals")›
+    * ‹ Back
+    * [Gaming](https://dor.sd.gov/individuals/gaming/ "Gaming")›
+      * ‹ BackGaming
+      * [Gaming for Individuals](https://dor.sd.gov/individuals/gaming/ "Gaming for Individuals")
+* * *
+Find information about the South Dakota Commission on Gaming, laws, regulations and the seven types of gaming licenses issued to the general public.
+[Learn More](https://dor.sd.gov/individuals/gaming/ "Learn More")
+    * [Lottery](https://dor.sd.gov/individuals/lottery/ "Lottery")›
+      * ‹ BackLottery
+      * [Lottery for Individuals](https://dor.sd.gov/individuals/lottery/ "Lottery for Individuals")
+* * *
+Everything you need to know about games, licensing and beneficiaries of the South Dakota Lottery.
+[Learn More](https://dor.sd.gov/individuals/lottery/ "Learn More")
+    * [Motor Vehicle](https://dor.sd.gov/individuals/motor-vehicle/ "Motor Vehicle")›
+      * ‹ BackMotor Vehicle
+      * [ All Vehicles - Title, Fees & Registration ](https://dor.sd.gov/individuals/motor-vehicle/all-vehicles-title-fees-registration/ "All Vehicles - Title, Fees & Registration")
+      * [ Boats ](https://dor.sd.gov/individuals/motor-vehicle/boats/ "Boats")
+      * [ Cars, Trucks & Vans ](https://dor.sd.gov/individuals/motor-vehicle/cars-trucks-vans/ "Cars, Trucks & Vans")
+      * [ Historic Vehicles ](https://dor.sd.gov/individuals/motor-vehicle/historic-vehicles/ "Historic Vehicles")
+      * [ Low Speed Vehicles ](https://dor.sd.gov/individuals/motor-vehicle/low-speed-vehicles/ "Low Speed Vehicles")
+      * [ Manufactured Homes & Mobile Homes ](https://dor.sd.gov/individuals/motor-vehicle/manufactured-homes-mobile-homes/ "Manufactured Homes & Mobile Homes")
+      * [ Motorcycles ](https://dor.sd.gov/individuals/motor-vehicle/motorcycles/ "Motorcycles")
+      * [ Off-Road Vehicles ](https://dor.sd.gov/individuals/motor-vehicle/off-road-vehicles/ "Off-Road Vehicles")
+      * [ Rebuilt Vehicles ](https://dor.sd.gov/individuals/motor-vehicle/rebuilt-vehicles/ "Rebuilt Vehicles")
+      * [ Recreational, Motorhomes & Converted Housecars ](https://dor.sd.gov/individuals/motor-vehicle/recreational-motorhomes-converted-housecars/ "Recreational, Motorhomes & Converted Housecars")
+      * [ Snowmobiles ](https://dor.sd.gov/individuals/motor-vehicle/snowmobiles/ "Snowmobiles")
+      * [ Trailers ](https://dor.sd.gov/individuals/motor-vehicle/trailers/ "Trailers")
+      * [ Trucking ](https://dor.sd.gov/individuals/motor-vehicle/trucking/ "Trucking")
+    * [Taxes](https://dor.sd.gov/individuals/taxes/ "Taxes")›
+      * ‹ BackTaxes
+      * [ Alcohol ](https://dor.sd.gov/individuals/taxes/alcohol/ "Alcohol")
+      * [ Cigarette & Tobacco ](https://dor.sd.gov/individuals/taxes/cigarette-tobacco/ "Cigarette & Tobacco")
+      * [ Motor Fuel ](https://dor.sd.gov/individuals/taxes/motor-fuel/ "Motor Fuel")
+      * [ Property Tax ](https://dor.sd.gov/individuals/taxes/property-tax/ "Property Tax")
+      * [ Sales & Use Tax ](https://dor.sd.gov/individuals/taxes/sales-use-tax/ "Sales & Use Tax")
+      * [Individual Taxes](https://dor.sd.gov/individuals/taxes/ "Individual Taxes")
+* * *
+Learn what you need to file, pay and find information on taxes for the general public.
+[Learn More](https://dor.sd.gov/individuals/taxes/ "Learn More")
+    * [Individual FAQs](https://dor.sd.gov/individuals/individual-faqs/ "Individual FAQs")›
+      * ‹ BackIndividual FAQs
+      * [Individual Frequently Asked Questions](https://dor.sd.gov/individuals/individual-faqs/ "Individual Frequently Asked Questions")
+* * *
+See what other South Dakota taxpayers are asking the Department of Revenue.
+[Get Answers](https://dor.sd.gov/individuals/individual-faqs/ "Get Answers")
+    * [Individual Forms / Resources](https://sddor.seamlessdocs.com/sc/individual-forms/ "Individual Forms / Resources")›
+      * ‹ BackIndividual Forms / Resources
+      * [Individual Forms / Resources](https://sddor.seamlessdocs.com/sc/individual-forms/ "Individual Forms / Resources")
+* * *
+Quick links to help you find the right individual forms fast.
+[Find Individual Forms](https://sddor.seamlessdocs.com/sc/individual-forms/ "Find Individual Forms")
+  * [ ](https://dor.sd.gov/businesses/ "Businesses")›
+    * ‹ Back
+    * [Audit](https://dor.sd.gov/businesses/audit/ "Audit")›
+      * ‹ BackAudit
+      * [Business Audit](https://dor.sd.gov/businesses/audit/ "Business Audit")
+* * *
+See how DOR approaches reporting errors and omissions and correcting reporting habits for future returns.
+[Learn More](https://dor.sd.gov/businesses/audit/ "Learn More")
+    * [Gaming](https://dor.sd.gov/businesses/gaming/ "Gaming")›
+      * ‹ BackGaming
+      * [Gaming for Businesses](https://dor.sd.gov/businesses/gaming/ "Gaming for Businesses")
+* * *
+Find information on the South Dakota Commission on Gaming, applications, fees, annual reports, industry statistics and more.
+[Learn More](https://dor.sd.gov/businesses/gaming/ "Learn More")
+    * [Lottery](https://dor.sd.gov/businesses/lottery/ "Lottery")›
+      * ‹ BackLottery
+      * [Lottery for Businesses](https://dor.sd.gov/businesses/lottery/ "Lottery for Businesses")
+* * *
+Everything you need to know about games, licensing and South Dakota Lottery retailers.
+[Learn More](https://dor.sd.gov/businesses/lottery/ "Learn More")
+    * [Motor Vehicle](https://dor.sd.gov/businesses/motor-vehicle/ "Motor Vehicle")›
+      * ‹ BackMotor Vehicle
+      * [ Commercial Vehicles ](https://dor.sd.gov/businesses/motor-vehicle/commercial-vehicles/ "Commercial Vehicles")
+      * [ Dealer Vehicle Licenses ](https://dor.sd.gov/businesses/motor-vehicle/dealer-vehicle-licenses/ "Dealer Vehicle Licenses")
+      * [ Harvest Vehicles ](https://dor.sd.gov/businesses/motor-vehicle/harvest-vehicles/ "Harvest Vehicles")
+      * [ Nonprofit Organization Vehicles ](https://dor.sd.gov/businesses/motor-vehicle/nonprofit-organization-vehicles/ "Nonprofit Organization Vehicles")
+      * [ Motor Carrier Services ](https://dor.sd.gov/businesses/motor-vehicle/motor-carrier-services/ "Motor Carrier Services")
+      * [Business Motor Vehicle ](https://dor.sd.gov/businesses/motor-vehicle/ "Business Motor Vehicle ")
+* * *
+Get all the information you will need to title or renew your vehicle registration and license plates for your commercial vehicles.
+[Learn More](https://dor.sd.gov/businesses/motor-vehicle/ "Learn More")
+    * [Taxes](https://dor.sd.gov/businesses/taxes/ "Taxes")›
+      * ‹ BackTaxes
+      * [ Telecommunication Emergency Surcharges & Fees ](https://dor.sd.gov/businesses/taxes/telecommunication-emergency-surcharges-fees/ "Telecommunication Emergency Surcharges & Fees")
+      * [ Alcohol ](https://dor.sd.gov/businesses/taxes/alcohol/ "Alcohol")
+      * [ Amusement Machines ](https://dor.sd.gov/businesses/taxes/amusement-machines/ "Amusement Machines")
+      * [ Bank Franchise Tax ](https://dor.sd.gov/businesses/taxes/bank-franchise-tax/ "Bank Franchise Tax")
+      * [ Cigarette & Tobacco ](https://dor.sd.gov/businesses/taxes/cigarette-tobacco/ "Cigarette & Tobacco")
+      * [ Coin Operated Washers & Dryers ](https://dor.sd.gov/businesses/taxes/coin-operated-washers-dryers/ "Coin Operated Washers & Dryers")
+      * [ Contractor's Excise Tax ](https://dor.sd.gov/businesses/taxes/contractors-excise-tax/ "Contractor's Excise Tax")
+      * [ Motor Fuel ](https://dor.sd.gov/businesses/taxes/motor-fuel/ "Motor Fuel")
+      * [ Municipal Tax ](https://dor.sd.gov/businesses/taxes/municipal-tax/ "Municipal Tax")
+      * [ Precious Metal & Energy Mineral Severance Taxes & Conservation Tax ](https://dor.sd.gov/businesses/taxes/precious-metal-energy-mineral-severance-taxes-conservation-tax/ "Precious Metal & Energy Mineral Severance Taxes & Conservation Tax")
+      * [ Property Tax ](https://dor.sd.gov/businesses/taxes/property-tax/ "Property Tax")
+      * [ Sales & Use Tax ](https://dor.sd.gov/businesses/taxes/sales-use-tax/ "Sales & Use Tax")
+      * [ Tourism Tax ](https://dor.sd.gov/businesses/taxes/tourism-tax/ "Tourism Tax")
+    * [Sturgis Motorcycle Rally](https://dor.sd.gov/businesses/sturgis-motorcycle-rally/ "Sturgis Motorcycle Rally")›
+      * ‹ BackSturgis Motorcycle Rally
+      * [Sturgis Motor Cycle Rally](https://dor.sd.gov/businesses/sturgis-motorcycle-rally/ "Sturgis Motor Cycle Rally")
+* * *
+Find information, tax applications, licensing instructions and municipal tax rates for the Sturgis Motorcycle Rally.
+[Learn More](https://dor.sd.gov/businesses/sturgis-motorcycle-rally/ "Learn More")
+    * [Business FAQs](https://dor.sd.gov/businesses/business-faqs/ "Business FAQs")›
+      * ‹ BackBusiness FAQs
+      * [Business Frequently Asked Questions](https://dor.sd.gov/businesses/business-faqs/ "Business Frequently Asked Questions")
+* * *
+See what other business owners are asking the Department of Revenue.
+[Get Answers](https://dor.sd.gov/businesses/business-faqs/ "Get Answers")
+    * [Business Forms / Resources](https://sddor.seamlessdocs.com/sc/business-forms/ "Business Forms / Resources")›
+      * ‹ BackBusiness Forms / Resources
+      * [Business Forms / Resources](https://sddor.seamlessdocs.com/sc/business-forms/ "Business Forms / Resources")
+* * *
+Quick links to help you find the right business forms fast.
+[See Business Forms](https://sddor.seamlessdocs.com/sc/business-forms/ "See Business Forms")
+  * [ ](https://dor.sd.gov/government/ "Government")›
+    * ‹ Back
+    * [County Auditors](https://dor.sd.gov/government/county-auditors/ "County Auditors")›
+      * ‹ BackCounty Auditors
+      * [South Dakota County Auditors](https://dor.sd.gov/government/county-auditors/ "South Dakota County Auditors")
+* * *
+In-depth content for South Dakota County Auditors on calculating growth percentage, CPI, Relief Programs, TIF and other property tax essentials.
+[See County Resources](https://dor.sd.gov/government/county-auditors/ "See County Resources")
+    * [County Commissioners](https://dor.sd.gov/government/county-commissioners/ "County Commissioners")›
+      * ‹ BackCounty Commissioners
+      * [South Dakota County Commissioners](https://dor.sd.gov/government/county-commissioners/ "South Dakota County Commissioners")
+* * *
+Important South Dakota County Commissioners information including land assessment data, buffer strips and frequently asked levy questions.
+[See County Resources](https://dor.sd.gov/government/county-commissioners/ "See County Resources")
+    * [County Treasurers](https://dor.sd.gov/government/county-treasurers/ "County Treasurers")›
+      * ‹ BackCounty Treasurers
+      * [South Dakota County Treasurers](https://dor.sd.gov/government/county-treasurers/ "South Dakota County Treasurers")
+* * *
+Information for South Dakota County Treasurers to explain property tax relief programs, tax deeds and special assessments.
+[See County Resources](https://dor.sd.gov/government/county-treasurers/ "See County Resources")
+    * [Director of Equalization](https://dor.sd.gov/government/director-of-equalization/ "Director of Equalization")›
+      * ‹ BackDirector of Equalization
+      * [South Dakota Directors of Equalization](https://dor.sd.gov/government/director-of-equalization/ "South Dakota Directors of Equalization")
+* * *
+South Dakota Directors of Equalization knowledge base for property tax exemptions, sales / ratio and growth definitions.
+[See County Resources](https://dor.sd.gov/government/director-of-equalization/ "See County Resources")
+    * [Exempt Entities - Higher Education, Mass Transit & Tribal](https://dor.sd.gov/government/exempt-entities-higher-education-mass-transit-tribal/ "Exempt Entities - Higher Education, Mass Transit & Tribal")›
+      * ‹ BackExempt Entities - Higher Education, Mass Transit & Tribal
+      * [Government Motor Vehicle](https://dor.sd.gov/government/exempt-entities-higher-education-mass-transit-tribal/ "Government Motor Vehicle")
+* * *
+Get all the information you will need to title or renew your vehicle registration and license plates for your government vehicles.
+[Learn More](https://dor.sd.gov/government/exempt-entities-higher-education-mass-transit-tribal/ "Learn More")
+    * [Register of Deeds](https://dor.sd.gov/government/register-of-deeds/ "Register of Deeds")›
+      * ‹ BackRegister of Deeds
+      * [South Dakota Registers of Deeds](https://dor.sd.gov/government/register-of-deeds/ "South Dakota Registers of Deeds")
+* * *
+Essentials for Registers of Deeds relating to real estate value, deed transfers, sequence numbers and more.
+[See County Resources](https://dor.sd.gov/government/register-of-deeds/ "See County Resources")
+    * [Government FAQs](https://dor.sd.gov/government/government-faqs/ "Government FAQs")›
+      * ‹ BackGovernment FAQs
+      * [Government Frequently Asked Questions](https://dor.sd.gov/government/government-faqs/ "Government Frequently Asked Questions")
+* * *
+South Dakota government officials can find answers to frequently asked questions for local governments.
+[Get Answers](https://dor.sd.gov/government/government-faqs/ "Get Answers")
+    * [Government Forms / Resources](https://sddor.seamlessdocs.com/sc/government-forms/ "Government Forms / Resources")›
+      * ‹ BackGovernment Forms / Resources
+      * [Government Forms / Resources](https://sddor.seamlessdocs.com/sc/government-forms "Government Forms / Resources")
+* * *
+Quick links to help you find the right government forms fast.
+[See Government Forms](https://sddor.seamlessdocs.com/sc/government-forms "See Government Forms")
+  * [ ](https://sddor.seamlessdocs.com/sc/ "Forms / Resources")›
+    * ‹ Back
+    * [Business Forms](https://sddor.seamlessdocs.com/sc/business-forms/ "Business Forms")
+    * [Government Forms](https://sddor.seamlessdocs.com/sc/government-forms/ "Government Forms")
+    * [Individual Forms](https://sddor.seamlessdocs.com/sc/individual-forms/ "Individual Forms")
+    * [Master Form List](https://sddor.seamlessdocs.com/sc/master-forms/ "Master Form List")
+    * [Publications](https://sddor.seamlessdocs.com/sc/publications/ "Publications")›
+      * ‹ BackPublications
+      * [ Annual Reports ](https://sddor.seamlessdocs.com/sc/publications-annual-reports/ "Annual Reports")
+      * [ Guides ](https://sddor.seamlessdocs.com/sc/publications-guides/ "Guides")
+      * [ Newsletters ](https://sddor.seamlessdocs.com/sc/publications-newsletters/ "Newsletters")
+      * [ Sales Tax Rate Charts ](https://sddor.seamlessdocs.com/sc/publications-sales-tax-rate-charts/ "Sales Tax Rate Charts")
+      * [ Tax Facts ](https://sddor.seamlessdocs.com/sc/publications-tax-facts/ "Tax Facts")
+    * [Statistics](https://sddor.seamlessdocs.com/sc/statistics/ "Statistics")
+
+
+  * ![](https://dor.sd.gov/images/icons/search/search-dark.svg?v=qwfVNVDZwS-DU-WzbccI5H0IqugKRhnvplca1eRvjD0)
+  * [Online Services](https://dor.sd.gov/online-services/)
+
+
+Businesses
+The Motor Vehicle Division experiencing a backlog of up to three months,   
+[click here to request expedited title](https://dor.sd.gov/newsroom/request-a-vehicle-or-boat-title/ "Request A Title"). 
+  1. [Home](https://dor.sd.gov/)
+  2. [Businesses](https://dor.sd.gov/businesses/)
+  3. [Taxes](https://dor.sd.gov/businesses/taxes/)
+  4. Sales & Use Tax
+
+
+# Sales & Use Tax
+![Business Owner Writing on a Package](https://dor.sd.gov/media/bcvgb3lk/business_smallbusiness.jpg)
+The State of South Dakota relies heavily upon tax revenues to help provide vital public services, from public safety and transportation to health care and education, for our citizens. The sales tax applies to the gross receipts of all retail sales, including the sale, lease, or rental of tangible personal property or any product transferred electronically, and the sale of services. The state sales and use tax rate is 4.2%. For additional information on sales tax, please refer to our [Sales Tax Guide (PDF)](https://dor.sd.gov/media/1gxpk4ck/2024-7_sales-use-tax-guide.pdf "2024 7 Sales & Use Tax Guide").
+[See Sales Tax Guide](https://dor.sd.gov/media/fj3duts4/2025-7v2_sales-use-tax-guide.pdf "Sales & Use Tax Guide")
+* * *
+## Quick Navigation
+###### [Who Needs A License?](https://dor.sd.gov/businesses/taxes/sales-use-tax/#who)
+###### [How To Get A License](https://dor.sd.gov/businesses/taxes/sales-use-tax/#how)
+###### [Remote Sellers and Marketplace Providers](https://dor.sd.gov/businesses/taxes/sales-use-tax/#remote)
+###### [Sales Tax Facts](https://dor.sd.gov/businesses/taxes/sales-use-tax/#sales)
+###### [Exemptions from Sales Tax](https://dor.sd.gov/businesses/taxes/sales-use-tax/#exempt)
+###### [Exempt Entities](https://dor.sd.gov/businesses/taxes/sales-use-tax/#entities)
+###### [Exemption Certificate](https://dor.sd.gov/businesses/taxes/sales-use-tax/#certificate)
+###### [What is Use Tax?](https://dor.sd.gov/businesses/taxes/sales-use-tax/#use)
+###### [Changes In Your Business?](https://dor.sd.gov/businesses/taxes/sales-use-tax/#changes)
+###### [Sales Tax Statistical Reports](https://dor.sd.gov/businesses/taxes/sales-use-tax/#stat)
+###### [Streamlined Sales Tax Project](https://dor.sd.gov/businesses/taxes/sales-use-tax/#project)
+######  [Sales & Use Tax Voluntary Disclosure Program](https://dor.sd.gov/businesses/taxes/sales-use-tax/#voluntary)[](https://dor.sd.gov/businesses/taxes/sales-use-tax/#voluntary)
+###### [Business Education Program](https://dor.sd.gov/businesses/taxes/sales-use-tax/#education)
+###### [Sales Tax Rate Charts](https://dor.sd.gov/businesses/taxes/sales-use-tax/#rate)
+###### [Sales & Use Tax Resources](https://dor.sd.gov/businesses/taxes/sales-use-tax/#tax)
+###### [Current Tax Statistical Reports](https://dor.sd.gov/businesses/taxes/sales-use-tax/#reports)
+* * *
+## Who Needs A License?
+Any business with a physical presence in South Dakota is required to be licensed for sales tax collection. Gross sales or transactions include the sale of tangible personal property, any products transferred electronically, or services. The minimum thresholds listed below do not apply to businesses with a physical presence in South Dakota. South Dakota law also requires any business without a physical presence in South Dakota to obtain a South Dakota sales tax license and pay applicable sales tax if the business meets the following criteria in the previous or current calendar year:
+  * Your business’s gross revenue from sales into South Dakota exceeded $100,000
+
+
+## How To Get A License
+  * Register for a South Dakota sales tax license using the online [Tax License Application](https://dor.sd.gov/online-services/tax-license-application/ "Tax License Application").
+  * Register with multiple states through the Streamlined system at [streamlinedsalestax.org](http://www.streamlinedsalestax.org "Go To streamlinedsalestax.org").
+
+
+## Remote Sellers and Marketplace Providers
+### Remote Sellers
+Remote sellers who meet certain thresholds must obtain a South Dakota sales tax license and pay applicable sales tax. (Per [SDCL 10-64](http://sdlegislature.gov/Statutes/Codified_Laws/DisplayStatute.aspx?Type=Statute&Statute=10-64 "SDCL 10-64"))*
+#### Who This Impacts
+A remote seller is a business without a physical presence in South Dakota that meets the following criteria in the previous or current calendar year:
+  * Your business’s gross revenue from sales into South Dakota exceeded $100,000
+
+
+*Gross sales or transactions include the sale of tangible personal property, any products transferred electronically, or services.
+### Marketplace Providers
+Marketplace providers who meet a certain threshold must obtain a South Dakota sales tax license and pay applicable sales tax ([Per SDCL 10-65](http://sdlegislature.gov/Statutes/Codified_Laws/DisplayStatute.aspx?Type=Statute&Statute=10-65 "SDCL 10-65")).
+#### Who This Impacts
+As of March 1, 2019, marketplace providers have been required to license their business and remit applicable sales tax on all sales it facilitates into South Dakota if:
+  * The marketplace provider is a remote seller; or
+  * The marketplace provider facilitates the sales of at least one marketplace seller that meets the remote seller criteria; or
+  * The marketplace provider facilitates the sales of two or more marketplace sellers that, when the sales are combined, meets the remote seller criteria.
+
+
+If the business does not have a physical presence but has more than $100,000 in gross sales into South Dakota in the previous or current calendar year, the business is required to license their business and remit applicable sales tax.
+### Additional Resources
+[Marketplace Tax Fact (PDF)](https://dor.sd.gov/media/e0ajtwlg/marketplace-provider-bulletin.pdf "Marketplace Provider Bulletin")[](https://dor.sd.gov/media/e0ajtwlg/marketplace-provider-bulletin.pdf "Marketplace Provider Bulletin")
+[Remote Seller Bulletin (PDF)](https://dor.sd.gov/media/yh0n3oc2/remote-seller-bulletin.pdf "Remote Seller Bulletin")
+[Streamlined Sales Tax Remote Sellers Page](https://www.streamlinedsalestax.org/for-businesses/remote-seller-faqs "Streamlined Sales Tax Remote Sellers Page")
+[2023 Legislative Updates](https://dor.sd.gov/businesses/taxes/sales-use-tax/2023-legislative-updates/ "2023 Legislative Updates")
+## Sales Tax Facts
+Sales tax applies to the gross receipts of all retail sales, including the sale, lease or rental of tangible personal property or any product transferred electronically, and the sale of all services. Department of Revenue tax fact pages explain how sales and use tax applies to each specific industry.
+Tax Fact | Date Updated  
+---|---  
+Tax Fact | Date Updated  
+[**911 Emergency Surcharge**](https://dor.sd.gov/media/510nzn5x/911-emergency-surcharge.pdf "Tax Fact 911Emergency Surcharge") | 07/24  
+[**Accountants**](https://dor.sd.gov/media/svhj3y2p/accountants.pdf "Tax Fact Accountants") | 07/23  
+[**Advertising Agencies**](https://dor.sd.gov/media/cpuocuwk/advertising.pdf "Tax Fact Advertising Agencies") | 07/23  
+[**Agriculture Products**](https://dor.sd.gov/media/uurd5jvu/ag-products.pdf "Tax Fact Ag Products") | 07/23  
+[**Agriculture Services**](https://dor.sd.gov/media/agmf2q4o/ag-services.pdf "Tax Fact Ag Services") | 07/23  
+[**Architects, Engineers, and Surveyors**](https://dor.sd.gov/media/dbhfnrtg/architects.pdf "Tax Fact Architect") | 07/23  
+[**Attorneys**](https://dor.sd.gov/media/03zn1eje/attorneys.pdf "Tax Fact Attorneys") | 10/23  
+[**Auctioneers, Auction Clerks & Auction Services**](https://dor.sd.gov/media/d03ic0eg/auctions.pdf "Tax Fact Auctions") | 07/24  
+[**Audits**](https://dor.sd.gov/media/y4wlbawx/audits.pdf "Tax Fact Audits") | 07/15  
+[**Bars & Restaurants**](https://dor.sd.gov/media/x5wn31vv/restaurants-and-bars.pdf "Tax Fact Restaurants Bars") | 07/23  
+[**Beauty Salons & Barber Shops**](https://dor.sd.gov/media/00iatnn2/beauty-salons.pdf "Tax Fact Beauty Shops") | 07/23  
+[**Boat Sales and Rentals**](https://dor.sd.gov/media/3tyc0xds/boat-sales-rentals-etc.pdf "2018 12 Boat Sales, Rentals, Etc") |  07/23  
+[**Boat Titling and Registration**](https://dor.sd.gov/media/yrabkwur/boat-titling-and-registration.pdf "2018 12 Boat Titling And Registration") | 07/23  
+[**Campaign Taxes**](https://dor.sd.gov/media/alkhwrgn/campaign.pdf "Tax Fact Campaigns") | 07/23  
+[**Communications Equipment - Installation & Repair**](https://dor.sd.gov/media/zkvah4hi/communication-equipment.pdf "Tax Fact Communication Equipment") | 07/23  
+[**County Governments**](https://dor.sd.gov/media/gzaea1h1/county-governments.pdf "Tax Fact County Governments") | 04/25  
+[**Delivery Charges**](https://dor.sd.gov/media/4ivpeo1d/delivery-charges.pdf "Tax Fact Delivery Charges") | 07/23  
+[**Dentists**](https://dor.sd.gov/media/vusbwknx/dentists.pdf "Tax Fact Dentists") | 07/23  
+[**Direct Mail**](https://dor.sd.gov/media/kjcbdi2k/direct-mail.pdf "Tax Fact Direct Mail") | 07/23  
+[**Direct Sellers**](https://dor.sd.gov/media/se2jdhgj/direct-sellers.pdf "Tax Fact Direct Sellers") | 07/23  
+[**Drop Shipments**](https://dor.sd.gov/media/ynqbeyft/drop-shipments.pdf "Tax Fact Drop Shipments") | 09/23  
+[**Entertainers**](https://dor.sd.gov/media/jbqhoera/entertainment.pdf "Tax Fact Entertainers") | 07/23  
+[**Exempt Entities**](https://dor.sd.gov/media/sgxnhnhl/exemptentities.pdf "Tax Fact Exempt Entities") | 10/23  
+[**Exemption Certificate**](https://dor.sd.gov/media/q0xpvden/exemption-certificate.pdf "Tax Fact Exemption Certificate") | 07/23  
+[**Farm Machinery, Attachment Units, and Irrigation Equipment**](https://dor.sd.gov/media/2fpb0iuy/farm-machinery-attachment-units-and-irrigation-equipment.pdf "Farm Machinery Attachment Units And Irrigation Equipment") | 07/23  
+[**Farmers and Use Tax**](https://dor.sd.gov/media/gh1fgwcr/farmers-and-use-tax.pdf "Tax Fact Farmers Use Tax") | 07/23  
+[**Financial Institutions**](https://dor.sd.gov/media/q34fhrne/financial-institutions.pdf "Tax Fact Financial Institutions") | 07/23  
+[**Fishing & Hunting Services**](https://dor.sd.gov/media/eghfc4y4/fishing-hunting-services.pdf "Tax Fact Fishing") | 04/25  
+[**Flooring**](https://dor.sd.gov/media/3fopa03j/flooring.pdf "Tax Fact Flooring") | 07/23  
+[**Food Stamps & WIC Purchases**](https://dor.sd.gov/media/fmmhpbym/foodstampswic.pdf "Tax Fact Food Stamps") | 07/23  
+[**Franchise Operations**](https://dor.sd.gov/media/yidhbu34/franchise-operations.pdf "Tax Fact Franchise Operations") | 07/23  
+[**Funeral Services**](https://dor.sd.gov/media/o1qjvcsg/funeral-services.pdf "Tax Fact Funeral Services") | 07/23  
+[**Garbage/Solid Waste**](https://dor.sd.gov/media/comdjm2r/garbage.pdf "Tax Fact Garbage") | 07/23  
+[**Gravel**](https://dor.sd.gov/media/rvma3e0k/gravel.pdf "Tax Fact Gravel") | 03/24  
+[**Gross Receipts**](https://dor.sd.gov/media/3i3dhimt/gross-receipts.pdf "Tax Fact Gross Receipts") | 08/25  
+[**Health Services, Drugs, and Medical Devices**](https://dor.sd.gov/media/skpmuvgy/health-services.pdf "Tax Fact Health Services") | 07/23  
+[**Hotels, Motels and Campgrounds**](https://dor.sd.gov/media/jrql35rj/hotels-motels-and-campgrounds.pdf "Tax Fact Hotels") | 04/25  
+[**Internet**](https://dor.sd.gov/media/f3zcxwdp/internet.pdf "Tax Fact Internet") | 07/23  
+[**Internet Tax Freedom Act**](https://dor.sd.gov/media/qmbavimi/internet-tax-freedom-act.pdf "Tax Fact ITFA") | 12/19  
+[**Investigative Services Bureau**](https://dor.sd.gov/media/3fndln1u/investigative-services-bureau.pdf "Tax Fact Investigative Services Bureau") | 02/17  
+[**Landscaping & Lawn Care**](https://dor.sd.gov/media/gsinydrd/landscaping.pdf "Tax Fact Landscaping") | 06/24  
+[**Lease and Rental**](https://dor.sd.gov/media/zlfnpn34/lease-and-rental.pdf "2016 06 Lease And Rental") | 04/25  
+[**License Requirements for Sales, Use & Contractor's Excise Tax**](https://dor.sd.gov/media/qn3a1y31/license-requirements-for-sales-use-contractors-excise-tax.pdf "License Requirements For Sales, Use & Contractor's Excise Tax") | 08/25  
+[**Lodging - Government Exemptions**](https://dor.sd.gov/media/ptooej3s/lodging-gov-t-exemptions.pdf "Tax Fact Lodging") | 07/23  
+[**Manufactured and Modular Homes**](https://dor.sd.gov/media/abtk42do/manufactured-modular-homes.pdf "Tax Fact Modular Homes") | 07/23  
+**[Manufacturing](https://dor.sd.gov/media/ghnjwnxh/manufacturing.pdf "Tax Fact Manufacturing")** | 07/23  
+[**Marketplace**](https://dor.sd.gov/media/e0ajtwlg/marketplace-provider-bulletin.pdf "Marketplace Provider Bulletin") | 07/25  
+[**Metal Mining**](https://dor.sd.gov/media/lpjk2q5i/metal-mining.pdf "Tax Fact Metal Mining") | 07/23  
+[**Motor Vehicle Lease & Rentals**](https://dor.sd.gov/media/0gsfqus2/motor-vehicle-lease-rentals.pdf "Tax Fact Motor Vehicle Lease & Rentals") | 04/25  
+[**Motor Vehicle Repair & Services**](https://dor.sd.gov/media/jm4h1lr3/motor-vehicle-repairs-services.pdf "Tax Fact Repair Services") | 04/25  
+[**Motor Vehicles Sales and Purchases**](https://dor.sd.gov/media/lynnmg3l/motor-vehicle-sales-purchases.pdf "Tax Fact Mv Sales") | 07/23  
+[**Municipalities**](https://dor.sd.gov/media/03jm4rnc/municipalities.pdf "Tax Fact Municipalities") | 04/25  
+[**Nonprofit Hospitals**](https://dor.sd.gov/media/04bgwmc5/nonprofit-hospitals.pdf "Tax Fact Nonprofit Hospitals") | 07/23  
+[**Oil & Gas Field Services**](https://dor.sd.gov/media/a2bmbd2m/oil-gas-field-services.pdf "Tax Fact Oil Gas Field Services") | 07/23  
+[**Owner Occupied**](https://dor.sd.gov/media/3tvdp2wl/owneroccupied.pdf "Tax Fact Owner Occupied") | 12/22  
+[**Photographers**](https://dor.sd.gov/media/edyg11xz/photographers.pdf "Tax Fact Photographers") | 07/23  
+[**Prepared Food**](https://dor.sd.gov/media/rpogdnlm/prepared-food.pdf "Tax Fact Prepared Food") | 04/25  
+[**Products Transferred Electronically**](https://dor.sd.gov/media/argitevb/products-transferred-electronically.pdf "Products Transferred") | 07/23  
+[**Professional Employer Organization - Request for Approval**](https://dor.sd.gov/media/bzgju4iy/professional-employer-organization.pdf "Tax Fact Professional Employer Organization") | 03/24  
+[**Printers & Newspapers**](https://dor.sd.gov/media/jefgkomm/printers-and-newspapers.pdf "Tax Fact Printers Newspapers") | 07/23  
+[**Real Estate**](https://dor.sd.gov/media/ouemxkyv/real-estate.pdf "Tax Fact Real Estate") | 07/23  
+[**Relief Agencies**](https://dor.sd.gov/media/ukijenvt/relief-agencies.pdf "Reliefagencies") | 07/23  
+[**Religious Organizations**](https://dor.sd.gov/media/jo1hzipc/religiousorganizations.pdf "Tax Fact Churches") | 01/25  
+[**Renewable Energy Facility**](https://dor.sd.gov/media/riuhxv2u/renewable-energy-facility.pdf "Renewable Energy Facility") | 10/22  
+[**Remote Seller Bulletin**](https://dor.sd.gov/media/yh0n3oc2/remote-seller-bulletin.pdf "Tax Fact Remote Seller Bulletin") | 08/25  
+[**Rodeo & Rodeo-Related Activities**](https://dor.sd.gov/media/cvmnwloe/rodeo-and-rodeo-related-activities.pdf "Tax Fact Rodeo") | 04/25  
+[**Schools**](https://dor.sd.gov/media/kcim2mqk/schools.pdf "Schools") | 04/25  
+[**Special Events**](https://dor.sd.gov/media/wo2bl1yu/specialevents.pdf "Tax Fact Special Events") | 07/23  
+[**Storage and Warehousing**](https://dor.sd.gov/media/gyyky0im/storage-warehousing.pdf "Tax Fact Storage") | 07/23  
+[**Tax Increment Financing**](https://dor.sd.gov/media/cp5p4iis/tax-increment-financing.pdf "2019 11 Tax Increment Financing TIF") | 07/24  
+[**Taxidermists**](https://dor.sd.gov/media/tuvgz0mi/taxidermists.pdf "Tax Fact Taxidermists") | 07/23  
+[**Telecommunication Services**](https://dor.sd.gov/media/mnybfbgy/2024-07-telecommunication-services.pdf "2020 07 Tax Fact Telecommunication Services") | 07/24  
+[**Title & Abstract Companies **](https://dor.sd.gov/media/uxofu0hg/title-and-abstract-companies.pdf "Tax Fact Title Abstract Companies") | 07/23  
+[**Tourism Tax**](https://dor.sd.gov/media/2hljdrss/tourism-tax.pdf "Tax Fact Tourism") | 04/25  
+[**Tribal**](https://dor.sd.gov/media/5cnnz2ww/tribal.pdf "2019 09 Tribal") | 07/23  
+[**Universities**](https://dor.sd.gov/media/31ulip53/universities.pdf "Tax Fact Universities") | 08/25  
+[**Use Tax, Businesses**](https://dor.sd.gov/media/pzkjzc1y/use-tax-business.pdf "Tax Fact Business Use Tax")**** | 07/23  
+[**Use Tax, Individuals**](https://dor.sd.gov/media/s1epx5qw/use-tax-individual.pdf "Tax Fact Individual Use Tax") | 07/23  
+[**Veterinarians and Animal Specialties**](https://dor.sd.gov/media/gjgj5t5e/veterinarians.pdf "Tax Fact Veterinarians") | 10/23  
+## Exemptions from Sales Tax
+There are four reasons that products and services would be exempt from South Dakota sales tax.
+  1. The purchaser is a tax exempt entity;
+  2. The product or service is specifically exempt from sales tax;
+  3. The purchaser submits a claim for exemption;
+  4. The product is delivered to a point outside of the State of South Dakota.
+
+
+### Exempt Entities
+State law exempts certain entities from paying South Dakota sales tax or use tax on their purchases. Relief agencies and religious and private schools must apply to the department and be approved for exempt status. Their exemption number must be included on the exemption certificate. The exemption numbers for relief agencies include an “RA”; private schools include an “RS”. For more information about exempt entities, please review the [Sales Tax Guide (PDF)](https://dor.sd.gov/media/1gxpk4ck/2024-7_sales-use-tax-guide.pdf "2024 7 Sales & Use Tax Guide") and [Exempt Entity Tax Fact (PDF)](https://dor.sd.gov/media/sgxnhnhl/exemptentities.pdf "Exemptentities"). These entities include:
+  * United States government agencies
+  * State of South Dakota
+  * Indian tribes
+  * Public or municipal corporations of the State of South Dakota
+  * Municipal or volunteer fire or ambulance departments
+  * Public schools, including K-12, universities and technical institutes that are supported by the State of South Dakota or public or municipal corporations of South Dakota.
+  * Non-profit hospitals
+  * Relief agencies
+  * SD religious and private schools
+
+
+Entities, listed above, that wish to apply for a sales & use tax exempt status may do so by submitting an application to the Department. We have provided a link below. 
+A non-profit charitable organization that devotes its resources exclusively to the relief of the poor, distressed or underprivileged and have been recognized as an exempt organization under 501(c )(3) of the Internal Revenue Code may qualify. Additional qualifications include an actual physical location in South Dakota and the entity must be providing actual services. For additional information please see our Exempt Entity Tax Fact.
+Relief Agencies that qualify are required to renew their application every five years.
+[SALES TAX EXEMPT STATUS APPLICATION](https://sddor.seamlessdocs.com/f/2027 "Sales Tax Exempt Status Application")
+### Exemption Certificate
+A seller does not have to collect sales tax when a purchaser gives a seller a completed exemption certificate at the time of sale. The purchaser can give a “single purchase” certificate for just one transaction or a blanket certificate that applies to future purchases of qualifying exempt items. Exemption certificates do not expire unless the information on the certificate changes; however, we recommend updating exemption certificates every three to four years. For more information about exempt entities, please review the[ Sales Tax Guide (PDF)](https://dor.sd.gov/media/1gxpk4ck/2024-7_sales-use-tax-guide.pdf "2024 7 Sales & Use Tax Guide") and [Exempt Entity Tax Fact (PDF)](https://dor.sd.gov/media/sgxnhnhl/exemptentities.pdf "Exemptentities"). The exemption certificate is used to:
+  1. Claim exemption for:
+  2. Products or services intended to be resold; or
+  3. Products or services used for an exempt purpose.
+  4. Document that the purchaser is an exempt entity.
+
+
+[Exemption Certificate](https://dorresources.sd.gov/f/2040 "Exemption Certificate")
+## What is Use Tax?
+![Man Sitting in the back of a Van](https://dor.sd.gov/media/rucnlj0x/taxes_trackingpackages.jpg)
+Use Tax is the counterpart of the South Dakota sales tax. The two taxes apply to the sales of the same products and services, have the same tax rates and have similar laws. The difference is in how the taxes are applied. Use tax applies when state and applicable municipal sales tax has not been paid on products and services (including products and services transferred electronically) that are used, stored, or consumed in South Dakota. Situations occur when South Dakota sales tax may not have been charged and use tax is due include:
+  * When items are purchased from an unlicensed out-of-state vendor;
+  * When untaxed retail inventory is removed for personal or store use;
+  * When a product purchased from an out-of-state vendor is delivered in South Dakota, but the other state’s tax is incorrectly charged; and
+  * When a purchase is made in another state then brought into South Dakota and the product was not taxed or was taxed at a lower tax rate than applies in South Dakota, you owe use tax.
+
+
+##  Changes In Your Business? Let Us Know
+If there are changes in your business please use our online forms to submit the changes.
+### Cancel Your License
+Sales or contractor's excise tax licenses are **not** transferable. A change in ownership or legal organization, such as from one sole proprietor to another, from sole proprietor to a partnership, a change from sole proprietor to a corporation, or a merger, requires a new tax license. You must cancel your license within 15 days and immediately file a final return and pay all tax due if:
+  1. You close your business;
+  2. You sell your business; or
+  3. The ownership of the business changes.
+
+
+#### How to Cancel Your License
+If you file electronically, you can cancel your license using our online [Filing and Tax Payment portal](https://dor.sd.gov/online-services/file-pay-taxes/ "File & Pay Taxes"). If you file a paper return, please check the out-of-business box in the upper right corner of your return, listing the last date of business.
+### Address Change
+Notify the department in writing if your mailing address or your business location changes. Include the new address information, effective date of the change, your taxpayer number, and business name.
+#### How to Change Your Address
+Please use our [Change of Address Form](https://dorresources.sd.gov/f/2025 "Change of Address Form") to update your address. If you file electronically, you can change your address using our online [Filing and Tax Payment portal](https://dor.sd.gov/online-services/file-pay-taxes/ "Filing and Tax Payment portal"). If you file a paper return, you can also make the updates on your tax return.
+### Change of Accounting
+If your company changes your accounting method with the Internal Revenue Service you must submit notification to the Department. You are eligible to start reporting under your new accounting method the first day of the following month. To change your accounting method, please fill out our [Change of Accounting Method form](https://dorresources.sd.gov/w/2023 "Change of Accounting Method form"). Businesses can report sales based on two different accounting methods.
+  * When using the **accrual method** , taxes must be paid on all sales made during the reporting period, even if you have not received payment. Bad debts you write off as uncollectible in your books and records and are eligible to be deducted for federal income tax purposes.
+  * When you use the **cash method** of accounting, you report gross receipts and pay tax as you receive payments. No bad debts are allowed on the cash basis.
+
+
+##    
+Sales Tax Statistical Reports
+The most recent Sales Tax Statistical Reports are organized in the expand/collapse regions at the[bottom](https://dor.sd.gov/businesses/taxes/sales-use-tax#reports "Sales Tax Statistical Reports"). In all cases when you select a month, you will be viewing data compiled from returns filed with the Department during that month. It may cover a variety of taxpayer filing periods, such as monthly, bi-monthly, semi-annually etc. It includes returns filed for the current period and those filed for previous periods. [Historical Tax Statistical Reports](https://dor.sd.gov/businesses/taxes/sales-use-tax/historical-tax-statistical-reports/ "Historical Sales Tax Statistical Reports") are also available.
+## Streamlined Sales Tax Project
+The philosophy of the [Streamlined Sales Tax Project](https://www.streamlinedsalestax.org/ "Streamlined Sales Tax Project") is simple: the state and businesses should work together to create simpler, more uniform sales and use tax systems.
+### Streamlined Sales Tax Registration System
+To register, you may use the [Streamlined Registration System](https://www.sstregister.org/ "Streamlined Registration System"). Alternatively, sellers may also use the Streamlined Sales Tax Registration System to establish a sales tax account with the 23 SSUTA member states in a single registration.
+[Register Now](https://www.streamlinedsalestax.org/for-businesses/sales-tax-registration-sstrs "Register for Streamlined Sales Tax")
+### Streamlined Sales Tax Useful Links
+  * [Streamlined Sales Tax FAQs](https://www.streamlinedsalestax.org/for-businesses/sales-tax-registration-sstrs "Streamlined Sales Tax FAQs")
+  * [Rates & Boundary Database Instructions](https://www.streamlinedsalestax.org/Shared-Pages/rate-and-boundary-files "Rates & Boundary Database Instructions")
+  * [Simplified Electronic Return](https://www.streamlinedsalestax.org/Shared-Pages/SSTTechnology "Simplified Electronic Return")[](https://www.streamlinedsalestax.org/Shared-Pages/SSTTechnology "Simplified Electronic Return")[](https://www.streamlinedsalestax.org/Shared-Pages/rate-and-boundary-files)
+  * [SD Information for Streamlined Sales Tax Participants (PDF)](https://dor.sd.gov/media/vx4pu4p0/1-2025sststateinformation.pdf "SD Information for Streamlined Sales Tax Participants \(PDF\)")
+  * SD Tax Matrix 
+    * [Library of Definitions](https://sst.streamlinedsalestax.org/TM "Library of Definitions")
+    * [Tax Administration Practices](https://sst.streamlinedsalestax.org/TAP "Tax Administration Practices")
+  * [SD Certificate of Compliance](http://sst.streamlinedsalestax.org/coc/ "SD Certificate of Compliance")
+  * [30 Day Notice before Assessment for Remote Sellers (PDF)](https://dor.sd.gov/media/4aad1yde/30-day-notice-remote-sellers.pdf "30 Day Notice before Assessment for Remote Sellers")
+
+
+## Sales & Use Tax Voluntary Disclosure Program
+South Dakota's Voluntary Disclosure Program is designed to help businesses or individuals get into compliance with South Dakota's sales and use tax laws. You can remain anonymous while investigating whether this program is right for your business. However, if you decide to participate in the program, you will need to apply in writing. If you already have a South Dakota tax license for sales and use tax, you cannot participate in this program.
+### Benefits of Participating
+  * Possible waiver of the penalty charges
+  * Agreement that the Department will not pursue criminal prosecution
+  * Sixty days to determine the liability and prepare the returns
+
+
+### Qualifying for Voluntary Disclosure
+To qualify for a voluntary disclosure agreement, you or your business:
+  * must not be currently registered to collect and pay sales, use, and contractor's excise tax in South Dakota,
+  * Must not have collected sales tax,
+  * must not have been contacted by either the Department of Revenue or the Multistate Tax Commission to schedule an audit, or to complete a nexus questionnaire,
+  * are not under audit for any South Dakota tax,
+  * are not currently under investigation by any law enforcement agency, and you are not currently the subject of a civil action or a criminal prosecution involving the sales and use tax covered by the agreement,
+  * agree to register, file returns, and pay the tax due for the look-back period within the time frame specified in the agreement,
+  * will make records available for audit to verify the amount of your liability and the accuracy of your statements upon request.
+
+
+### Application Process
+Anyone can contact the Department anonymously to find out more about the program. To remain anonymous when making the formal application, you may engage a representative, such as a tax preparer, accountant or attorney. Your request can be emailed to TDU@state.sd.us or mailed to the South Dakota Department of Revenue at 445 E. Capitol Ave Pierre, SD 57501.
+Your written request should contain the following information:
+  1. A description of your activities and the date the activities began, including whether you do any of the following: 
+     * own or lease property in the state
+     * have employees or independent sales representatives soliciting sales in the state
+     * have inventory located in the state
+     * make deliveries into the state and, if so, the means of transportation used
+  2. An estimate of the tax liability for previous tax periods.
+  3. A statement of whether you have collected South Dakota taxes.
+  4. A statement that you have not been contacted previously by South Dakota or the Multistate Tax Commission Nexus Program.
+
+
+You may find it beneficial to complete a voluntary disclosure with the Multistate Tax Commission if you have multiple states in which you need to register.
+[Multistate Disclosure Form](http://www.mtc.gov/Nexus-Program/Multistate-Voluntary-Disclosure-Application "Disclosure Form")
+## Business Education Program
+![Woman Smiling at a Desk](https://dor.sd.gov/media/bfsduah4/government_womanbehinddesk.jpg)
+### Basic Sales Tax Seminar
+These three-hour seminars are held in Sioux Falls, Rapid City, and Mitchell three to four different times throughout the year. Webinars will be held periodically. Three CPE credits and/or 0.3 CEU credits are awarded for those who apply for them and attend the full seminar. Each seminar covers:
+  * How and when to apply for a tax license
+  * Exemptions from sales and use taxes
+  * Use tax
+  * Municipal taxes
+  * Purchases for resale
+  * How to file returns, both by paper and electronically
+
+
+[Find Upcoming Seminars](https://dor.sd.gov/online-services/business-education-program/ "Business Education Program")
+### MN/SD Border Tax Seminars
+A three-hour MN/SD Border Sales Tax Seminar and a three-hour ND/SD Border Construction Contractors Seminar are held twice a year in Sioux Falls, South Dakota. A total of 3.0 CPE credits and/or 0.3 CEU credits are awarded for each seminar for those who apply for them and attend each entire seminar. If both seminars are attended, an individual can earn 6.0 CPE credits and/or 0.6 CEU credits.
+#### MN/SD Border Tax Seminar – Sales Tax
+Topics include:
+  * Requirements to register in SD and MN
+  * Awareness of major differences between South Dakota and Minnesota tax laws
+  * How these differences may affect your business
+  * Practical tips on how to manage sales and use tax obligations for both states
+  * Streamlined Sales Tax Project
+  * Filing returns
+
+
+#### MN/SD Border Tax Seminar – Construction Contractors
+Topics include:
+  * Requirements for registration in SD and MN
+  * Differences between SD and MN taxes for contractors
+  * Prime and subcontractors
+  * Point of taxation
+  * Special jurisdictions/tribal agreements
+  * Owner furnished materials
+  * Qualified utilities
+  * Filing returns
+
+
+[Find Upcoming Seminars](https://dor.sd.gov/online-services/business-education-program/ "Business Education Program")
+### ND/SD Border Tax Seminars
+A three-hour ND/SD Border Sales Tax Seminar and a two-hour ND/SD Border Construction Contractors Seminar are held twice a year, once in the spring in South Dakota and once in the fall in North Dakota. A total of 3.0 CPE and/or .3 CEU credits are awarded for the Sales Tax seminar, and 2.0 CPE and/or .2 CEU credits are awarded to the Construction Contractors seminar if requested. If an individual attends both seminars, or a full day, 5.0 CPE and/or 0.5 CEU credits are awarded.
+####  ND/SD Border Tax Seminar – Sales Tax
+Topics include:
+  * Requirements to register in SD and ND
+  * Awareness of major differences between SD and ND tax laws
+  * How the differences between state tax laws may affect your business
+  * Practical tips on how to manage sales and use tax obligations for both states
+  * Streamline Sales Tax Project
+  * Available resources
+  * Filing returns
+
+
+####  ND/SD Border Tax Seminar – Construction Contractors
+Topics include:
+  * Requirements for registration in SD and MN
+  * Differences between SD and MN taxes for contractors
+  * Prime and subcontractors
+  * Point of taxation
+  * Special jurisdictions/tribal agreements
+  * Owner furnished materials
+  * Qualified utilities
+  * Filing returns
+
+
+[Find Upcoming Seminars](https://dor.sd.gov/online-services/business-education-program/ "Business Education Program")
+## Sales Tax Rate Charts
+In the past, business owners have asked if we could provide rate charts. For your convenience, we have put together charts for each of the current sales tax rates your business may need. The charts are available under or Forms / Resources page. We have also provided a link below. 
+[Sales Tax Rate Charts](https://sddor.seamlessdocs.com/sc/publications-sales-tax-rate-charts/ "Sales Tax Rate Charts")
+## Sales & Use Tax Resources
+  * [Mountain Pine Beetle Tree Removal - Sales Tax Exemption (PDF)](https://dor.sd.gov/media/kvwbd3iv/pine-beetle.pdf "Pine Beetle")
+  * [Sales Tax Guide (PDF)](https://dor.sd.gov/media/1gxpk4ck/2024-7_sales-use-tax-guide.pdf "2024 7 Sales & Use Tax Guide")[](https://dor.sd.gov/media/lvjfdoa0/2023-7_sales-use-tax-guide.pdf "2023 1 Sales & Use Tax Guide")[](https://dor.sd.gov/media/fzxjeybe/2019-07_sales-use-tax-guide.pdf "Sales-Use-Tax-Guide")
+  * [Tax Fact on Use Tax (PDF)](https://dor.sd.gov/media/pzkjzc1y/use-tax-business.pdf "Tax Fact Business Use Tax")
+  * [South Dakota's Tax Refund And Tax Delay Payment Programs (PDF)](https://dor.sd.gov/media/4uhntclu/sd-tax-refund-and-tax-delay-payment-programs.pdf "Tax Fact SD Tax Refund and Tax Delay Payment Programs")
+
+
+## Online Services
+[ ![File & Pay Taxes](https://dor.sd.gov/media/gnvb2lmk/taxes.svg) File & Pay Taxes ](https://apps.sd.gov/RV23EPath/Login.aspx "File & Pay Taxes")
+[ ![Tax License Application](https://dor.sd.gov/media/5cnpdftb/application.svg) Tax License Application ](https://apps.sd.gov/rv23cedar/main/main.aspx "Tax License Application")
+[ ![Sales Tax Rate Lookup](https://dor.sd.gov/media/fjdmvxko/search-1.svg) Sales Tax Rate Lookup ](https://apps.sd.gov/rv25taxmatch/main.aspx "Sales Tax Rate Lookup")
+* * *
+### 2025 Sales Tax Statistical Reports
+#####  Excise Taxable Receipts by SIC 
+This report includes all amounts reported on Excise Tax Returns within the Standard Industrial Classification (SIC), Major Group and Division.
+  * [January (PDF)](https://dor.sd.gov/media/g4mh5gj2/0125et-state-sic.pdf "0125ET State SIC")[](https://dor.sd.gov/media/pyxh4hpk/0224et-state-sic.pdf "0224ET State SIC")
+  * [February (PDF)](https://dor.sd.gov/media/lvqdky5d/0225et-state-sic.pdf "0225ET State SIC")
+  * [March (PDF)](https://dor.sd.gov/media/ebopowtq/0325et-state-sic.pdf "0325ET State SIC")
+  * [April (PDF)](https://dor.sd.gov/media/hkll5vjs/0425et-state-sic.pdf "0425ET State SIC")
+  * [May (PDF)](https://dor.sd.gov/media/i1bjs4dw/0525et-state-sic.pdf "0525ET State SIC")
+  * [June (PDF)](https://dor.sd.gov/media/n5hdbfbd/0625et-state-sic.pdf "0625ET State SIC")
+  * [FY 2025 (PDF)](https://dor.sd.gov/media/qmepaod5/fy25et-state-sic.pdf "FY25ET State SIC")
+  * [July (PDF)](https://dor.sd.gov/media/sbdpcmfy/0725et-state-sic.pdf "0725ET State SIC")
+
+
+#####  Municipal Taxable Sales per City by SIC Code 
+Taxable sales within the Standard Industrial Classification (SIC) Division, Major Group & Industry for all cities. Separately covers the general municipal tax rate and the municipal gross receipts tax rate.
+[Current Month Interactive Report](https://dor.sd.gov/businesses/taxes/sales-use-tax/current-month-interactive-report/ "Current Month Interactive Report")
+  * [January (PDF)](https://dor.sd.gov/media/lkgmrwud/0125municipalmonthlytaxbysic.pdf "0125Municipalmonthlytaxbysic") [(XLSX)](https://dor.sd.gov/media/xygbldbu/0125-sd-municipal-by-sic.xlsx "01.25 SD Municipal By SIC")[](https://dor.sd.gov/media/k5qcwkxh/0224municipalmonthlytaxbysic.pdf "0224Municipalmonthlytaxbysic")
+  * [February (PDF)](https://dor.sd.gov/media/ybnm4iex/0225municipalmonthlytaxbysic.pdf "0225Municipalmonthlytaxbysic") [(XLSX)](https://dor.sd.gov/media/rrupeaa0/0225-sd-municipal-by-sic.xlsx "02.25 SD Municipal By SIC")
+  * [March (PDF)](https://dor.sd.gov/media/nkope1hi/0325municipalmonthlytaxbysic.pdf "0325Municipalmonthlytaxbysic") [(XLSX)](https://dor.sd.gov/media/r5lgxti3/0325-sd-municipal-by-sic.xlsx "03.25 SD Municipal By SIC")
+  * [April (PDF)](https://dor.sd.gov/media/55yjb5x4/0425municipalmonthlytaxbysic.pdf "0425Municipalmonthlytaxbysic") [(XLSX)](https://dor.sd.gov/media/frujwtc4/0425-sd-municipal-by-sic.xlsx "04.25 SD Municipal By SIC")[](https://dor.sd.gov/media/55yjb5x4/0425municipalmonthlytaxbysic.pdf "0425Municipalmonthlytaxbysic")
+  * [May (PDF)](https://dor.sd.gov/media/xhfjtzdl/0525municipalmonthlytaxbysic.pdf "0525Municipalmonthlytaxbysic") [(XLSX)](https://dor.sd.gov/media/23dlh0hm/0525-sd-municipal-by-sic.xlsx "05.25 SD Municipal By SIC")
+  * [June (PDF)](https://dor.sd.gov/media/gffohzup/0625-municipalmonthlytaxbysic.pdf "0625 Municipalmonthlytaxbysic") [(XLSX)](https://dor.sd.gov/media/smubxlbb/0625-sd-municipal-by-sic.xlsx "06.25 SD Municipal By SIC")
+  * [FY 2025 (PDF)](https://dor.sd.gov/media/bbjjbvxy/fy25municipalmonthlytaxbysic.pdf "Fy25municipalmonthlytaxbysic")
+  * [July (PDF)](https://dor.sd.gov/media/abmh4ota/0725municipalmonthlytaxbysic.pdf "0725Municipalmonthlytaxbysic") [(XLSX)](https://dor.sd.gov/media/o4ibndn2/0725-sd-municipal-by-sic.xlsx "07.25 SD Municipal By SIC")
+
+
+#####  Municipal Tax Due per City – Comparison 
+Shows a comparison of municipal tax due reported to the same month in the previous year grouped by city. This report is not a cumulative total, rather the number of sales, use, and municipal gross receipts tax paid to each town per month.
+  * [January (PDF)](https://dor.sd.gov/media/dvqhupew/0125municipaltaxbycity.pdf "0125Municipaltaxbycity")
+  * [February (PDF)](https://dor.sd.gov/media/mmilo3rc/0225municipaltaxbycity.pdf "0225Municipaltaxbycity")
+  * [March (PDF)](https://dor.sd.gov/media/2x2hldws/0325municipaltaxbycity.pdf "0325Municipaltaxbycity")[](https://dor.sd.gov/media/2x2hldws/0325municipaltaxbycity.pdf "0325Municipaltaxbycity")[](https://dor.sd.gov/media/mmilo3rc/0225municipaltaxbycity.pdf "0225Municipaltaxbycity")[](https://dor.sd.gov/media/dvqhupew/0125municipaltaxbycity.pdf "0125Municipaltaxbycity")[](https://dor.sd.gov/media/s2xpoe2c/0224municipaltaxbycity.pdf "0224Municipaltaxbycity")
+  * [April (PDF)](https://dor.sd.gov/media/sb5fpfry/0425municipaltaxbycity.pdf "0425Municipaltaxbycity")
+  * [May (PDF)](https://dor.sd.gov/media/m2rifsht/0525municipaltaxbycity.pdf "0525Municipaltaxbycity")
+  * [June (PDF)](https://dor.sd.gov/media/s3alczqm/0625-municipaltaxbycity.pdf "0625 Municipaltaxbycity")
+  * [FY 2025 (PDF)](https://dor.sd.gov/media/z4hbyx3k/fy25municipaltaxbycitybyyear.pdf "Fy25municipaltaxbycitybyyear")
+  * [July (PDF)](https://dor.sd.gov/media/g4bnkyh2/0725municipaltaxbycity.pdf "0725Municipaltaxbycity")
+
+
+#####  State Taxable Sales for County & City (Division totals for each city) 
+Taxable sales within the Standard Industrial Classification (SIC) Division, Major Group & Industry for all cities. Separately covers the general municipal tax rate and the municipal gross receipts tax rate.
+  * [January (PDF)](https://dor.sd.gov/media/kbsbxfby/0125countybycitybymg.pdf "0125Countybycitybymg")
+  * [February (PDF)](https://dor.sd.gov/media/3heg1yqk/0225countybycitybymg.pdf "0225Countybycitybymg")[](https://dor.sd.gov/media/kbsbxfby/0125countybycitybymg.pdf "0125Countybycitybymg")[](https://dor.sd.gov/media/xdrfmxga/0224countybycitybymg.pdf "0224Countybycitybymg")
+  * [March (PDF)](https://dor.sd.gov/media/p0hh2hxd/0325countybycitybymg.pdf "0325Countybycitybymg")
+  * [April (PDF)](https://dor.sd.gov/media/ifhh10fj/0425countybycitybymg.pdf "0425Countybycitybymg")
+  * [May (PDF)](https://dor.sd.gov/media/ya5poicq/0525countybycitybymg.pdf "0525Countybycitybymg")[](https://dor.sd.gov/media/ifhh10fj/0425countybycitybymg.pdf "0425Countybycitybymg")[](https://dor.sd.gov/media/p0hh2hxd/0325countybycitybymg.pdf "0325Countybycitybymg")
+  * [June (PDF)](https://dor.sd.gov/media/ykshni3y/0625countybycitybymg.pdf "0625Countybycitybymg")
+  * [FY 2025 (PDF)](https://dor.sd.gov/media/nyqbijdx/fy25countybycitybymg.pdf "Fy25countybycitybymg")
+  * [July (PDF)](https://dor.sd.gov/media/zuqnpwr1/0725countybycitybymg.pdf "0725Countybycitybymg")
+
+
+#####  State Taxable Sales by County & City (Comparison) 
+Shows state taxable sales for each county broken down by cities located within that county compared to the previous year. A city may exist in more than one county.
+  * [January (PDF)](https://dor.sd.gov/media/2nbbaufy/0125countybycitynosic-comparison.pdf "0125Countybycitynosic COMPARISON")
+  * [February (PDF)](https://dor.sd.gov/media/z30art0j/0225countybycitynosic-comparison.pdf "0225Countybycitynosic COMPARISON")[](https://dor.sd.gov/media/2nbbaufy/0125countybycitynosic-comparison.pdf "0125Countybycitynosic COMPARISON")[](https://dor.sd.gov/media/k0fmyyfo/0224countybycitynosic-comparison.pdf "0224Countybycitynosic COMPARISON")
+  * [March (PDF)](https://dor.sd.gov/media/ta2l2lg1/0325countybycitynosic-comparison.pdf "0325Countybycitynosic COMPARISON")
+  * [April (PDF)](https://dor.sd.gov/media/uxklqjwf/0425countybycitynosic-comparison.pdf "0425Countybycitynosic COMPARISON")[](https://dor.sd.gov/media/ta2l2lg1/0325countybycitynosic-comparison.pdf "0325Countybycitynosic COMPARISON")
+  * [May (PDF)](https://dor.sd.gov/media/zwxdjl1x/0525countybycitynosic-comparison.pdf "0525Countybycitynosic COMPARISON")
+  * [June (PDF)](https://dor.sd.gov/media/w0lf0pnv/0625countybycitynosic-comparison.pdf "0625Countybycitynosic COMPARISON")
+  * [FY 2025 (PDF)](https://dor.sd.gov/media/54vngbfe/fy25countybycitynosic-comparison.pdf "Fy25countybycitynosic COMPARISON")
+  * [July (PDF)](https://dor.sd.gov/media/aqqf1c5z/0725countybycitynosic-comparison.pdf "0725Countybycitynosic COMPARISON")
+
+
+#####  State Taxable Sales by County & City (Percentage) 
+Shows state taxable sales for each county broken down by cities located within that county and what percentage of the total sales are allocated to each city and county. A city may exist in more than one county.
+  * [January (PDF)](https://dor.sd.gov/media/yhwjn5le/0125countybycitypercentoftotal.pdf "0125Countybycitypercentoftotal")
+  * [February (PDF)](https://dor.sd.gov/media/jmtf5cat/0225countybycitypercentoftotal.pdf "0225Countybycitypercentoftotal")[](https://dor.sd.gov/media/yhwjn5le/0125countybycitypercentoftotal.pdf "0125Countybycitypercentoftotal")[](https://dor.sd.gov/media/vfupk21a/0224countybycitypercentoftotal.pdf "0224Countybycitypercentoftotal")
+  * [March (PDF)](https://dor.sd.gov/media/gdobyo4c/0325countybycitypercentoftotal.pdf "0325Countybycitypercentoftotal")
+  * [April (PDF)](https://dor.sd.gov/media/lfsg0fdo/0425countybycitypercentoftotal.pdf "0425Countybycitypercentoftotal")[](https://dor.sd.gov/media/gdobyo4c/0325countybycitypercentoftotal.pdf "0325Countybycitypercentoftotal")
+  * [May (PDF)](https://dor.sd.gov/media/wezod5g0/0525countybycitypercentoftotal.pdf "0525Countybycitypercentoftotal")
+  * [June (PDF)](https://dor.sd.gov/media/luzcdess/0625countybycitypercentoftotal.pdf "0625Countybycitypercentoftotal")
+  * [FY 2025 (PDF)](https://dor.sd.gov/media/mmdhbu2d/fy25countybycitypercentoftotal.pdf "Fy25countybycitypercentoftotal")
+  * [July (PDF)](https://dor.sd.gov/media/wonpqlw0/0725countybycitypercentoftotal.pdf "0725Countybycitypercentoftotal")
+
+
+#####  State Taxable Sales by County 
+Shows state taxable sales within the Standard Industrial Classification (SIC), Major Group and Division.
+  * [January (PDF)](https://dor.sd.gov/media/4dblsugj/0125countybysic.pdf "0125Countybysic")
+  * [February (PDF)](https://dor.sd.gov/media/u4weqlkv/0225countybysic.pdf "0225Countybysic")[](https://dor.sd.gov/media/4dblsugj/0125countybysic.pdf "0125Countybysic")[](https://dor.sd.gov/media/s1bbbxmf/0224countybysic.pdf "0224Countybysic")
+  * [March (PDF)](https://dor.sd.gov/media/wnxp2b4p/0325countybysic.pdf "0325Countybysic")
+  * [April (PDF)](https://dor.sd.gov/media/t35atubl/0425countybysic.pdf "0425Countybysic")[](https://dor.sd.gov/media/wnxp2b4p/0325countybysic.pdf "0325Countybysic")
+  * [May (PDF)](https://dor.sd.gov/media/jlmn3r3e/0525countybysic.pdf "0525Countybysic")
+  * [June (PDF)](https://dor.sd.gov/media/1nlhdn2s/0625countybysic.pdf "0625Countybysic")
+  * [FY 2025 (PDF)](https://dor.sd.gov/media/ephdt2sn/fy25countybysic.pdf "Fy25countybysic")
+  * [July (PDF)](https://dor.sd.gov/media/riih2oiy/0725countybysic.pdf "0725Countybysic")
+
+
+#####  State Taxable Sales by SIC Code 
+Shows state taxable sales within the Standard Industrial Classification (SIC) Division, Major Group & Industry.
+  * [January (PDF)](https://dor.sd.gov/media/sdeppi12/0125statebydiv-mg-sic.pdf "0125Statebydiv MG SIC")
+  * [February (PDF)](https://dor.sd.gov/media/0itj1d5m/0225statebydiv-mg-sic.pdf "0225Statebydiv MG SIC")[](https://dor.sd.gov/media/sdeppi12/0125statebydiv-mg-sic.pdf "0125Statebydiv MG SIC")[](https://dor.sd.gov/media/tjhevfod/0224statebydiv-mg-sic.pdf "0224Statebydiv MG SIC")
+  * [March (PDF)](https://dor.sd.gov/media/vwtodxbw/0325statebydiv-mg-sic.pdf "0325Statebydiv MG SIC")
+  * [April (PDF)](https://dor.sd.gov/media/vqid4yxi/0425statebydiv-mg-sic.pdf "0425Statebydiv MG SIC")[](https://dor.sd.gov/media/vwtodxbw/0325statebydiv-mg-sic.pdf "0325Statebydiv MG SIC")
+  * [May (PDF)](https://dor.sd.gov/media/yr3pnika/0525statebydiv-mg-sic.pdf "0525Statebydiv MG SIC")
+  * [June (PDF)](https://dor.sd.gov/media/nx2hfu5d/0625statebydiv-mg-sic.pdf "0625Statebydiv MG SIC")
+  * [FY 2025 (PDF)](https://dor.sd.gov/media/ovbl3q4t/fy25statebydiv-mg-sic.pdf "Fy25statebydiv MG SIC")
+  * [July (PDF)](https://dor.sd.gov/media/lezb1np2/0725statebydiv-mg-sic.pdf "0725Statebydiv MG SIC")
+
+
+#####  Tourism Tax Report 
+Show state tourism taxable sales grouped by industry within each county.
+  * [January (PDF)](https://dor.sd.gov/media/ivlp1rkp/0125county-tourism.pdf "0125County Tourism")
+  * [February (PDF)](https://dor.sd.gov/media/f0udlzgu/0225county-tourism.pdf "0225County Tourism")[](https://dor.sd.gov/media/ivlp1rkp/0125county-tourism.pdf "0125County Tourism")[](https://dor.sd.gov/media/kszpfqvj/0224county-tourism.pdf "0224County Tourism")
+  * [March (PDF)](https://dor.sd.gov/media/qpfd3mis/0325county-tourism.pdf "0325County Tourism")
+  * [April (PDF)](https://dor.sd.gov/media/mowdxqnl/0425county-tourism.pdf "0425County Tourism")[](https://dor.sd.gov/media/qpfd3mis/0325county-tourism.pdf "0325County Tourism")
+  * [May (PDF)](https://dor.sd.gov/media/2t0frswc/0525county-tourism.pdf "0525County Tourism")
+  * [June (PDF)](https://dor.sd.gov/media/dgkp1ak5/0625county-tourism.pdf "0625County Tourism")
+  * [FY 2025 (PDF)](https://dor.sd.gov/media/wqinp22h/fy25county-tourism.pdf "Fy25county Tourism")
+  * [July (PDF)](https://dor.sd.gov/media/jcehoqwl/0725county-tourism.pdf "0725County Tourism")
+
+
+#####  State Taxable Sales Comparison 
+Shows comparison of state taxable sales reported this month to the same month in the previous year grouped by Standard Industrial Classification (SIC) Major Groups and Divisions.
+  * [January (PDF)](https://dor.sd.gov/media/mwffxzpc/0125statemjrgrpdiv.pdf "0125Statemjrgrpdiv")
+  * [February (PDF)](https://dor.sd.gov/media/kgbp0kar/0225statemjrgrpdiv.pdf "0225Statemjrgrpdiv")[](https://dor.sd.gov/media/mwffxzpc/0125statemjrgrpdiv.pdf "0125Statemjrgrpdiv")[](https://dor.sd.gov/media/nxybd3rh/0224statemjrgrpdiv.pdf "0224Statemjrgrpdiv")
+  * [March (PDF)](https://dor.sd.gov/media/sgajc5vu/0325statemjrgrpdiv.pdf "0325Statemjrgrpdiv")
+  * [April (PDF)](https://dor.sd.gov/media/ws4pqoeq/0425statemjrgrpdiv.pdf "0425Statemjrgrpdiv")
+  * [May (PDF)](https://dor.sd.gov/media/gv0dmsw1/0525statemjrgrpdiv.pdf "0525Statemjrgrpdiv")
+  * [June (PDF)](https://dor.sd.gov/media/alvp1atv/0625statemjrgrpdiv.pdf "0625Statemjrgrpdiv")
+  * [FY 2025 (PDF)](https://dor.sd.gov/media/erdnuuql/fy25statemjrgrpdiv.pdf "Fy25statemjrgrpdiv")
+  * [July (PDF)](https://dor.sd.gov/media/meib2sac/0725statemjrgrpdiv.pdf "0725Statemjrgrpdiv")
+
+
+#####  State Taxable Sales for All Cities 
+Shows state taxable sales within the Standard Industrial Classification (SIC) Division, Major Group & Industry for all cities. Sales are grouped with the city by zip code and do NOT indicate activity subject to the applicable city tax.
+  * [January (PDF)](https://dor.sd.gov/media/abib0dui/0125allcitiesbysic.pdf "0125Allcitiesbysic")
+  * [February (PDF)](https://dor.sd.gov/media/4zbnuu02/0225allcitiesbysic.pdf "0225Allcitiesbysic")
+  * [March (PDF)](https://dor.sd.gov/media/jhyh0sr0/0325allcitiesbysic.pdf "0325Allcitiesbysic")[](https://dor.sd.gov/media/4zbnuu02/0225allcitiesbysic.pdf "0225Allcitiesbysic")[](https://dor.sd.gov/media/abib0dui/0125allcitiesbysic.pdf "0125Allcitiesbysic")[](https://dor.sd.gov/media/0jenti5v/0224allcitiesbysic.pdf "0224Allcitiesbysic")
+  * [April (PDF)](https://dor.sd.gov/media/4byj20pb/0425allcitiesbysic.pdf "0425Allcitiesbysic")
+  * [May (PDF)](https://dor.sd.gov/media/3pun3kas/0525allcitiesbysic.pdf "0525Allcitiesbysic")
+  * [June (PDF)](https://dor.sd.gov/media/ucxbkia4/0625allcitiesbysic.pdf "0625Allcitiesbysic")
+  * [FY 2025 (PDF)](https://dor.sd.gov/media/zjjb4pht/fy25allcitiesbysic.pdf "Fy25allcitiesbysic")
+  * [July (PDF)](https://dor.sd.gov/media/owhnfwvn/0725allcitiesbysic.pdf "0725Allcitiesbysic")
+
+
+#####  Retailer’s Association Comparison Request Report 
+Shows a comparison of municipal tax due for selected cities compared to the same period in the previous year.
+  * [January (PDF)](https://dor.sd.gov/media/u50bu0nl/0125cityretailers.pdf "0125Cityretailers")
+  * [February (PDF)](https://dor.sd.gov/media/1jkn4qkp/0225cityretailers.pdf "0225Cityretailers")
+  * [March (PDF)](https://dor.sd.gov/media/qxuhvl4p/0325cityretailers.pdf "0325Cityretailers")
+  * [April (PDF)](https://dor.sd.gov/media/t3eh1535/0425cityretailers.pdf "0425Cityretailers")[](https://dor.sd.gov/media/qxuhvl4p/0325cityretailers.pdf "0325Cityretailers")[](https://dor.sd.gov/media/1jkn4qkp/0225cityretailers.pdf "0225Cityretailers")[](https://dor.sd.gov/media/u50bu0nl/0125cityretailers.pdf "0125Cityretailers")[](https://dor.sd.gov/media/cbpejf2h/0224cityretailers.pdf "0224Cityretailers")
+  * [May (PDF)](https://dor.sd.gov/media/donccdbd/0525cityretailers.pdf "0525Cityretailers")
+  * [June (PDF)](https://dor.sd.gov/media/z3mdvi55/0625cityretailers.pdf "0625Cityretailers")
+  * [FY 2025 (PDF)](https://dor.sd.gov/media/nnxf3apq/fy25cityretailers.pdf "Fy25cityretailers")
+  * [July (PDF)](https://dor.sd.gov/media/veafk5k1/0725cityretailers.pdf "0725Cityretailers")
+  * [CYTD 2025 (PDF)](https://dor.sd.gov/media/d1ghbi05/0725cityretailersytdcomparsion.pdf "0725Cityretailersytdcomparsion")
+
+
+* * *
+### 2024 Sales Tax Statistical Reports
+#####  Excise Taxable Receipts by SIC 
+This report includes all amounts reported on Excise Tax Returns within the Standard Industrial Classification (SIC), Major Group and Division.
+  * [January (PDF)](https://dor.sd.gov/media/q0yk1y2o/0124et-state-sic.pdf "0124ET State SIC")
+  * [February (PDF)](https://dor.sd.gov/media/pyxh4hpk/0224et-state-sic.pdf "0224ET State SIC")
+  * [March (PDF)](https://dor.sd.gov/media/1wrj3gfc/0324et-state-sic.pdf "0324ET State SIC")
+  * [April (PDF)](https://dor.sd.gov/media/0qzp4lg5/0424et-state-sic.pdf "0424ET State SIC")
+  * [May (PDF)](https://dor.sd.gov/media/j2rog4if/0524et-state-sic.pdf "0524ET State SIC")
+  * [June (PDF)](https://dor.sd.gov/media/q1vjj5od/0624et-state-sic.pdf "0624ET State SIC")
+  * [FY 2024 (PDF)](https://dor.sd.gov/media/w2onxequ/fy24et-state-sic.pdf "FY24ET State SIC")
+  * [July (PDF)](https://dor.sd.gov/media/l4pddfec/0724et-state-sic.pdf "0724ET State SIC")
+  * [August (PDF)](https://dor.sd.gov/media/ibopueme/0824et-state-sic.pdf "0824ET State SIC")
+  * [September (PDF)](https://dor.sd.gov/media/xd3lm5pp/0924et-state-sic.pdf "0924ET State SIC")
+  * [October (PDF)](https://dor.sd.gov/media/ouqffota/1024et-state-sic.pdf "1024ET State SIC")
+  * [November (PDF)](https://dor.sd.gov/media/ib0nc2a3/1124et-state-sic.pdf "1124ET State SIC")
+  * [December (PDF)](https://dor.sd.gov/media/bc1ai0vb/1224et-state-sic.pdf "1224ET State SIC")
+  * [CY 2024 (PDF)](https://dor.sd.gov/media/l0thbxgi/cy2024et-state-sic.pdf "CY2024ET State SIC")
+
+
+#####  Municipal Taxable Sales per City by SIC Code 
+Taxable sales within the Standard Industrial Classification (SIC) Division, Major Group & Industry for all cities. Separately covers the general municipal tax rate and the municipal gross receipts tax rate.
+[Current Month Interactive Report](https://dor.sd.gov/businesses/taxes/sales-use-tax/current-month-interactive-report/ "Current Month Interactive Report")
+  * [January (PDF)](https://dor.sd.gov/media/mytlu0cu/0124municipalmonthlytaxbysic.pdf "0124Municipalmonthlytaxbysic") [(XLSX)](https://dor.sd.gov/media/w5ijro20/01-24-sd-municipal-by-sic.xlsx "01.24 SD Municipal By SIC")
+  * [February (PDF)](https://dor.sd.gov/media/k5qcwkxh/0224municipalmonthlytaxbysic.pdf "0224Municipalmonthlytaxbysic") [(XLSX)](https://dor.sd.gov/media/vxdfkzi1/02-24-sd-municipal-by-sic.xlsx "02.24 SD Municipal By SIC")[](https://dor.sd.gov/media/k5qcwkxh/0224municipalmonthlytaxbysic.pdf "0224Municipalmonthlytaxbysic")
+  * [March (PDF)](https://dor.sd.gov/media/cohnpfaz/0324municipalmonthlytaxbysic.pdf "0324Municipalmonthlytaxbysic") [(XLSX)](https://dor.sd.gov/media/5whav5h5/03-24-sd-municipal-by-sic.xlsx "03.24 SD Municipal By SIC")
+  * [April (PDF)](https://dor.sd.gov/media/agokkywb/0424municipalmonthlytaxbysic.pdf "0424Municipalmonthlytaxbysic") [(XLSX)](https://dor.sd.gov/media/ijhdarki/04-24-sd-municipal-by-sic.xlsx "04.24 SD Municipal By SIC")[](https://dor.sd.gov/media/5whav5h5/03-24-sd-municipal-by-sic.xlsx "03.24 SD Municipal By SIC")
+  * [May (PDF)](https://dor.sd.gov/media/lmcpw0o2/0524municipalmonthlytaxbysic.pdf "0524Municipalmonthlytaxbysic") [(XLSX)](https://dor.sd.gov/media/pcedias4/05-24-sd-municipal-by-sic.xlsx "05.24 SD Municipal By SIC")
+  * [June (PDF)](https://dor.sd.gov/media/nykmaztr/0624municipalmonthlytaxbysic.pdf "0624Municipalmonthlytaxbysic") [(XLSX)](https://dor.sd.gov/media/lila0hcs/06-24-sd-municipal-by-sic.xlsx "06.24 SD Municipal By SIC")
+  * [FY 2024 (PDF)](https://dor.sd.gov/media/y31fvumf/fy24municipalmonthlytaxbysic.pdf "Fy24municipalmonthlytaxbysic")
+  * [July (PDF)](https://dor.sd.gov/media/0i4j42wh/0724municipalmonthlytaxbysic.pdf "0724Municipalmonthlytaxbysic") [(XLSX)](https://dor.sd.gov/media/zuudshkx/07-24-sd-municipal-by-sic.xlsx "07.24 SD Municipal By SIC")
+  * [August (PDF)](https://dor.sd.gov/media/ugolwnba/0824municipalmonthlytaxbysic.pdf "0824Municipalmonthlytaxbysic") [(XLSX)](https://dor.sd.gov/media/djwicsd1/0824-sd-municipal-by-sic.xlsx "08.24 SD Municipal By SIC")
+  * [September (PDF)](https://dor.sd.gov/media/h01jk0ci/0924municipalmonthlytaxbysic.pdf "0924Municipalmonthlytaxbysic") [(XLSX)](https://dor.sd.gov/media/0swbaoyz/0924-sd-municipal-by-sic.xlsx "09.24 SD Municipal By SIC")
+  * [October (PDF)](https://dor.sd.gov/media/vqtn2mlg/1024municipalmonthlytaxbysic.pdf "1024Municipalmonthlytaxbysic") [(XLSX)](https://dor.sd.gov/media/dmfjhh03/1024-sd-municipal-by-sic.xlsx "10.24 SD Municipal By SIC")
+  * [November (PDF)](https://dor.sd.gov/media/xkfhgqp3/1124municipalmonthlytaxbysic.pdf "1124Municipalmonthlytaxbysic") [(XLSX)](https://dor.sd.gov/media/4kspsr4g/1124-sd-municipal-by-sic.xlsx "11.24 SD Municipal By SIC")
+  * [December (PDF)](https://dor.sd.gov/media/jqdpjzw3/1224municipalmonthlytaxbysic.pdf "1224Municipalmonthlytaxbysic") [(XLSX)](https://dor.sd.gov/media/nawg1bxg/1224-sd-municipal-by-sic.xlsx "12.24 SD Municipal By SIC")
+  * [CY 2024 (PDF)](https://dor.sd.gov/media/0ctjsild/cy2024municipalmonthlytaxbysic.pdf "Cy2024municipalmonthlytaxbysic")[](https://dor.sd.gov/media/4kspsr4g/1124-sd-municipal-by-sic.xlsx "11.24 SD Municipal By SIC")[](https://dor.sd.gov/media/dmfjhh03/1024-sd-municipal-by-sic.xlsx "10.24 SD Municipal By SIC")
+
+
+#####  Municipal Tax Due per City – Comparison 
+Shows a comparison of municipal tax due reported to the same month in the previous year grouped by city. This report is not a cumulative total, rather the number of sales, use, and municipal gross receipts tax paid to each town per month.
+  * [January (PDF)](https://dor.sd.gov/media/qpflbdns/0124municipaltaxbycity.pdf "0124Municipaltaxbycity")
+  * [February (PDF)](https://dor.sd.gov/media/s2xpoe2c/0224municipaltaxbycity.pdf "0224Municipaltaxbycity")
+  * [March (PDF)](https://dor.sd.gov/media/fvldfntr/0324municipaltaxbycity.pdf "0324Municipaltaxbycity")
+  * [April (PDF)](https://dor.sd.gov/media/yrmobb2l/0424municipaltaxbycity.pdf "0424Municipaltaxbycity")
+  * [May (PDF)](https://dor.sd.gov/media/3oalabjg/0524municipaltaxbycity.pdf "0524Municipaltaxbycity")[](https://dor.sd.gov/media/yrmobb2l/0424municipaltaxbycity.pdf "0424Municipaltaxbycity")[](https://dor.sd.gov/media/fvldfntr/0324municipaltaxbycity.pdf "0324Municipaltaxbycity")[](https://dor.sd.gov/media/s2xpoe2c/0224municipaltaxbycity.pdf "0224Municipaltaxbycity")[](https://dor.sd.gov/media/qpflbdns/0124municipaltaxbycity.pdf "0124Municipaltaxbycity")
+  * [June (PDF)](https://dor.sd.gov/media/33gdqx3c/0624municipaltaxbycity.pdf "0624Municipaltaxbycity")
+  * [FY 2024 (PDF)](https://dor.sd.gov/media/3ajfzc1k/fy24municipaltaxbycitybyyear.pdf "Fy24municipaltaxbycitybyyear")
+  * [July (PDF)](https://dor.sd.gov/media/m1idm2p2/0724municipaltaxbycity.pdf "0724Municipaltaxbycity")
+  * [August (PDF)](https://dor.sd.gov/media/ntspp403/0824municipaltaxbycity.pdf "0824Municipaltaxbycity")
+  * [September (PDF)](https://dor.sd.gov/media/zamozy5v/0924municipaltaxbycity.pdf "0924Municipaltaxbycity")
+  * [October (PDF)](https://dor.sd.gov/media/ejrmnppz/1024municipaltaxbycity.pdf "1024Municipaltaxbycity")
+  * [November (PDF)](https://dor.sd.gov/media/njzkkt5w/1124municipaltaxbycity.pdf "1124Municipaltaxbycity")
+  * [December (PDF)](https://dor.sd.gov/media/nj3fmnrl/1224municipaltaxbycity.pdf "1224Municipaltaxbycity")
+  * [CY 2024 (PDF)](https://dor.sd.gov/media/p5kbso2q/cy2024municipaltaxrecapbycity.pdf "Cy2024municipaltaxrecapbycity")[](https://dor.sd.gov/media/njzkkt5w/1124municipaltaxbycity.pdf "1124Municipaltaxbycity")[](https://dor.sd.gov/media/ejrmnppz/1024municipaltaxbycity.pdf "1024Municipaltaxbycity")[](https://dor.sd.gov/media/zamozy5v/0924municipaltaxbycity.pdf "0924Municipaltaxbycity")
+
+
+#####  State Taxable Sales for County & City (Division totals for each city) 
+Taxable sales within the Standard Industrial Classification (SIC) Division, Major Group & Industry for all cities. Separately covers the general municipal tax rate and the municipal gross receipts tax rate.
+  * [January (PDF)](https://dor.sd.gov/media/u31nfugd/0124countybycitybymg.pdf "0124Countybycitybymg")
+  * [February (PDF)](https://dor.sd.gov/media/xdrfmxga/0224countybycitybymg.pdf "0224Countybycitybymg")
+  * [March (PDF)](https://dor.sd.gov/media/34ppckgo/0324countybycitybymg.pdf "0324Countybycitybymg")
+  * [April (PDF)](https://dor.sd.gov/media/m51b3ejo/0424countybycitybymg.pdf "0424Countybycitybymg")
+  * [May (PDF)](https://dor.sd.gov/media/npflyqjd/0524countybycitybymg.pdf "0524Countybycitybymg")
+  * [June (PDF)](https://dor.sd.gov/media/ysdlvlbm/0624countybycitybymg.pdf "0624Countybycitybymg")
+  * [FY 2024 (PDF)](https://dor.sd.gov/media/1aejzqn2/fy24countybycitybymg.pdf "Fy24countybycitybymg")
+  * [July (PDF)](https://dor.sd.gov/media/tsoevso1/0724countybycitybymg.pdf "0724Countybycitybymg")
+  * [August (PDF)](https://dor.sd.gov/media/mpfd1xdw/0824countybycitybymg.pdf "0824Countybycitybymg")[](https://dor.sd.gov/media/tsoevso1/0724countybycitybymg.pdf "0724Countybycitybymg")[](https://dor.sd.gov/media/1aejzqn2/fy24countybycitybymg.pdf "Fy24countybycitybymg")[](https://dor.sd.gov/media/npflyqjd/0524countybycitybymg.pdf "0524Countybycitybymg")[](https://dor.sd.gov/media/m51b3ejo/0424countybycitybymg.pdf "0424Countybycitybymg")[](https://dor.sd.gov/media/34ppckgo/0324countybycitybymg.pdf "0324Countybycitybymg")
+  * [September (PDF)](https://dor.sd.gov/media/ujbakqe1/0924countybycitybymg.pdf "0924Countybycitybymg")
+  * [October (PDF)](https://dor.sd.gov/media/zpuljtwh/1024countybycitybymg.pdf "1024Countybycitybymg")[](https://dor.sd.gov/media/ujbakqe1/0924countybycitybymg.pdf "0924Countybycitybymg")
+  * [November (PDF)](https://dor.sd.gov/media/p3ch0zni/1124countybycitybymg.pdf "1124Countybycitybymg")
+  * [December (PDF)](https://dor.sd.gov/media/m1hljkm4/1224countybycitybymg.pdf "1224Countybycitybymg")
+  * [CY 2024 (PDF)](https://dor.sd.gov/media/tt3p1aes/new-cy2024countybycitybymg.pdf "Cy2024countybycitybymg")[](https://dor.sd.gov/media/p3ch0zni/1124countybycitybymg.pdf "1124Countybycitybymg")
+
+
+#####  State Taxable Sales by County & City (Comparison) 
+Shows state taxable sales for each county broken down by cities located within that county compared to the previous year. A city may exist in more than one county.
+  * [January (PDF)](https://dor.sd.gov/media/e2opqmij/0124countybycitynosic-comparison.pdf "0124Countybycitynosic COMPARISON")
+  * [February (PDF)](https://dor.sd.gov/media/k0fmyyfo/0224countybycitynosic-comparison.pdf "0224Countybycitynosic COMPARISON")[](https://dor.sd.gov/media/e2opqmij/0124countybycitynosic-comparison.pdf "0124Countybycitynosic COMPARISON")
+  * [March (PDF)](https://dor.sd.gov/media/k0ebeijq/0324countybycitynosic-comparison.pdf "0324Countybycitynosic COMPARISON")
+  * [April (PDF)](https://dor.sd.gov/media/o0tjl5dc/0424countybycitynosic-comparison.pdf "0424Countybycitynosic COMPARISON")
+  * [May (PDF)](https://dor.sd.gov/media/shuc5r3l/0524countybycitynosic-comparison.pdf "0524Countybycitynosic COMPARISON")
+  * [June (PDF)](https://dor.sd.gov/media/mqgk1db0/0624countybycitynosic-comparison.pdf "0624Countybycitynosic COMPARISON")
+  * [FY 2024 (PDF)](https://dor.sd.gov/media/kqied5gd/fy24countybycitynosic-comparison.pdf "Fy24countybycitynosic COMPARISON")
+  * [July (PDF)](https://dor.sd.gov/media/ksyiq04v/0724countybycitynosic-comparison.pdf "0724Countybycitynosic COMPARISON")[](https://dor.sd.gov/media/kqied5gd/fy24countybycitynosic-comparison.pdf "Fy24countybycitynosic COMPARISON")[](https://dor.sd.gov/media/o0tjl5dc/0424countybycitynosic-comparison.pdf "0424Countybycitynosic COMPARISON")[](https://dor.sd.gov/media/k0ebeijq/0324countybycitynosic-comparison.pdf "0324Countybycitynosic COMPARISON")
+  * [August (PDF)](https://dor.sd.gov/media/gomp0est/0824countybycitynosic-comparison.pdf "0824Countybycitynosic COMPARISON")
+  * [September (PDF)](https://dor.sd.gov/media/ykzjcxmt/0924countybycitynosic-comparison.pdf "0924Countybycitynosic COMPARISON")
+  * [October (PDF)](https://dor.sd.gov/media/2p3kokcf/1024countybycitynosic-comparison.pdf "1024Countybycitynosic COMPARISON")
+  * [November (PDF)](https://dor.sd.gov/media/2idnf2qi/1124countybycitynosic-comparison.pdf "1124Countybycitynosic COMPARISON")
+  * [December (PDF)](https://dor.sd.gov/media/i25j2je4/1224countybycitynosic-comparison.pdf "1224Countybycitynosic COMPARISON")
+  * [CY 2024 (PDF)](https://dor.sd.gov/media/0x4c0lpy/cy2024countybycitynosic-comparison.pdf "Cy2024countybycitynosic COMPARISON")[](https://dor.sd.gov/media/2idnf2qi/1124countybycitynosic-comparison.pdf "1124Countybycitynosic COMPARISON")[](https://dor.sd.gov/media/2p3kokcf/1024countybycitynosic-comparison.pdf "1024Countybycitynosic COMPARISON")[](https://dor.sd.gov/media/ykzjcxmt/0924countybycitynosic-comparison.pdf "0924Countybycitynosic COMPARISON")[](https://dor.sd.gov/media/gomp0est/0824countybycitynosic-comparison.pdf "0824Countybycitynosic COMPARISON")
+
+
+#####  State Taxable Sales by County & City (Percentage) 
+Shows state taxable sales for each county broken down by cities located within that county and what percentage of the total sales are allocated to each city and county. A city may exist in more than one county.
+  * [January (PDF)](https://dor.sd.gov/media/1yrhm4zf/0124countybycitypercentoftotal.pdf "0124Countybycitypercentoftotal")
+  * [February (PDF)](https://dor.sd.gov/media/vfupk21a/0224countybycitypercentoftotal.pdf "0224Countybycitypercentoftotal")[](https://dor.sd.gov/media/1yrhm4zf/0124countybycitypercentoftotal.pdf "0124Countybycitypercentoftotal")
+  * [March (PDF)](https://dor.sd.gov/media/hpxf5u0a/0324countybycitypercentoftotal.pdf "0324Countybycitypercentoftotal")
+  * [April (PDF)](https://dor.sd.gov/media/fmzji0lt/0424countybycitypercentoftotal.pdf "0424Countybycitypercentoftotal")
+  * [May (PDF)](https://dor.sd.gov/media/v3yaeghs/0524countybycitypercentoftotal.pdf "0524Countybycitypercentoftotal")[](https://dor.sd.gov/media/fmzji0lt/0424countybycitypercentoftotal.pdf "0424Countybycitypercentoftotal")[](https://dor.sd.gov/media/hpxf5u0a/0324countybycitypercentoftotal.pdf "0324Countybycitypercentoftotal")
+  * [June (PDF)](https://dor.sd.gov/media/qosev2ru/0624countybycitypercentoftotal.pdf "0624Countybycitypercentoftotal")
+  * [FY 2024 (PDF)](https://dor.sd.gov/media/zp4d3vmk/fy24countybycitypercentoftotal.pdf "Fy24countybycitypercentoftotal")
+  * [July (PDF)](https://dor.sd.gov/media/b0oeo305/0724countybycitypercentoftotal.pdf "0724Countybycitypercentoftotal")
+  * [August (PDF)](https://dor.sd.gov/media/ikdl1xgl/0824countybycitypercentoftotal.pdf "0824Countybycitypercentoftotal")
+  * [September (PDF)](https://dor.sd.gov/media/wslnk1xx/0924countybycitypercentoftotal.pdf "0924Countybycitypercentoftotal")
+  * [October (PDF)](https://dor.sd.gov/media/3gtd433j/1024countybycitypercentoftotal.pdf "1024Countybycitypercentoftotal")[](https://dor.sd.gov/media/wslnk1xx/0924countybycitypercentoftotal.pdf "0924Countybycitypercentoftotal")[](https://dor.sd.gov/media/ikdl1xgl/0824countybycitypercentoftotal.pdf "0824Countybycitypercentoftotal")[](https://dor.sd.gov/media/b0oeo305/0724countybycitypercentoftotal.pdf "0724Countybycitypercentoftotal")[](https://dor.sd.gov/media/zp4d3vmk/fy24countybycitypercentoftotal.pdf "Fy24countybycitypercentoftotal")
+  * [November (PDF)](https://dor.sd.gov/media/oaodpows/1124countybycitypercentoftotal.pdf "1124Countybycitypercentoftotal")
+  * [December (PDF)](https://dor.sd.gov/media/hsvlfvjr/1224countybycitypercentoftotal.pdf "1224Countybycitypercentoftotal")
+  * [CY 2024 (PDF)](https://dor.sd.gov/media/tpdpmk1u/new-cy2024countybycitypercentoftotal.pdf "Cy2024countybycitypercentoftotal")[](https://dor.sd.gov/media/oaodpows/1124countybycitypercentoftotal.pdf "1124Countybycitypercentoftotal")
+
+
+#####  State Taxable Sales by County 
+Shows state taxable sales within the Standard Industrial Classification (SIC), Major Group and Division.
+  * [January (PDF)](https://dor.sd.gov/media/y30bw12s/0124countybysic.pdf "0124Countybysic")
+  * [February (PDF)](https://dor.sd.gov/media/s1bbbxmf/0224countybysic.pdf "0224Countybysic")
+  * [March (PDF)](https://dor.sd.gov/media/kqzpweem/0324countybysic.pdf "0324Countybysic")[](https://dor.sd.gov/media/y30bw12s/0124countybysic.pdf "0124Countybysic")
+  * [April (PDF)](https://dor.sd.gov/media/nkhbehuo/0424countybysic.pdf "0424Countybysic")
+  * [May (PDF)](https://dor.sd.gov/media/neel4gbj/0524countybysic.pdf "0524Countybysic")[](https://dor.sd.gov/media/nkhbehuo/0424countybysic.pdf "0424Countybysic")
+  * [June (PDF)](https://dor.sd.gov/media/vi2ngewu/0624countybysic.pdf "0624Countybysic")
+  * [FY 2024 (PDF)](https://dor.sd.gov/media/qbeo350k/fy24countybysic.pdf "Fy24countybysic")
+  * [July (PDF)](https://dor.sd.gov/media/tckfcxnz/0724countybysic.pdf "0724Countybysic")[](https://dor.sd.gov/media/qbeo350k/fy24countybysic.pdf "Fy24countybysic")
+  * [August (PDF)](https://dor.sd.gov/media/1qzjg1ys/0824countybysic.pdf "0824Countybysic")
+  * [September (PDF)](https://dor.sd.gov/media/qphht3jn/0924countybysic.pdf "0924Countybysic")
+  * [October (PDF)](https://dor.sd.gov/media/khypb3ia/1024countybysic.pdf "1024Countybysic")
+  * [November (PDF)](https://dor.sd.gov/media/4mfd1hhk/1124countybysic.pdf "1124Countybysic")[](https://dor.sd.gov/media/khypb3ia/1024countybysic.pdf "1024Countybysic")[](https://dor.sd.gov/media/qphht3jn/0924countybysic.pdf "0924Countybysic")[](https://dor.sd.gov/media/1qzjg1ys/0824countybysic.pdf "0824Countybysic")
+  * [December (PDF)](https://dor.sd.gov/media/rasfxhk4/1224countybysic.pdf "1224Countybysic")
+  * [CY 2024 (PDF)](https://dor.sd.gov/media/orpl041f/cy2024countybysic.pdf "Cy2024countybysic")
+
+
+#####  State Taxable Sales by SIC Code 
+Shows state taxable sales within the Standard Industrial Classification (SIC) Division, Major Group & Industry.
+  * [January (PDF)](https://dor.sd.gov/media/pw4fts2j/0124statebydiv-mg-sic.pdf "0124Statebydiv MG SIC")
+  * [February (PDF)](https://dor.sd.gov/media/tjhevfod/0224statebydiv-mg-sic.pdf "0224Statebydiv MG SIC")
+  * [March (PDF)](https://dor.sd.gov/media/zq2hdo0o/0324statebydiv-mg-sic.pdf "0324Statebydiv MG SIC")
+  * [April (PDF)](https://dor.sd.gov/media/oatnhb3n/0424statebydiv-mg-sic.pdf "0424Statebydiv MG SIC")
+  * [May (PDF)](https://dor.sd.gov/media/spyhtzev/0524statebydiv-mg-sic.pdf "0524Statebydiv MG SIC")[](https://dor.sd.gov/media/oatnhb3n/0424statebydiv-mg-sic.pdf "0424Statebydiv MG SIC")[](https://dor.sd.gov/media/zq2hdo0o/0324statebydiv-mg-sic.pdf "0324Statebydiv MG SIC")[](https://dor.sd.gov/media/tjhevfod/0224statebydiv-mg-sic.pdf "0224Statebydiv MG SIC")[](https://dor.sd.gov/media/pw4fts2j/0124statebydiv-mg-sic.pdf "0124Statebydiv MG SIC")
+  * [June (PDF)](https://dor.sd.gov/media/0ogdnraa/0624statebydiv-mg-sic.pdf "0624Statebydiv MG SIC")
+  * [FY 2024 (PDF)](https://dor.sd.gov/media/hdqjzblq/fy24statebydiv-mg-sic.pdf "Fy24statebydiv MG SIC")
+  * [July 2024 (PDF)](https://dor.sd.gov/media/pkbpfzdt/0724statebydiv-mg-sic.pdf "0724Statebydiv MG SIC")
+  * [August (PDF)](https://dor.sd.gov/media/z54j43rj/0824statebydiv-mg-sic.pdf "0824Statebydiv MG SIC")
+  * [September (PDF)](https://dor.sd.gov/media/2tepudgz/0924statebydiv-mg-sic.pdf "0924Statebydiv MG SIC")
+  * [October (PDF)](https://dor.sd.gov/media/ikxlsqr2/1024statebydiv-mg-sic.pdf "1024Statebydiv MG SIC")
+  * [November (PDF)](https://dor.sd.gov/media/jpfagitu/1124statebydiv-mg-sic.pdf "1124Statebydiv MG SIC")
+  * [December (PDF)](https://dor.sd.gov/media/3ribx5wc/1224statebydiv-mg-sic.pdf "1224Statebydiv MG SIC")
+  * [CY 2024 (PDF)](https://dor.sd.gov/media/mkqmzj23/cy2024statebydiv-mg-sic.pdf "Cy2024statebydiv MG SIC")[](https://dor.sd.gov/media/jpfagitu/1124statebydiv-mg-sic.pdf "1124Statebydiv MG SIC")[](https://dor.sd.gov/media/ikxlsqr2/1024statebydiv-mg-sic.pdf "1024Statebydiv MG SIC")[](https://dor.sd.gov/media/2tepudgz/0924statebydiv-mg-sic.pdf "0924Statebydiv MG SIC")[](https://dor.sd.gov/media/z54j43rj/0824statebydiv-mg-sic.pdf "0824Statebydiv MG SIC")[](https://dor.sd.gov/media/pkbpfzdt/0724statebydiv-mg-sic.pdf "0724Statebydiv MG SIC")[](https://dor.sd.gov/media/hdqjzblq/fy24statebydiv-mg-sic.pdf "Fy24statebydiv MG SIC")
+
+
+#####  Tourism Tax Report 
+Show state tourism taxable sales grouped by industry within each county.
+  * [January (PDF)](https://dor.sd.gov/media/4v0f2syk/0124county-tourism.pdf "0124County Tourism")
+  * [February (PDF)](https://dor.sd.gov/media/kszpfqvj/0224county-tourism.pdf "0224County Tourism")
+  * [March (PDF)](https://dor.sd.gov/media/tp3ojsxa/0324county-tourism.pdf "0324County Tourism")
+  * [April (PDF)](https://dor.sd.gov/media/annd44un/0424county-tourism.pdf "0424County Tourism")
+  * [May (PDF)](https://dor.sd.gov/media/bmddcayr/0524county-tourism.pdf "0524County Tourism")
+  * [June (PDF)](https://dor.sd.gov/media/w3nhr4vc/0624county-tourism.pdf "0624County Tourism")
+  * [FY 2024 (PDF)](https://dor.sd.gov/media/ylsfkore/fy24county-tourism.pdf "Fy24county Tourism")
+  * [July (PDF)](https://dor.sd.gov/media/51odlv31/0724county-tourism.pdf "0724County Tourism")
+  * [August (PDF)](https://dor.sd.gov/media/mj0omslr/0824county-tourism.pdf "0824County Tourism")
+  * [September (PDF)](https://dor.sd.gov/media/3esi1skq/0924county-tourism.pdf "0924County Tourism")[](https://dor.sd.gov/media/mj0omslr/0824county-tourism.pdf "0824County Tourism")[](https://dor.sd.gov/media/51odlv31/0724county-tourism.pdf "0724County Tourism")[](https://dor.sd.gov/media/ylsfkore/fy24county-tourism.pdf "Fy24county Tourism")[](https://dor.sd.gov/media/bmddcayr/0524county-tourism.pdf "0524County Tourism")[](https://dor.sd.gov/media/annd44un/0424county-tourism.pdf "0424County Tourism")[](https://dor.sd.gov/media/tp3ojsxa/0324county-tourism.pdf "0324County Tourism")[](https://dor.sd.gov/media/kszpfqvj/0224county-tourism.pdf "0224County Tourism")[](https://dor.sd.gov/media/4v0f2syk/0124county-tourism.pdf "0124County Tourism")
+  * [October (PDF)](https://dor.sd.gov/media/m4qa0cyx/1024county-tourism.pdf "1024County Tourism")
+  * [November (PDF)](https://dor.sd.gov/media/j2lbp1bg/1124county-tourism.pdf "1124County Tourism")
+  * [December (PDF)](https://dor.sd.gov/media/lsnif2bg/1224county-tourism.pdf "1224County Tourism")
+  * [CY 2024 (PDF)](https://dor.sd.gov/media/fvqpw1tr/cy2024county-tourism.pdf "Cy2024county Tourism")
+
+
+#####  State Taxable Sales Comparison 
+Shows comparison of state taxable sales reported this month to the same month in the previous year grouped by Standard Industrial Classification (SIC) Major Groups and Divisions.
+  * [January (PDF)](https://dor.sd.gov/media/j3fh02pp/0124statemjrgrpdiv.pdf "0124Statemjrgrpdiv")
+  * [February (PDF)](https://dor.sd.gov/media/nxybd3rh/0224statemjrgrpdiv.pdf "0224Statemjrgrpdiv")[](https://dor.sd.gov/media/j3fh02pp/0124statemjrgrpdiv.pdf "0124Statemjrgrpdiv")
+  * [March (PDF)](https://dor.sd.gov/media/3yefxc4m/0324statemjrgrpdiv.pdf "0324Statemjrgrpdiv")
+  * [April (PDF)](https://dor.sd.gov/media/3rwdyquf/0424statemjrgrpdiv.pdf "0424Statemjrgrpdiv")
+  * [May (PDF)](https://dor.sd.gov/media/zm3dspgc/0524statemjrgrpdiv.pdf "0524Statemjrgrpdiv")
+  * [June (PDF)](https://dor.sd.gov/media/hyppmanx/0624statemjrgrpdiv.pdf "0624Statemjrgrpdiv")
+  * [FY 2024 (PDF)](https://dor.sd.gov/media/0v1jofu1/fy24statemjrgrpdiv.pdf "Fy24statemjrgrpdiv")
+  * [July (PDF)](https://dor.sd.gov/media/djrp0k1r/0724statemjrgrpdiv.pdf "0724Statemjrgrpdiv")
+  * [August (PDF)](https://dor.sd.gov/media/5t4pnept/0824statemjrgrpdiv.pdf "0824Statemjrgrpdiv")[](https://dor.sd.gov/media/djrp0k1r/0724statemjrgrpdiv.pdf "0724Statemjrgrpdiv")[](https://dor.sd.gov/media/0v1jofu1/fy24statemjrgrpdiv.pdf "Fy24statemjrgrpdiv")[](https://dor.sd.gov/media/3rwdyquf/0424statemjrgrpdiv.pdf "0424Statemjrgrpdiv")[](https://dor.sd.gov/media/3yefxc4m/0324statemjrgrpdiv.pdf "0324Statemjrgrpdiv")
+  * [September (PDF)](https://dor.sd.gov/media/qs2f0llb/0924statemjrgrpdiv.pdf "0924Statemjrgrpdiv")
+  * [October (PDF)](https://dor.sd.gov/media/sacbxdlf/1024statemjrgrpdiv.pdf "1024Statemjrgrpdiv")
+  * [November (PDF)](https://dor.sd.gov/media/mmlngvvm/1124statemjrgrpdiv.pdf "1124Statemjrgrpdiv")
+  * [December (PDF)](https://dor.sd.gov/media/rq4hwywt/1224statemjrgrpdiv.pdf "1224Statemjrgrpdiv")
+  * [CY 2024 (PDF)](https://dor.sd.gov/media/ss1hnvht/new-cy2024statemjrgrpdiv.pdf "Cy2024statemjrgrpdiv")[](https://dor.sd.gov/media/mmlngvvm/1124statemjrgrpdiv.pdf "1124Statemjrgrpdiv")[](https://dor.sd.gov/media/sacbxdlf/1024statemjrgrpdiv.pdf "1024Statemjrgrpdiv")
+
+
+#####  State Taxable Sales for All Cities 
+Shows state taxable sales within the Standard Industrial Classification (SIC) Division, Major Group & Industry for all cities. Sales are grouped with the city by zip code and do NOT indicate activity subject to the applicable city tax.
+  * [January (PDF)](https://dor.sd.gov/media/nhwfr3qt/0124allcitiesbysic.pdf "0124Allcitiesbysic")
+  * [February (PDF)](https://dor.sd.gov/media/0jenti5v/0224allcitiesbysic.pdf "0224Allcitiesbysic")[](https://dor.sd.gov/media/nhwfr3qt/0124allcitiesbysic.pdf "0124Allcitiesbysic")
+  * [March (PDF)](https://dor.sd.gov/media/umcdjea4/0324allcitiesbysic.pdf "0324Allcitiesbysic")
+  * [April (PDF)](https://dor.sd.gov/media/lkrnsboc/0424allcitiesbysic.pdf "0424Allcitiesbysic")
+  * [May (PDF)](https://dor.sd.gov/media/w2wcjhlz/0524allcitiesbysic.pdf "0524Allcitiesbysic")
+  * [June (PDF)](https://dor.sd.gov/media/smmfjuc3/0624allcitiesbysic.pdf "0624Allcitiesbysic")
+  * [FY 2024 (PDF)](https://dor.sd.gov/media/2i3dsizl/fy24allcitiesbysic.pdf "Fy24allcitiesbysic")
+  * [July (PDF)](https://dor.sd.gov/media/dv5dj1ux/0724allcitiesbysic.pdf "0724Allcitiesbysic")
+  * [August (PDF)](https://dor.sd.gov/media/qpljjqxz/0824allcitiesbysic.pdf "0824Allcitiesbysic")[](https://dor.sd.gov/media/dv5dj1ux/0724allcitiesbysic.pdf "0724Allcitiesbysic")[](https://dor.sd.gov/media/2i3dsizl/fy24allcitiesbysic.pdf "Fy24allcitiesbysic")
+  * [September (PDF)](https://dor.sd.gov/media/tcfdnv42/0924allcitiesbysic.pdf "0924Allcitiesbysic")
+  * [October (PDF)](https://dor.sd.gov/media/jn1bo0a2/1024allcitiesbysic.pdf "1024Allcitiesbysic")
+  * [November (PDF)](https://dor.sd.gov/media/bewndnwk/1124allcitiesbysic.pdf "1124Allcitiesbysic")
+  * [December (PDF)](https://dor.sd.gov/media/0lzlncik/1224allcitiesbysic.pdf "1224Allcitiesbysic")
+  * [CY 2024 (PDF)](https://dor.sd.gov/media/m4phv345/cy2024allcitiesbysic-new.pdf "Cy2024allcitiesbysic")[](https://dor.sd.gov/media/bewndnwk/1124allcitiesbysic.pdf "1124Allcitiesbysic")[](https://dor.sd.gov/media/jn1bo0a2/1024allcitiesbysic.pdf "1024Allcitiesbysic")[](https://dor.sd.gov/media/tcfdnv42/0924allcitiesbysic.pdf "0924Allcitiesbysic")
+
+
+#####  Retailer’s Association Comparison Request Report 
+Shows a comparison of municipal tax due for selected cities compared to the same period in the previous year.
+  * [January (PDF)](https://dor.sd.gov/media/2rvns0en/0124cityretailers.pdf "0124Cityretailers")
+  * [February (PDF)](https://dor.sd.gov/media/cbpejf2h/0224cityretailers.pdf "0224Cityretailers")
+  * [March (PDF)](https://dor.sd.gov/media/ajhniqs2/0324cityretailers.pdf "0324Cityretailers")
+  * [April (PDF)](https://dor.sd.gov/media/zref22ff/0424cityretailers.pdf "0424Cityretailers")
+  * [May (PDF)](https://dor.sd.gov/media/qzcg2wne/0524cityretailers.pdf "0524Cityretailers")[](https://dor.sd.gov/media/zref22ff/0424cityretailers.pdf "0424Cityretailers")[](https://dor.sd.gov/media/ajhniqs2/0324cityretailers.pdf "0324Cityretailers")[](https://dor.sd.gov/media/cbpejf2h/0224cityretailers.pdf "0224Cityretailers")
+  * [June (PDF)](https://dor.sd.gov/media/ffsd4prx/0624cityretailers.pdf "0624Cityretailers")
+  * [July (PDF)](https://dor.sd.gov/media/db0bcazf/0724cityretailers.pdf "0724Cityretailers")
+  * [August (PDF)](https://dor.sd.gov/media/peennwoe/0824cityretailers.pdf "0824Cityretailers")
+  * [September (PDF)](https://dor.sd.gov/media/uhuetsoo/0924cityretailers.pdf "0924Cityretailers")
+  * [October (PDF)](https://dor.sd.gov/media/zvfjdth2/1024cityretailers.pdf "1024Cityretailers")
+  * [November (PDF)](https://dor.sd.gov/media/33rpse2f/1124cityretailers.pdf "1124Cityretailers")
+  * [December (PDF)](https://dor.sd.gov/media/hc3dwxdd/1224cityretailers.pdf "1224Cityretailers")
+  * [CYTD 2024 (PDF)](https://dor.sd.gov/media/chibni31/1224cityretailersytdcomparison.pdf "1224Cityretailersytdcomparison")
+  * [CY 2024 (PDF)](https://dor.sd.gov/media/4k5namqt/cy2024cityretailers.pdf "Cy2024cityretailers")[](https://dor.sd.gov/media/33rpse2f/1124cityretailers.pdf "1124Cityretailers")[](https://dor.sd.gov/media/zvfjdth2/1024cityretailers.pdf "1024Cityretailers")[](https://dor.sd.gov/media/uhuetsoo/0924cityretailers.pdf "0924Cityretailers")
+
+
+* * *
+### 2023 Sales Tax Statistical Reports
+#####  Excise Taxable Receipts by SIC 
+This report includes all amounts reported on Excise Tax Returns within the Standard Industrial Classification (SIC), Major Group and Division.
+  * [January (PDF)](https://dor.sd.gov/media/t3mpeckx/0123et-state-sic.pdf "0123ET State SIC")
+  * [February (PDF)](https://dor.sd.gov/media/hgxnjqrz/0223et-state-sic.pdf "0223ET State SIC")
+  * [March (PDF)](https://dor.sd.gov/media/m2vprotz/0323et-state-sic.pdf "0323ET State SIC")
+  * [April (PDF)](https://dor.sd.gov/media/yd4bsy4p/0423et-state-sic.pdf "0423ET State SIC")
+  * [May (PDF)](https://dor.sd.gov/media/h5qe3lze/0523et-state-sic.pdf "0523ET State SIC")
+  * [June (PDF)](https://dor.sd.gov/media/l53pg5lr/0623et-state-sic.pdf "0623ET State SIC")
+  * [FY 2023 (PDF)](https://dor.sd.gov/media/5yeojyda/fy23et-state-sic.pdf "FY23ET State SIC")
+  * [July (PDF)](https://dor.sd.gov/media/3hbic5ty/0723et-state-sic.pdf "0723ET State SIC")
+  * [August (PDF)](https://dor.sd.gov/media/rzma5oig/0823et-state-sic.pdf "0823ET State SIC")
+  * [September (PDF)](https://dor.sd.gov/media/hq4cw1yw/0923et-state-sic.pdf "0923ET State SIC")
+  * [October (PDF)](https://dor.sd.gov/media/eapmcxlf/1023et-state-sic.pdf "1023ET State SIC")
+  * [November (PDF)](https://dor.sd.gov/media/kzqp04vl/1123et-state-sic.pdf "1123ET State SIC")
+  * [December (PDF)](https://dor.sd.gov/media/csgb2sup/1223et-state-sic.pdf "1223ET State SIC")
+  * [CY 2023 (PDF)](https://dor.sd.gov/media/4kva3pa2/cy2023et-state-sic.pdf "CY2023ET State SIC")
+
+
+#####  Municipal Taxable Sales per City by SIC Code 
+Taxable sales within the Standard Industrial Classification (SIC) Division, Major Group & Industry for all cities. Separately covers the general municipal tax rate and the municipal gross receipts tax rate.
+[Current Month Interactive Report](https://dor.sd.gov/businesses/taxes/sales-use-tax/current-month-interactive-report/ "Current Month Interactive Report")
+  * [January (PDF)](https://dor.sd.gov/media/ycbbwp23/0123municipalmonthlytaxbysic.pdf "0123Municipalmonthlytaxbysic") [(XLSX)](https://dor.sd.gov/media/gkocbezb/01-23-sd-municipal-by-sic.xlsx "01.23 SD Municipal By SIC")
+  * [February (PDF)](https://dor.sd.gov/media/prcl00yz/0223municipalmonthlytaxbysic.pdf "0223Municipalmonthlytaxbysic") [(XLSX)](https://dor.sd.gov/media/32onpddi/02-23-sd-municipal-by-sic.xlsx "02.23 SD Municipal By SIC")
+  * [March (PDF)](https://dor.sd.gov/media/bcpd4rwy/0323municipalmonthlytaxbysic.pdf "0323Municipalmonthlytaxbysic") [(XLSX)](https://dor.sd.gov/media/qxdemt0l/03-23-sd-municipal-by-sic.xlsx "03.23 SD Municipal By SIC")
+  * [April (PDF)](https://dor.sd.gov/media/5ponkc3v/0423municipalmonthlytaxbysic.pdf "0423Municipalmonthlytaxbysic") [(XLSX)](https://dor.sd.gov/media/nn4jqpcu/04-23-sd-municipal-by-sic.xlsx "04.23 SD Municipal By SIC")
+  * [May (PDF)](https://dor.sd.gov/media/i0ehqjzt/0523municipalmonthlytaxbysic.pdf "0523Municipalmonthlytaxbysic") [(XLSX)](https://dor.sd.gov/media/mc5e21kd/05-23-sd-municipal-by-sic.xlsx "05.23 SD Municipal By SIC")
+  * [June (PDF)](https://dor.sd.gov/media/zxqjpsmz/0623municipalmonthlytaxbysic.pdf "0623Municipalmonthlytaxbysic") [(XLSX)](https://dor.sd.gov/media/oixbm2za/06-23-sd-municipal-by-sic.xlsx "06.23 SD Municipal By SIC")
+  * [FY 2023 (PDF)](https://dor.sd.gov/media/p00psnnf/fy23municipalmonthlytaxbysic.pdf "Fy23municipalmonthlytaxbysic")
+  * [July (PDF)](https://dor.sd.gov/media/jnqahazw/0723municipalmonthlytaxbysic.pdf "0723Municipalmonthlytaxbysic") [(XLSX)](https://dor.sd.gov/media/sa4c1cbh/07-23-sd-municipal-by-sic.xlsx "07.23 SD Municipal By SIC")
+  * [August (PDF)](https://dor.sd.gov/media/3wthjlbj/0823municipalmonthlytaxbysic.pdf "0823Municipalmonthlytaxbysic") [(XLSX)](https://dor.sd.gov/media/vdsbkzzi/08-23-sd-municipal-by-sic.xlsx "08.23 SD Municipal By SIC")
+  * [September (PDF)](https://dor.sd.gov/media/3wpnos5g/0923municipalmonthlytaxbysic.pdf "0923Municipalmonthlytaxbysic")[(XLSX)](https://dor.sd.gov/media/yx1l323d/09-23-sd-municipal-by-sic.xlsx "09.23 SD Municipal By SIC")
+  * [October (PDF)](https://dor.sd.gov/media/uz0nfbcg/1023municipalmonthlytaxbysic.pdf "1023Municipalmonthlytaxbysic") [(XLSX)](https://dor.sd.gov/media/1woa3erv/10-23-sd-municipal-by-sic.xlsx "10.23 SD Municipal By SIC")
+  * [November (PDF)](https://dor.sd.gov/media/5h1dcygx/1123municipalmonthlytaxbysic.pdf "1123Municipalmonthlytaxbysic") [(XLSX)](https://dor.sd.gov/media/m1ml2vqx/11-23-sd-municipal-by-sic.xlsx "11.23 SD Municipal By SIC")
+  * [December (PDF)](https://dor.sd.gov/media/m5ydje3h/1223municipalmonthlytaxbysic.pdf "1223Municipalmonthlytaxbysic")[(XLSX)](https://dor.sd.gov/media/vkqbche5/12-23-sd-municipal-by-sic.xlsx "12.23 SD Municipal By SIC")[](https://dor.sd.gov/media/m5ydje3h/1223municipalmonthlytaxbysic.pdf "1223Municipalmonthlytaxbysic")
+  * [CY 2023 (PDF)](https://dor.sd.gov/media/rjiednhj/cy2023municipalmonthlytaxbysic.pdf "Cy2023municipalmonthlytaxbysic")
+
+
+#####  Municipal Tax Due per City – Comparison 
+Shows a comparison of municipal tax due reported to the same month in the previous year grouped by city. This report is not a cumulative total, rather the number of sales, use, and municipal gross receipts tax paid to each town per month.
+  * [January (PDF)](https://dor.sd.gov/media/cmibsnmp/0123municipaltaxbycity.pdf "0123Municipaltaxbycity")
+  * [February (PDF)](https://dor.sd.gov/media/1u2djliq/0223municipaltaxbycity.pdf "0223Municipaltaxbycity")
+  * [March (PDF)](https://dor.sd.gov/media/4d2hhjw3/0323municipaltaxbycity.pdf "0323Municipaltaxbycity")
+  * [April (PDF)](https://dor.sd.gov/media/5uid50q5/0423municipaltaxbycity.pdf "0423Municipaltaxbycity")
+  * [May (PDF)](https://dor.sd.gov/media/aqtlewxg/0523municipaltaxbycity.pdf "0523Municipaltaxbycity")
+  * [June (PDF)](https://dor.sd.gov/media/heqodxho/0623municipaltaxbycity.pdf "0623Municipaltaxbycity")
+  * [FY 2023 (PDF)](https://dor.sd.gov/media/abed422t/fy23municipaltaxbycitybyyear.pdf "Fy23municipaltaxbycitybyyear")
+  * [July (PDF)](https://dor.sd.gov/media/gj2pxowc/0723municipaltaxbycity.pdf "0723Municipaltaxbycity")
+  * [August (PDF)](https://dor.sd.gov/media/dt4nj4hx/0823municipaltaxbycity.pdf "0823Municipaltaxbycity")
+  * [September (PDF)](https://dor.sd.gov/media/5vxhguae/0923municipaltaxbycity.pdf "0923Municipaltaxbycity")
+  * [October (PDF)](https://dor.sd.gov/media/ukejtqkl/1023municipaltaxbycity.pdf "1023Municipaltaxbycity")
+  * [November (PDF)](https://dor.sd.gov/media/sg4dwnuz/1123municipaltaxbycity.pdf "1123Municipaltaxbycity") [](https://dor.sd.gov/media/1woa3erv/10-23-sd-municipal-by-sic.xlsx "10.23 SD Municipal By SIC")
+  * [December (PDF)](https://dor.sd.gov/media/mahgre4m/1223municipaltaxbycity.pdf "1223Municipaltaxbycity")
+  * [CY 2023 (PDF)](https://dor.sd.gov/media/q1gbmabk/cy2023municipaltaxrecapbycity.pdf "Cy2023municipaltaxrecapbycity")
+
+
+#####  State Taxable Sales for County & City (Division totals for each city) 
+Taxable sales within the Standard Industrial Classification (SIC) Division, Major Group & Industry for all cities. Separately covers the general municipal tax rate and the municipal gross receipts tax rate.
+  * [January (PDF)](https://dor.sd.gov/media/4zqhhlgl/0123countybycitybymg.pdf "0123Countybycitybymg")
+  * [February (PDF)](https://dor.sd.gov/media/xvche5ua/0223countybycitybymg.pdf "0223Countybycitybymg")
+  * [March (PDF)](https://dor.sd.gov/media/xvvohnoh/0323countybycitybymg.pdf "0323Countybycitybymg")
+  * [April (PDF)](https://dor.sd.gov/media/is4hmray/0423countybycitybymg.pdf "0423Countybycitybymg")
+  * [May (PDF)](https://dor.sd.gov/media/nfmff4bf/0523countybycitybymg.pdf "0523Countybycitybymg")
+  * [June (PDF)](https://dor.sd.gov/media/lsjfptts/0623countybycitybymg.pdf "0623Countybycitybymg")
+  * [FY 2023 (PDF)](https://dor.sd.gov/media/ci3nxqsw/fy23countybycitybymg.pdf "Fy23countybycitybymg")
+  * [July (PDF)](https://dor.sd.gov/media/vxlhdy00/0723countybycitybymg.pdf "0723Countybycitybymg")
+  * [August (PDF)](https://dor.sd.gov/media/ehqlmwuu/0823countybycitybymg.pdf "0823Countybycitybymg")
+  * [September (PDF)](https://dor.sd.gov/media/lvopuria/0923countybycitybymg.pdf "0923Countybycitybymg")
+  * [October (PDF)](https://dor.sd.gov/media/4wjd3tdx/1023countybycitybymg.pdf "1023Countybycitybymg")
+  * [November (PDF)](https://dor.sd.gov/media/aeql2cre/1123countybycitybymg.pdf "1123Countybycitybymg")
+  * [December (PDF)](https://dor.sd.gov/media/or1hawzl/1223countybycitybymg.pdf "1223Countybycitybymg")
+  * [CY 2023 (PDF)](https://dor.sd.gov/media/sigf0bc4/cy2023countybycitybymg.pdf "Cy2023countybycitybymg")
+
+
+#####  State Taxable Sales by County & City (Comparison) 
+Shows state taxable sales for each county broken down by cities located within that county compared to the previous year. A city may exist in more than one county.
+  * [January (PDF)](https://dor.sd.gov/media/vqbfynmp/0123countybycitynosic-comparison.pdf "0123Countybycitynosic COMPARISON")
+  * [February (PDF)](https://dor.sd.gov/media/gcphc34q/0223countybycitynosic-comparison.pdf "0223Countybycitynosic COMPARISON")
+  * [March (PDF)](https://dor.sd.gov/media/tdvb4nnc/0323countybycitynosic-comparison.pdf "0323Countybycitynosic COMPARISON")
+  * [April (PDF)](https://dor.sd.gov/media/fsdnylwe/0423countybycitynosic-comparison.pdf "0423Countybycitynosic COMPARISON")
+  * [May (PDF)](https://dor.sd.gov/media/wdxm55mj/0523countybycitynosic-comparison.pdf "0523Countybycitynosic COMPARISON")
+  * [June (PDF)](https://dor.sd.gov/media/g1xhb0js/0623countybycitynosic-comparison.pdf "0623Countybycitynosic COMPARISON")
+  * [FY 2023 (PDF)](https://dor.sd.gov/media/glrdes1z/fy23countybycitynosic-comparison.pdf "Fy23countybycitynosic COMPARISON")
+  * [July (PDF)](https://dor.sd.gov/media/eazkobdz/0723countybycitynosic-comparison.pdf "0723Countybycitynosic COMPARISON")
+  * [August (PDF)](https://dor.sd.gov/media/l42jauzu/0823countybycitynosic-comparison.pdf "0823Countybycitynosic COMPARISON")
+  * [September (PDF)](https://dor.sd.gov/media/dgvpyrgu/0923countybycitynosic-comparison.pdf "0923Countybycitynosic COMPARISON")
+  * [October (PDF)](https://dor.sd.gov/media/zgljg3mb/1023countybycitynosic-comparison.pdf "1023Countybycitynosic COMPARISON")
+  * [November (PDF)](https://dor.sd.gov/media/tvhhfh25/1123countybycitynosic-comparison.pdf "1123Countybycitynosic COMPARISON")
+  * [December (PDF)](https://dor.sd.gov/media/xqimomjh/1223countybycitynosic-comparison.pdf "1223Countybycitynosic COMPARISON")
+  * [CY 2023 (PDF)](https://dor.sd.gov/media/lrqh4vnh/cy2023countybycitynosic-comparison.pdf "Cy2023countybycitynosic COMPARISON")
+
+
+#####  State Taxable Sales by County & City (Percentage) 
+Shows state taxable sales for each county broken down by cities located within that county and what percentage of the total sales are allocated to each city and county. A city may exist in more than one county.
+  * [January (PDF)](https://dor.sd.gov/media/guujxkkm/0123countybycitypercentoftotal.pdf "0123Countybycitypercentoftotal")
+  * [February (PDF)](https://dor.sd.gov/media/50ibebnp/0223countybycitypercentoftotal.pdf "0223Countybycitypercentoftotal")
+  * [March (PDF)](https://dor.sd.gov/media/pqwbbssr/0323countybycitypercentoftotal.pdf "0323Countybycitypercentoftotal")
+  * [April (PDF)](https://dor.sd.gov/media/laibmvfl/0423countybycitypercentoftotal.pdf "0423Countybycitypercentoftotal")
+  * [May (PDF)](https://dor.sd.gov/media/ujsbeu1h/0523countybycitypercentoftotal.pdf "0523Countybycitypercentoftotal")
+  * [June (PDF)](https://dor.sd.gov/media/r3xf5nfp/0623countybycitypercentoftotal.pdf "0623Countybycitypercentoftotal")
+  * [FY 2023 (PDF)](https://dor.sd.gov/media/0ijmlcbc/fy23countybycitypercentoftotal.pdf "Fy23countybycitypercentoftotal")
+  * [July (PDF)](https://dor.sd.gov/media/p0vbjcdk/0723countybycitypercentoftotal.pdf "0723Countybycitypercentoftotal")
+  * [August (PDF)](https://dor.sd.gov/media/4xcbgh0w/0823countybycitypercentoftotal.pdf "0823Countybycitypercentoftotal")
+  * [September (PDF)](https://dor.sd.gov/media/pxppqmkz/0923countybycitypercentoftotal.pdf "0923Countybycitypercentoftotal")
+  * [October (PDF)](https://dor.sd.gov/media/i0kncouo/1023countybycitypercentoftotal.pdf "1023Countybycitypercentoftotal")
+  * [November (PDF)](https://dor.sd.gov/media/4k1hbo4g/1123countybycitypercentoftotal.pdf "1123Countybycitypercentoftotal")
+  * [December (PDF)](https://dor.sd.gov/media/uwyli205/1223countybycitypercentoftotal.pdf "1223Countybycitypercentoftotal")
+  * [CY 2023 (PDF)](https://dor.sd.gov/media/x0vpcmoh/cy2023countybycitypercentoftotal.pdf "Cy2023countybycitypercentoftotal")
+
+
+#####  State Taxable Sales by County 
+Shows state taxable sales within the Standard Industrial Classification (SIC), Major Group and Division.
+  * [January (PDF)](https://dor.sd.gov/media/r34l1yux/0123countybysic.pdf "0123Countybysic")
+  * [February (PDF)](https://dor.sd.gov/media/hwulsxpj/0223countybysic.pdf "0223Countybysic")
+  * [March (PDF)](https://dor.sd.gov/media/sqtjsvea/0323countybysic.pdf "0323Countybysic")
+  * [April (PDF)](https://dor.sd.gov/media/fdud5gsq/0423countybysic.pdf "0423Countybysic")
+  * [May (PDF)](https://dor.sd.gov/media/goedyxfo/0523countybysic.pdf "0523Countybysic")
+  * [June (PDF)](https://dor.sd.gov/media/wnxfva0c/0623countybysic.pdf "0623Countybysic")
+  * [FY 2023 (PDF)](https://dor.sd.gov/media/w2heqamn/fy23countybysic.pdf "Fy23countybysic")
+  * [July (PDF)](https://dor.sd.gov/media/0n5ldnh5/0723countybysic.pdf "0723Countybysic")
+  * [August (PDF)](https://dor.sd.gov/media/hefmvv3w/0823countybysic.pdf "0823Countybysic")
+  * [September (PDF)](https://dor.sd.gov/media/pbwlqghj/0923countybysic.pdf "0923Countybysic")
+  * [October (PDF)](https://dor.sd.gov/media/4u2lt1kf/1023countybysic.pdf "1023Countybysic")
+  * [November (PDF)](https://dor.sd.gov/media/3emduoe2/1123countybysic.pdf "1123Countybysic")
+  * [December (PDF)](https://dor.sd.gov/media/i3xpoqrh/1223countybysic.pdf "1223Countybysic")
+  * [CY 2023 (PDF)](https://dor.sd.gov/media/kqpca1bq/cy2023countybysic.pdf "Cy2023countybysic")
+
+
+#####  State Taxable Sales by SIC Code 
+Shows state taxable sales within the Standard Industrial Classification (SIC) Division, Major Group & Industry.
+  * [January (PDF)](https://dor.sd.gov/media/tnqjqbjt/0123statebydiv-mg-sic.pdf "0123Statebydiv MG SIC")
+  * [February (PDF)](https://dor.sd.gov/media/r0wbycbi/0223statebydiv-mg-sic.pdf "0223Statebydiv MG SIC")
+  * [March (PDF)](https://dor.sd.gov/media/nfqn5bni/0323statebydiv-mg-sic.pdf "0323Statebydiv MG SIC")
+  * [April (PDF)](https://dor.sd.gov/media/sqmp4wm4/0423statebydiv-mg-sic.pdf "0423Statebydiv MG SIC")
+  * [May (PDF)](https://dor.sd.gov/media/qqsozfvq/0523statebydiv-mg-sic.pdf "0523Statebydiv MG SIC")
+  * [June (PDF)](https://dor.sd.gov/media/tlwlknac/0623statebydiv-mg-sic.pdf "0623Statebydiv MG SIC")
+  * [FY 2023 (PDF)](https://dor.sd.gov/media/buppyuc2/fy23statebydiv-mg-sic.pdf "Fy23statebydiv MG SIC")
+  * [July (PDF)](https://dor.sd.gov/media/lqyfak4x/0723statebydiv-mg-sic.pdf "0723Statebydiv MG SIC")
+  * [August (PDF)](https://dor.sd.gov/media/0pml024z/0823statebydiv-mg-sic.pdf "0823Statebydiv MG SIC")
+  * [September (PDF)](https://dor.sd.gov/media/fnwh04ov/0923statebydiv-mg-sic.pdf "0923Statebydiv MG SIC")
+  * [October (PDF)](https://dor.sd.gov/media/gc4beac5/1023statebydiv-mg-sic.pdf "1023Statebydiv MG SIC")
+  * [November (PDF)](https://dor.sd.gov/media/nszd0u5e/1123statebydiv-mg-sic.pdf "1123Statebydiv MG SIC")
+  * [December (PDF)](https://dor.sd.gov/media/vosgiurc/1223statebydiv-mg-sic.pdf "1223Statebydiv MG SIC")
+  * [CY 2023 (PDF)](https://dor.sd.gov/media/obyjuett/cy2023statebydiv-mg-sic.pdf "Cy2023statebydiv MG SIC")
+
+
+#####  Tourism Tax Report 
+Show state tourism taxable sales grouped by industry within each county.
+  * [January (PDF)](https://dor.sd.gov/media/qied22r2/0123county-tourism.pdf "0123County Tourism")
+  * [February (PDF)](https://dor.sd.gov/media/bnclv34d/0223county-tourism.pdf "0223County Tourism")
+  * [March (PDF)](https://dor.sd.gov/media/0ofdb4kh/0323county-tourism.pdf "0323County Tourism")
+  * [April (PDF)](https://dor.sd.gov/media/macf3kuc/0423county-tourism.pdf "0423County Tourism")
+  * [May (PDF)](https://dor.sd.gov/media/nhyfiyus/0523county-tourism.pdf "0523County Tourism")
+  * [June (PDF)](https://dor.sd.gov/media/5xjljthc/0623county-tourism.pdf "0623County Tourism")
+  * [FY 2023 (PDF)](https://dor.sd.gov/media/j5hdfbyq/fy23county-tourism.pdf "Fy23county Tourism")
+  * [July (PDF)](https://dor.sd.gov/media/2fad5zjf/0723county-tourism.pdf "0723County Tourism")
+  * [August (PDF)](https://dor.sd.gov/media/5t3hh4sh/0823county-tourism.pdf "0823County Tourism")
+  * [September (PDF)](https://dor.sd.gov/media/14tlfgpk/0923county-tourism.pdf "0923County Tourism")
+  * [October (PDF)](https://dor.sd.gov/media/2krj5p1i/1023county-tourism.pdf "1023County Tourism")
+  * [November (PDF)](https://dor.sd.gov/media/o1ujzhsf/1123county-tourism.pdf "1123County Tourism")
+  * [December (PDF)](https://dor.sd.gov/media/cblpnojs/1223county-tourism.pdf "1223County Tourism")
+  * [CY 2023 (PDF)](https://dor.sd.gov/media/aganmmoj/cy2023county-tourism.pdf "Cy2023county Tourism")
+
+
+#####  State Taxable Sales Comparison 
+Shows comparison of state taxable sales reported this month to the same month in the previous year grouped by Standard Industrial Classification (SIC) Major Groups and Divisions.
+  * [January (PDF)](https://dor.sd.gov/media/43ppr2oj/0123statemjrgrpdiv.pdf "0123Statemjrgrpdiv")
+  * [February (PDF)](https://dor.sd.gov/media/crknii3a/0223statemjrgrpdiv.pdf "0223Statemjrgrpdiv")
+  * [March (PDF)](https://dor.sd.gov/media/0fqn1d55/0323statemjrgrpdiv.pdf "0323Statemjrgrpdiv")
+  * [April (PDF)](https://dor.sd.gov/media/u5mlq0zw/0423statemjrgrpdiv.pdf "0423Statemjrgrpdiv")
+  * [May (PDF)](https://dor.sd.gov/media/rxbjrpjh/0523statemjrgrpdiv.pdf "0523Statemjrgrpdiv")
+  * [June (PDF)](https://dor.sd.gov/media/swfbrgkx/0623statemjrgrpdiv.pdf "0623Statemjrgrpdiv")
+  * [FY 2023 (PDF)](https://dor.sd.gov/media/ji3hnssf/fystatemjrgrpdiv.pdf "Fystatemjrgrpdiv")
+  * [July (PDF)](https://dor.sd.gov/media/msfdtg0u/0723statemjrgrpdiv.pdf "0723Statemjrgrpdiv")
+  * [August (PDF)](https://dor.sd.gov/media/blhdjkiw/0823statemjrgrpdiv.pdf "0823Statemjrgrpdiv")
+  * [September (PDF)](https://dor.sd.gov/media/lnhhpkbz/0923statemjrgrpdiv.pdf "0923Statemjrgrpdiv")
+  * [October (PDF)](https://dor.sd.gov/media/cbnljv0f/1023statemjrgrpdiv.pdf "1023Statemjrgrpdiv")
+  * [November (PDF)](https://dor.sd.gov/media/cvchkyzl/1123statemjrgrpdiv.pdf "1123Statemjrgrpdiv")
+  * [December (PDF)](https://dor.sd.gov/media/j3plztnk/1223statemjrgrpdiv.pdf "1223Statemjrgrpdiv")
+  * [CY 2023 (PDF)](https://dor.sd.gov/media/lc4jyjg2/cy2023statemjrgrpdiv.pdf "Cy2023statemjrgrpdiv")
+
+
+#####  State Taxable Sales for All Cities 
+Shows state taxable sales within the Standard Industrial Classification (SIC) Division, Major Group & Industry for all cities. Sales are grouped with the city by zip code and do NOT indicate activity subject to the applicable city tax.
+  * [January (PDF)](https://dor.sd.gov/media/1cdosxof/0123allcitiesbysic.pdf "0123Allcitiesbysic")
+  * [February (PDF)](https://dor.sd.gov/media/ohrnnacp/0223allcitiesbysic.pdf "0223Allcitiesbysic")
+  * [March (PDF)](https://dor.sd.gov/media/c15k3omp/0323allcitiesbysic.pdf "0323Allcitiesbysic")
+  * [April (PDF)](https://dor.sd.gov/media/eytj3jx0/0423allcitiesbysic.pdf "0423Allcitiesbysic")
+  * [May (PDF)](https://dor.sd.gov/media/4nkfn3l5/0523allcitiesbysic.pdf "0523Allcitiesbysic")
+  * [June (PDF)](https://dor.sd.gov/media/jyvpfu2g/0623allcitiesbysic.pdf "0623Allcitiesbysic")
+  * [FY 2023 (PDF)](https://dor.sd.gov/media/2xclzdz2/fy23allcitiesbysic.pdf "Fy23allcitiesbysic")
+  * [July (PDF)](https://dor.sd.gov/media/d5tlkl32/0723allcitiesbysic.pdf "0723Allcitiesbysic")
+  * [August (PDF)](https://dor.sd.gov/media/apwcq320/0823allcitiesbysic.pdf "0823Allcitiesbysic")
+  * [September (PDF)](https://dor.sd.gov/media/kfxdcltd/0923allcitiesbysic.pdf "0923Allcitiesbysic")
+  * [October (PDF)](https://dor.sd.gov/media/bsmbvfag/1023allcitiesbysic.pdf "1023Allcitiesbysic")
+  * [November (PDF)](https://dor.sd.gov/media/10vl412b/1123allcitiesbysic.pdf "1123Allcitiesbysic")
+  * [December (PDF)](https://dor.sd.gov/media/3mod3hyq/1223allcitiesbysic.pdf "1223Allcitiesbysic")
+  * [CY 2023 (PDF)](https://dor.sd.gov/media/pf2jn2bt/cy2023allcitiesbysic.pdf "Cy2023allcitiesbysic")
+
+
+#####  Retailer’s Association Comparison Request Report 
+Shows a comparison of municipal tax due for selected cities compared to the same period in the previous year.
+  * [January (PDF)](https://dor.sd.gov/media/5wmpqs0a/0123cityretailers.pdf "0123Cityretailers")
+  * [February (PDF)](https://dor.sd.gov/media/s24o4tmf/0223cityretailers.pdf "0223Cityretailers")
+  * [March (PDF)](https://dor.sd.gov/media/qhjnvwik/0323cityretailers.pdf "0323Cityretailers")
+  * [April (PDF)](https://dor.sd.gov/media/vvfe5pge/0423cityretailers.pdf "0423Cityretailers")
+  * [May (PDF)](https://dor.sd.gov/media/gqrhlgih/0523cityretailers.pdf "0523Cityretailers")
+  * [June (PDF)](https://dor.sd.gov/media/5yqfn35e/0623cityretailers.pdf "0623Cityretailers")
+  * [July (PDF)](https://dor.sd.gov/media/zbtkdexa/0723cityretailers.pdf "0723Cityretailers")
+  * [August (PDF)](https://dor.sd.gov/media/zqobcdqc/0823cityretailers.pdf "0823Cityretailers")
+  * [September (PDF)](https://dor.sd.gov/media/dipgfvm5/0923cityretailers.pdf "0923Cityretailers")
+  * [October (PDF)](https://dor.sd.gov/media/wmslrv5g/1023cityretailers.pdf "1023Cityretailers")
+  * [November (PDF)](https://dor.sd.gov/media/jpuphr1c/1123cityretailers.pdf "1123Cityretailers")
+  * [December (PDF)](https://dor.sd.gov/media/c1oi1o03/1223cityretailers.pdf "1223Cityretailers")
+  * [CY 2023 (PDF)](https://dor.sd.gov/media/yaabjojl/cy2023cityretailers.pdf "Cy2023cityretailers")
+  * [CYTD 2024 (PDF)](https://dor.sd.gov/media/q0ijuypu/1223cityretailersytdcomparison.pdf "1223Cityretailersytdcomparison")
+
+
+#####  Remote Sellers Municipal Tax Due by City 
+Shows remote seller sales tax due for selected cities. Due to this being a new report, there is no comparison between the same period in the previous year.
+  * [January (XLSX)](https://dor.sd.gov/media/0uqfcw1o/01-23-remotesellertaxbycity.xlsx "01.23 Remotesellertaxbycity")
+  * [February (XLSX)](https://dor.sd.gov/media/yatn2rod/02-23-remotesellertaxbycity.xlsx "02.23 Remotesellertaxbycity")
+  * [March (XLSX)](https://dor.sd.gov/media/s2akoomb/03-23-remotesellertaxbycity.xlsx "03.23 Remotesellertaxbycity")
+  * [April (XLSX)](https://dor.sd.gov/media/1zmfa0e2/04-23-remotesellertaxbycity.xlsx "04.23 Remotesellertaxbycity")
+  * [May (XLSX)](https://dor.sd.gov/media/yqwn51od/05-23-remotesellertaxbycity.xlsx "05.23 Remotesellertaxbycity")
+  * [June (XLSX)](https://dor.sd.gov/media/ojthu4s3/06-23-remotesellertaxbycity.xlsx "06.23 Remotesellertaxbycity")
+  * [July (XLSX)](https://dor.sd.gov/media/4oqbyglm/07-23-remotesellertaxbycity.xlsx "07.23 Remotesellertaxbycity")
+  * [August (XLSX)](https://dor.sd.gov/media/ppsdbtnj/08-23-remotesellertaxbycity.xlsx "08.23 Remotesellertaxbycity")
+
+
+#####  Fireworks 
+[CY 2023 (PDF)](https://dor.sd.gov/media/duvbdiw3/2023-fireworks.pdf "2023 Fireworks")
+* * *
+### 2022 Sales Tax Statistical Reports
+In all cases when you select a month, you will be viewing data compiled from returns filed with the Department during that month. It may cover a variety of taxpayer filing periods, such as monthly, bi-monthly, semi-annually etc. It includes returns filed for the current period and those filed for previous periods.
+[See Historical Reports](https://dor.sd.gov/businesses/taxes/sales-use-tax/historical-tax-statistical-reports/ "Historical Sales Tax Statistical Reports")
+#####  Excise Taxable Receipts by SIC 
+This report includes all amounts reported on Excise Tax Returns within the Standard Industrial Classification (SIC), Major Group and Division.
+  * [January (PDF)](https://dor.sd.gov/media/wshnsrpg/0122et-state-sic.pdf "0122ET State SIC")
+  * [February (PDF) ](https://dor.sd.gov/media/h00deerz/0222et-state-sic.pdf "0222ET State SIC")
+  * [March (PDF)](https://dor.sd.gov/media/jzsbqykn/0322et-state-sic.pdf "0322ET State SIC")
+  * [April (PDF)](https://dor.sd.gov/media/dtejatlg/0422et-state-sic.pdf "0422ET State SIC")
+  * [May (PDF)](https://dor.sd.gov/media/5tnhcd0v/0522et-state-sic.pdf "0522ET State SIC")
+  * [June (PDF)](https://dor.sd.gov/media/jcejim31/0622et-state-sic.pdf "0622ET State SIC")
+  * [FY 2022 (PDF)](https://dor.sd.gov/media/axmjltpq/fy22et-state-sic.pdf "FY22ET State SIC")
+  * [July (PDF)](https://dor.sd.gov/media/vndc0zdg/0722et-state-sic.pdf "0722ET State SIC")
+  * [August (PDF)](https://dor.sd.gov/media/romh3pax/0822et-state-sic.pdf "0822ET State SIC")
+  * [September (PDF)](https://dor.sd.gov/media/jhiantuf/0922et-state-sic.pdf "0922ET State SIC")
+  * [October (PDF)](https://dor.sd.gov/media/cn1l0jol/1022et-state-sic.pdf "1022ET State SIC")
+  * [November (PDF)](https://dor.sd.gov/media/4c5ndx1a/1122et-state-sic.pdf "1122ET State SIC")
+  * [December (PDF)](https://dor.sd.gov/media/kg1eoh0s/1222et-state-sic.pdf "1222ET State SIC")
+  * [CY 2022 (PDF)](https://dor.sd.gov/media/plfg41q2/cy2022et-state-sic.pdf "CY2022ET State SIC")
+
+
+#####  Municipal Taxable Sales per City by SIC Code 
+Taxable sales within the Standard Industrial Classification (SIC) Division, Major Group & Industry for all cities. Separately covers the general municipal tax rate and the municipal gross receipts tax rate.
+[Current Month Interactive Report](https://dor.sd.gov/businesses/taxes/sales-use-tax/current-month-interactive-report/ "Current Month Interactive Report")
+  * [January (PDF)](https://dor.sd.gov/media/xubh0teo/0122municipalmonthlytaxbysic.pdf "0122Municipalmonthlytaxbysic") [(XLSX)](https://dor.sd.gov/media/rdbnepyk/01-22-sd-municipal-by-sic.xlsx "01.22 SD Municipal By SIC")
+  * [February (PDF)](https://dor.sd.gov/media/mcoj0rb5/0222municipalmonthlytaxbysic.pdf "0222Municipalmonthlytaxbysic") [(XLSX)](https://dor.sd.gov/media/23ofgaur/02-22-sd-municipal-by-sic.xlsx "02.22 SD Municipal By SIC")
+  * [March (PDF)](https://dor.sd.gov/media/oz4jxgx3/0322municipalmonthlytaxbysic.pdf "0322Municipalmonthlytaxbysic") [(XLSX)](https://dor.sd.gov/media/akmkso02/03-22-sd-municipal-by-sic.xlsx "03.22 SD Municipal By SIC")
+  * [April (PDF)](https://dor.sd.gov/media/xqvptcel/0422municipalmonthlytaxbysic.pdf "0422Municipalmonthlytaxbysic") [(XLSX)](https://dor.sd.gov/media/2eabdk00/04-22-sd-municipal-by-sic.xlsx "04.22 SD Municipal By SIC")
+  * [May (PDF) ](https://dor.sd.gov/media/234phvdg/0522municipalmonthlytaxbysic.pdf "0522Municipalmonthlytaxbysic") [(XLSX)](https://dor.sd.gov/media/vhghe0mz/05-22-sd-municipal-by-sic.xlsx "05.22 SD Municipal By SIC")
+  * [June (PDF)](https://dor.sd.gov/media/3n4h2kp3/0622municipalmonthlytaxbysic.pdf "0622Municipalmonthlytaxbysic") [(XLSX)](https://dor.sd.gov/media/pyffxdym/06-22-sd-municipal-by-sic.xlsx "06.22 SD Municipal By SIC")
+  * [FY 2022 (PDF)](https://dor.sd.gov/media/sfmb0wgv/fy22municipalmonthlytaxbysic.pdf "Fy22municipalmonthlytaxbysic")
+  * [July (PDF)](https://dor.sd.gov/media/xc2fzde3/0722municipaltaxbysic.pdf "0722Municipaltaxbysic") [(XLSX)](https://dor.sd.gov/media/zjkfgxmm/07-22-sd-municipal-by-sic.xlsx "07.22 SD Municipal By SIC")
+  * [August (PDF)](https://dor.sd.gov/media/kfacm04y/0822municipalmonthlytaxbysic.pdf "0822Municipalmonthlytaxbysic") [(XLSX)](https://dor.sd.gov/media/5ujla3xx/08-22-sd-municipal-by-sic.xlsx "08.22 SD Municipal By SIC")
+  * [September (PDF)](https://dor.sd.gov/media/5zunonwa/0922municipalmonthlytaxbysic.pdf "0922Municipalmonthlytaxbysic") [(XLSX)](https://dor.sd.gov/media/r5tjhujv/09-22-sd-municipal-by-sic.xlsx "09.22 SD Municipal By SIC")
+  * [October (PDF)](https://dor.sd.gov/media/gj3aekgc/1022municipalmonthlytaxbysic.pdf "1022Municipalmonthlytaxbysic") [(XLSX)](https://dor.sd.gov/media/g1pel015/10-22-sd-municipal-by-sic.xlsx "10.22 SD Municipal By SIC")
+  * [November (PDF)](https://dor.sd.gov/media/12ejjq15/1122municipalmonthlytaxbysic.pdf "1122Municipalmonthlytaxbysic") [(XLSX)](https://dor.sd.gov/media/513b5cjj/11-22-sd-municipal-by-sic.xlsx "11.22 SD Municipal By SIC")
+  * [December (PDF)](https://dor.sd.gov/media/k1emauec/1222municipalmonthlytaxbysic.pdf "1222Municipalmonthlytaxbysic") [(XLSX)](https://dor.sd.gov/media/qqcnhen4/12-22-sd-municipal-by-sic.xlsx "12.22 SD Municipal By SIC")
+  * [CY 2022 (PDF)](https://dor.sd.gov/media/majff5kh/cy2022municipalmonthlytaxbysic.pdf "Cy2022municipalmonthlytaxbysic")
+
+
+#####  Municipal Tax Due per City – Comparison 
+Shows a comparison of municipal tax due reported to the same month in the previous year grouped by city. This report is not a cumulative total, rather the number of sales, use, and municipal gross receipts tax paid to each town per month.
+  * [January (PDF)](https://dor.sd.gov/media/kemlyr3o/0122municipaltaxbycity.pdf "0122Municipaltaxbycity")
+  * [February (PDF)](https://dor.sd.gov/media/5zxdqdka/0222municipaltaxbycity.pdf "0222Municipaltaxbycity")
+  * [March (PDF)](https://dor.sd.gov/media/ulwmg42x/0322municipaltaxbycity.pdf "0322Municipaltaxbycity")
+  * [April (PDF)](https://dor.sd.gov/media/31qhwn2c/0422municipaltaxbycity.pdf "0422Municipaltaxbycity")
+  * [May (PDF)](https://dor.sd.gov/media/amobvbll/0522municipaltaxbycity.pdf "0522Municipaltaxbycity")
+  * [June (PDF)](https://dor.sd.gov/media/b3ahygsz/0622municipaltaxbycity.pdf "0622Municipaltaxbycity")
+  * [FY 2021 (PDF)](https://dor.sd.gov/media/lytpkir5/fy22municipaltaxbycitybyyear.pdf "Fy22municipaltaxbycitybyyear")
+  * [July (PDF)](https://dor.sd.gov/media/by2fyajd/0722municipaltaxbycity.pdf "0722Municipaltaxbycity")
+  * [August (PDF)](https://dor.sd.gov/media/go1drksq/0822municipaltaxbycity.pdf "0822Municipaltaxbycity")
+  * [September (PDF)](https://dor.sd.gov/media/kdzowtk5/0922municipaltaxbycity-reprint.pdf "0922Municipaltaxbycity Reprint")
+  * [October (PDF)](https://dor.sd.gov/media/ctwa1rga/1022municipaltaxbycity.pdf "1022Municipaltaxbycity")
+  * [November (PDF)](https://dor.sd.gov/media/eoxdcv2h/1122municipaltaxbycity.pdf "1122Municipaltaxbycity")
+  * [December (PDF)](https://dor.sd.gov/media/on2npjcr/1222municipaltaxbycity.pdf "1222Municipaltaxbycity")
+  * [CY 2022 (PDF)](https://dor.sd.gov/media/ic5be2vw/cy2022municipaltaxbycitybyyear.pdf "Cy2022municipaltaxbycitybyyear")
+
+
+#####  State Taxable Sales for County & City (Division totals for each city) 
+Taxable sales within the Standard Industrial Classification (SIC) Division, Major Group & Industry for all cities. Separately covers the general municipal tax rate and the municipal gross receipts tax rate.
+  * [January (PDF)](https://dor.sd.gov/media/k4dawa4g/0122countybycitybymg.pdf "0122Countybycitybymg")
+  * [February (PDF)](https://dor.sd.gov/media/twndcqib/0222countybycitybymg.pdf "0222Countybycitybymg")
+  * [March (PDF)](https://dor.sd.gov/media/4nzh2p5v/0322countybycitybymg.pdf "0322Countybycitybymg")
+  * [April (PDF)](https://dor.sd.gov/media/h3vlh20f/0422countybycitybymg.pdf "0422Countybycitybymg")
+  * [May (PDF)](https://dor.sd.gov/media/p3nkjmmh/0522countybycitybymg.pdf "0522Countybycitybymg")
+  * [June (PDF)](https://dor.sd.gov/media/4wnfeivl/0622countybycitybymg.pdf "0622Countybycitybymg")
+  * [FY 2022 (PDF)](https://dor.sd.gov/media/nexntw0u/fy22countybycitybymg.pdf "Fy22countybycitybymg")
+  * [July (PDF)](https://dor.sd.gov/media/vdkks4zy/0722countybycitybymg.pdf "0722Countybycitybymg")
+  * [August (PDF)](https://dor.sd.gov/media/fmqj50qn/0822countybycitybymg.pdf "0822Countybycitybymg")
+  * [September (PDF)](https://dor.sd.gov/media/vjhllqnz/0922countybycitybymg.pdf "0922Countybycitybymg")
+  * [October (PDF)](https://dor.sd.gov/media/s3phyah0/1022countybycitybymg.pdf "1022Countybycitybymg")
+  * [November (PDF)](https://dor.sd.gov/media/ynrha4ot/1122countybycitybymg.pdf "1122Countybycitybymg")
+  * [December (PDF)](https://dor.sd.gov/media/wu2hkc5y/1222countybycitybymg.pdf "1222Countybycitybymg")
+  * [CY 2022 (PDF)](https://dor.sd.gov/media/3l2jxof3/cy2022countybycitybymg.pdf "Cy2022countybycitybymg")
+
+
+#####  State Taxable Sales by County & City (Comparison) 
+Shows state taxable sales for each county broken down by cities located within that county compared to the previous year. A city may exist in more than one county.
+  * [January (PDF)](https://dor.sd.gov/media/skte5pqo/0122countybycitynosic-comparison.pdf "0122Countybycitynosic COMPARISON")
+  * [February (PDF)](https://dor.sd.gov/media/jy4ainqd/0222countybycitynosic-comparison.pdf "0222Countybycitynosic COMPARISON")
+  * [March (PDF)](https://dor.sd.gov/media/t0gdraxi/0322countybycitynosic-comparison.pdf "0322Countybycitynosic COMPARISON")
+  * [April (PDF)](https://dor.sd.gov/media/uy3duf5z/0422countybycitynosic-comparison.pdf "0422Countybycitynosic COMPARISON")
+  * [May (PDF)](https://dor.sd.gov/media/dg3jx20c/0522countybycitynosic-comparison.pdf "0522Countybycitynosic COMPARISON")
+  * [June (PDF)](https://dor.sd.gov/media/d3ydnc0h/0622countybycitynosic-comparison.pdf "0622Countybycitynosic COMPARISON")
+  * [FY 2022 (PDF)](https://dor.sd.gov/media/jfypdf0r/fy22countybycitynosic-comparison.pdf "Fy22countybycitynosic COMPARISON")
+  * [July (PDF)](https://dor.sd.gov/media/g0snyo0c/0722countybycitynosic-comparison.pdf "0722Countybycitynosic COMPARISON")
+  * [August (PDF)](https://dor.sd.gov/media/jrfozwcw/0822countybycitynosic-comparison.pdf "0822Countybycitynosic COMPARISON")
+  * [September (PDF)](https://dor.sd.gov/media/idona43c/0922countybycitynosic-comparison.pdf "0922Countybycitynosic COMPARISON")
+  * [October (PDF)](https://dor.sd.gov/media/wk5be55q/1022countybycitynosic-comparison.pdf "1022Countybycitynosic COMPARISON")
+  * [November (PDF)](https://dor.sd.gov/media/csdeth3v/1122countybycitynosic-comparison.pdf "1122Countybycitynosic COMPARISON")
+  * [December (PDF)](https://dor.sd.gov/media/wbja0cfr/1222countybycitynosic-comparison.pdf "1222Countybycitynosic COMPARISON")
+  * [CY 2022 (PDF)](https://dor.sd.gov/media/fhkdpuaw/cy2022countybycitynosic-comparison.pdf "Cy2022countybycitynosic COMPARISON")
+
+
+#####  State Taxable Sales by County & City (Percentage) 
+Shows state taxable sales for each county broken down by cities located within that county and what percentage of the total sales are allocated to each city and county. A city may exist in more than one county.
+  * [January (PDF)](https://dor.sd.gov/media/at0efbqn/0122countybycitypercentoftotal.pdf "0122Countybycitypercentoftotal")
+  * [February (PDF)](https://dor.sd.gov/media/o3vldlcu/0222countybycitypercentoftotal.pdf "0222Countybycitypercentoftotal")
+  * [March (PDF)](https://dor.sd.gov/media/hscfprh5/0322countybycitypercentoftotal.pdf "0322Countybycitypercentoftotal")
+  * [April (PDF)](https://dor.sd.gov/media/zvxl4mnk/0422countybycitypercentoftotal.pdf "0422Countybycitypercentoftotal")
+  * [May (PDF)](https://dor.sd.gov/media/fenmc4tv/0522countybycitypercentoftotal.pdf "0522Countybycitypercentoftotal")
+  * [June (PDF)](https://dor.sd.gov/media/whufykki/0622countybycitypercentoftotal.pdf "0622Countybycitypercentoftotal")
+  * [FY 2022 (PDF)](https://dor.sd.gov/media/wzsiexhl/fy22countybycitypercentoftotal.pdf "Fy22countybycitypercentoftotal")
+  * [July (PDF)](https://dor.sd.gov/media/i5ye5dfs/0722countybycitypercentoftotal.pdf "0722Countybycitypercentoftotal")
+  * [August (PDF)](https://dor.sd.gov/media/cj5g3yve/0822countybycitypercentoftotal.pdf "0822Countybycitypercentoftotal")
+  * [September (PDF)](https://dor.sd.gov/media/yndnvp3s/0922countybycitypercentoftotal.pdf "0922Countybycitypercentoftotal")
+  * [October (PDF)](https://dor.sd.gov/media/4ymdle1b/1022countybycitypercentoftotal.pdf "1022Countybycitypercentoftotal")
+  * [November (PDF)](https://dor.sd.gov/media/1gfooxfu/1122countybycitypercentoftotal.pdf "1122Countybycitypercentoftotal")
+  * [December (PDF)](https://dor.sd.gov/media/pypfuc3g/1222countybycitypercentoftotal.pdf "1222Countybycitypercentoftotal")
+  * [CY 2022 (PDF)](https://dor.sd.gov/media/vpzjojd2/cy2022countybycitypercentoftotal.pdf "Cy2022countybycitypercentoftotal")
+
+
+#####  State Taxable Sales by County 
+Shows state taxable sales within the Standard Industrial Classification (SIC), Major Group and Division.
+  * [January (PDF)](https://dor.sd.gov/media/mrpf1uv1/0122countybysic.pdf "0122Countybysic")
+  * [February (PDF)](https://dor.sd.gov/media/t3kd5r5m/0222countybysic.pdf "0222Countybysic")
+  * [March (PDF)](https://dor.sd.gov/media/iizdiuce/0322countybysic.pdf "0322Countybysic")
+  * [April (PDF)](https://dor.sd.gov/media/hrajawlp/0422countybysic.pdf "0422Countybysic")
+  * [May (PDF)](https://dor.sd.gov/media/gwaaaqzb/0522countybysic.pdf "0522Countybysic")
+  * [June (PDF)](https://dor.sd.gov/media/duflocfa/0622countybysic.pdf "0622Countybysic")
+  * [FY 2022 (PDF)](https://dor.sd.gov/media/jrmizsju/fy22countybysic.pdf "Fy22countybysic")
+  * [July (PDF)](https://dor.sd.gov/media/iaqe4q1d/0722countybysic.pdf "0722Countybysic")
+  * [August (PDF)](https://dor.sd.gov/media/0zzbztms/0822countybysic.pdf "0822Countybysic")
+  * [September (PDF)](https://dor.sd.gov/media/mz0l5qlh/0922countybysic.pdf "0922Countybysic")
+  * [October (PDF)](https://dor.sd.gov/media/bo1j05hi/1022countybysic.pdf "1022Countybysic")
+  * [November (PDF)](https://dor.sd.gov/media/ptyfdfxk/1122countybysic.pdf "1122Countybysic")
+  * [December (PDF)](https://dor.sd.gov/media/vapbyddb/1222countybysic.pdf "1222Countybysic")
+  * [CY 2022 (PDF)](https://dor.sd.gov/media/1wlomjbs/cy2022countybysic.pdf "Cy2022countybysic")
+
+
+#####  State Taxable Sales by SIC Code 
+Shows state taxable sales within the Standard Industrial Classification (SIC) Division, Major Group & Industry.
+  * [January (PDF)](https://dor.sd.gov/media/x5gkulul/0122statebydiv-mg-sic.pdf "0122Statebydiv MG SIC")
+  * [February (PDF)](https://dor.sd.gov/media/ngyn0d3t/0222statebydiv-mg-sic.pdf "0222Statebydiv MG SIC")
+  * [March (PDF)](https://dor.sd.gov/media/rbrjdbnd/0322statebydiv-mg-sic.pdf "0322Statebydiv MG SIC")
+  * [April (PDF)](https://dor.sd.gov/media/jzqho1ai/0422statebydiv-mg-sic.pdf "0422Statebydiv MG SIC")
+  * [May (PDF)](https://dor.sd.gov/media/evhn1jjp/0522statebydiv-mg-sic.pdf "0522Statebydiv MG SIC")
+  * [June (PDF)](https://dor.sd.gov/media/fsiinn1r/0622statebydiv-mg-sic.pdf "0622Statebydiv MG SIC")
+  * [FY 2022 (PDF)](https://dor.sd.gov/media/lsvlhsxr/fy22statebydiv-mg-sic.pdf "Fy22statebydiv MG SIC")
+  * [July (PDF)](https://dor.sd.gov/media/hyqb0q0c/0722statebydiv-mg-sic.pdf "0722Statebydiv MG SIC")
+  * [August (PDF)](https://dor.sd.gov/media/umbojgy3/0822statebydiv-mg-sic.pdf "0822Statebydiv MG SIC")
+  * [September (PDF)](https://dor.sd.gov/media/ihzgf4fn/0922statebydiv-mg-sic.pdf "0922Statebydiv MG SIC")
+  * [October (PDF)](https://dor.sd.gov/media/30acmpct/1022statebydiv-mg-sic.pdf "1022Statebydiv MG SIC")
+  * [November (PDF)](https://dor.sd.gov/media/xxkjwl0q/1122statebydiv-mg-sic.pdf "1122Statebydiv MG SIC")
+  * [December (PDF)](https://dor.sd.gov/media/qatdzipm/1222statebydiv-mg-sic.pdf "1222Statebydiv MG SIC")
+  * [CY 2022 (PDF)](https://dor.sd.gov/media/w2tekynz/cy2022statebydiv-mg-sic.pdf "Cy2022statebydiv MG SIC")
+
+
+#####  Tourism Tax Report 
+Show state tourism taxable sales grouped by industry within each county.
+  * [January (PDF)](https://dor.sd.gov/media/ab3mtjui/0122county-tourism.pdf "0122County Tourism")
+  * [February (PDF)](https://dor.sd.gov/media/finhujbd/0222county-tourism.pdf "0222County Tourism")
+  * [March (PDF)](https://dor.sd.gov/media/yj0nkriq/0322county-tourism.pdf "0322County Tourism")
+  * [April (PDF)](https://dor.sd.gov/media/1xpp5h12/0422county-tourism.pdf "0422County Tourism")
+  * [May (PDF)](https://dor.sd.gov/media/wuwmnmts/0522county-tourism.pdf "0522County Tourism")
+  * [June (PDF)](https://dor.sd.gov/media/dh5nf53t/0622county-tourism.pdf "0622County Tourism")
+  * [FY 2022 (PDF)](https://dor.sd.gov/media/br3hkai2/fy22county-tourism.pdf "Fy22county Tourism")
+  * [July (PDF)](https://dor.sd.gov/media/tmdivefw/0722county-tourism.pdf "0722County Tourism")
+  * [August (PDF)](https://dor.sd.gov/media/fqticsar/0822county-tourism.pdf "0822County Tourism")
+  * [September (PDF)](https://dor.sd.gov/media/0xualcs4/0922county-tourism.pdf "0922County Tourism")
+  * [October (PDF)](https://dor.sd.gov/media/aosjv5se/1022county-tourism.pdf "1022County Tourism")
+  * [November (PDF)](https://dor.sd.gov/media/wabf0ety/1122county-tourism.pdf "1122County Tourism")
+  * [December (PDF)](https://dor.sd.gov/media/41yokgrf/1222county-tourism.pdf "1222County Tourism")
+  * [CY 2022 (PDF)](https://dor.sd.gov/media/x4bgxd5h/cy2022county-tourism.pdf "Cy2022county Tourism")
+
+
+#####  State Taxable Sales Comparison 
+Shows comparison of state taxable sales reported this month to the same month in the previous year grouped by Standard Industrial Classification (SIC) Major Groups and Divisions.
+  * [January (PDF)](https://dor.sd.gov/media/ed0oapsg/0122statemjrgrpdiv.pdf "0122Statemjrgrpdiv")
+  * [February (PDF)](https://dor.sd.gov/media/a2khq2v4/0222statemjrgrpdiv.pdf "0222Statemjrgrpdiv")
+  * [March (PDF)](https://dor.sd.gov/media/vr1k450s/0322statemjrgrpdiv.pdf "0322Statemjrgrpdiv")
+  * [April (PDF)](https://dor.sd.gov/media/id2llzu0/0422statemjrgrpdiv.pdf "0422Statemjrgrpdiv")
+  * [May (PDF)](https://dor.sd.gov/media/ov5gmycs/0522statemjrgrpdiv.pdf "0522Statemjrgrpdiv")
+  * [June (PDF)](https://dor.sd.gov/media/14kjwo0o/0622statemjrgrpdiv.pdf "0622Statemjrgrpdiv")
+  * [July (PDF)](https://dor.sd.gov/media/kaopssia/0722statemjrgrpdiv.pdf "0722Statemjrgrpdiv")
+  * [FY 2022 (PDF)](https://dor.sd.gov/media/fcogpdck/fy22statemjrgrpdiv.pdf "Fy22statemjrgrpdiv")
+  * [August (PDF)](https://dor.sd.gov/media/nqnfuv2n/0822statemjrgrpdiv.pdf "0822Statemjrgrpdiv")
+  * [September (PDF)](https://dor.sd.gov/media/byfhi3l2/0922statemjrgrpdiv.pdf "0922Statemjrgrpdiv")
+  * [October (PDF)](https://dor.sd.gov/media/szdpnuom/1022statemjrgrpdiv.pdf "1022Statemjrgrpdiv")
+  * [November (PDF)](https://dor.sd.gov/media/52vlqoix/1122statemjrgrpdiv.pdf "1122Statemjrgrpdiv")
+  * [December (PDF)](https://dor.sd.gov/media/lloimpgn/1222statemjrgrpdiv.pdf "1222Statemjrgrpdiv")
+  * [CY 2022 (PDF)](https://dor.sd.gov/media/mgodxfdr/cy2022statemjrgrpdiv.pdf "Cy2022statemjrgrpdiv")
+
+
+#####  State Taxable Sales for All Cities 
+Shows state taxable sales within the Standard Industrial Classification (SIC) Division, Major Group & Industry for all cities. Sales are grouped with the city by zip code and do NOT indicate activity subject to the applicable city tax.
+  * [January (PDF)](https://dor.sd.gov/media/hzlp1u3o/0122allcitiesbysic.pdf "0122Allcitiesbysic")
+  * [February (PDF)](https://dor.sd.gov/media/rfwnvyhk/0222allcitiesbysic.pdf "0222Allcitiesbysic")
+  * [March (PDF)](https://dor.sd.gov/media/r3jffasl/0322allcitiesbysic.pdf "0322Allcitiesbysic")
+  * [April (PDF)](https://dor.sd.gov/media/bcllttj4/0422allcitiesbysic.pdf "0422Allcitiesbysic")
+  * [May (PDF)](https://dor.sd.gov/media/k2apves3/0522allcitiesbysic.pdf "0522Allcitiesbysic")
+  * [June (PDF)](https://dor.sd.gov/media/csopmz5z/0622allcitiesbysic.pdf "0622Allcitiesbysic")
+  * [FY 2022 (PDF)](https://dor.sd.gov/media/j01gmz53/fy22allcitiesbysic.pdf "Fy22allcitiesbysic")
+  * [July (PDF)](https://dor.sd.gov/media/kerjrorm/0722allcitiesbysic.pdf "0722Allcitiesbysic")
+  * [August (PDF)](https://dor.sd.gov/media/m4jozksv/0822allcitiesbysic.pdf "0822Allcitiesbysic")
+  * [September (PDF)](https://dor.sd.gov/media/4scjv1e0/0922allcitiesbysic.pdf "0922Allcitiesbysic")
+  * [October (PDF)](https://dor.sd.gov/media/pq5lbcfd/1022allcitiesbysic.pdf "1022Allcitiesbysic")
+  * [November (PDF)](https://dor.sd.gov/media/o3spw0n5/1122allcitiesbysic.pdf "1122Allcitiesbysic")
+  * [December (PDF)](https://dor.sd.gov/media/yzbh3wda/1222allcitiesbysic.pdf "1222Allcitiesbysic")
+  * [CY 2022 (PDF)](https://dor.sd.gov/media/aa2dtyeo/cy2022allcitiesbysic.pdf "Cy2022allcitiesbysic")
+
+
+#####  Retailer’s Association Comparison Request Report 
+Shows a comparison of municipal tax due for selected cities compared to the same period in the previous year.
+  * [January (PDF)](https://dor.sd.gov/media/omfpmvk1/0122cityretailers.pdf "0122Cityretailers")
+  * [February (PDF)](https://dor.sd.gov/media/nbkgyvyi/0222cityretailers.pdf "0222Cityretailers")
+  * [March (PDF)](https://dor.sd.gov/media/yvwbpt2y/0322cityretailers.pdf "0322Cityretailers")
+  * [April (PDF)](https://dor.sd.gov/media/mgedfhzh/0422municipaltaxbycitysinglepage.pdf "0422Municipaltaxbycitysinglepage")
+  * [May (PDF)](https://dor.sd.gov/media/rfkfdqwx/0522cityretailers.pdf "0522Cityretailers")
+  * [June (PDF)](https://dor.sd.gov/media/lkimtc2b/0622cityretailers.pdf "0622Cityretailers")
+  * [FY 2022 (PDF)](https://dor.sd.gov/media/0binur5m/fy22cityretailers.pdf "Fy22cityretailers")
+  * [July (PDF)](https://dor.sd.gov/media/4kob5jpk/0722cityretailers.pdf "0722Cityretailers")
+  * [August (PDF)](https://dor.sd.gov/media/j0jkettt/0822cityretailers.pdf "0822Cityretailers")
+  * [September (PDF)](https://dor.sd.gov/media/qvhdxpcs/0922cityretailers.pdf "0922Cityretailers")
+  * [October (PDF)](https://dor.sd.gov/media/jf1hsvaz/1022cityretailers.pdf "1022Cityretailers")
+  * [November (PDF)](https://dor.sd.gov/media/dczf2emn/1122cityretailers.pdf "1122Cityretailers")
+  * [December (PDF)](https://dor.sd.gov/media/hi1fh4tm/1222cityretailers.pdf "1222Cityretailers")
+  * [CYTD 2022 (PDF)](https://dor.sd.gov/media/aufhcwko/1222cityretailersytdcomparison.pdf "1222Cityretailersytdcomparison")
+  * [CY 2022 (PDF)](https://dor.sd.gov/media/ed2pyhb3/cy2022cityretailers.pdf "Cy2022cityretailers")
+
+
+#####  Remote Sellers Municipal Tax Due by City 
+Shows remote seller sales tax due for selected cities. Due to this being a new report, there is no comparison between the same period in the previous year.
+  * January [(XLSX)](https://dor.sd.gov/media/kifhri3o/01-22-remotesellertaxbycity.xlsx "01.22 Remotesellertaxbycity")
+  * February [(XLSX)](https://dor.sd.gov/media/1q1nmzdc/02-22-remotesellertaxbycity.xlsx "02.22 Remotesellertaxbycity")
+  * March [(XLSX)](https://dor.sd.gov/media/nwdnteh4/03-22-remotesellertaxbycity.xlsx "03.22 Remotesellertaxbycity")
+  * April [(XLSX)](https://dor.sd.gov/media/pe4pzxnr/04-22-remotesellertaxbycity.xlsx "04.22 Remotesellertaxbycity")
+  * May [(XLSX)](https://dor.sd.gov/media/ykhbwijp/05-22-remotesellertaxbycity.xlsx "05.22 Remotesellertaxbycity")
+  * June [(XLSX)](https://dor.sd.gov/media/qc2pu1ee/06-22-remotesellertaxbycity.xlsx "06.22 Remotesellertaxbycity")
+  * July [(XLSX)](https://dor.sd.gov/media/pu0n0vfd/07-22-remotesellertaxbycity.xlsx "07.22 Remotesellertaxbycity")
+  * August [(XLSX)](https://dor.sd.gov/media/iybnpnch/08-22-remotesellertaxbycity.xlsx "08.22 Remotesellertaxbycity")
+  * September [(XLSX)](https://dor.sd.gov/media/fjvpkrlo/09-22-remotesellertaxbycity.xlsx "09.22 Remotesellertaxbycity")
+  * October [(XLSX)](https://dor.sd.gov/media/bu2m2dm2/10-22-remotesellertaxbycity.xlsx "10.22 Remotesellertaxbycity")
+  * November [(XLSX)](https://dor.sd.gov/media/151lazml/11-22-remotesellertaxbycity.xlsx "11.22 Remotesellertaxbycity")
+  * December [(XLSX)](https://dor.sd.gov/media/kk0d2iyo/12-22-remotesellertaxbycity.xlsx "12.22 Remotesellertaxbycity")
+
+
+#####  Fireworks 
+[CY 2022 (PDF)](https://dor.sd.gov/media/33fl23td/2022-fireworks.pdf "2022 Fireworks")
+### Sales & Use Tax Online Forms
+[ **Change In Ownership Form 2039** ](https://sddor.seamlessdocs.com/f/2039 "Change In Ownership Form 2039")
+<https://sddor.seamlessdocs.com/f/2039>
+[ Complete Form Change In Ownership Form 2039 ](https://sddor.seamlessdocs.com/f/2039 "Change In Ownership Form 2039")
+[ **Change of Accounting Method Form 2023** ](https://sddor.seamlessdocs.com/w/2023 "Change of Accounting Method Form 2023")
+<https://sddor.seamlessdocs.com/w/2023>
+[ Complete Form Change of Accounting Method Form 2023 ](https://sddor.seamlessdocs.com/w/2023 "Change of Accounting Method Form 2023")
+[ **Interstate Telecommunications Exemption Application for Call Centers Form 2036** ](https://sddor.seamlessdocs.com/f/2036 "Interstate Telecommunications Exemption Application for Call Centers Form 2036")
+<https://sddor.seamlessdocs.com/f/2036>
+[ Complete Form Interstate Telecommunications Exemption Application for Call Centers Form 2036 ](https://sddor.seamlessdocs.com/f/2036 "Interstate Telecommunications Exemption Application for Call Centers Form 2036")
+[ **Power of Attorney Form 1285** ](https://sddor.seamlessdocs.com/f/1285 "Power of Attorney Form 1285")
+<https://sddor.seamlessdocs.com/f/1285>
+[ Complete Form Power of Attorney Form 1285 ](https://sddor.seamlessdocs.com/f/1285 "Power of Attorney Form 1285")
+[ **Sales Tax Exempt Status Application for Relief Agencies, Government Entities, and Educational Institutions** ](https://sddor.seamlessdocs.com/f/2027 "Sales Tax Exempt Status Application for Relief Agencies, Government Entities, and Educational Institutions")
+<https://sddor.seamlessdocs.com/f/2027>
+[ Complete Form Sales Tax Exempt Status Application for Relief Agencies, Government Entities, and Educational Institutions ](https://sddor.seamlessdocs.com/f/2027 "Sales Tax Exempt Status Application for Relief Agencies, Government Entities, and Educational Institutions")
+[ **Sales Tax Return Worksheet and Instructions Form 2034** ](https://sddor.seamlessdocs.com/f/2034 "Sales Tax Return Worksheet and Instructions Form 2034")
+<https://sddor.seamlessdocs.com/f/2034>
+[ Complete Form Sales Tax Return Worksheet and Instructions Form 2034 ](https://sddor.seamlessdocs.com/f/2034 "Sales Tax Return Worksheet and Instructions Form 2034")
+[ **Sales and Use Tax Return Form 2032** ](https://sddor.seamlessdocs.com/f/2032 "Sales and Use Tax Return Form 2032")
+<https://sddor.seamlessdocs.com/f/2032>
+[ Complete Form Sales and Use Tax Return Form 2032 ](https://sddor.seamlessdocs.com/f/2032 "Sales and Use Tax Return Form 2032")
+[See all Sales & Use Tax Online Forms](https://sddor.seamlessdocs.com/sc/business-forms "See all Sales & Use Tax Online Forms")
+#### [Filing and Paying Taxes Online Help](https://dor.sd.gov/businesses/taxes/sales-use-tax/filing-and-paying-taxes-online-help/)
+Find helpful information regarding how to file and pay your taxes online in South Dakota.
+[Learn More About Filing and Paying Taxes Online Help ›](https://dor.sd.gov/businesses/taxes/sales-use-tax/filing-and-paying-taxes-online-help/)
+#### [Sales of Products or Service within Indian Country](https://dor.sd.gov/businesses/taxes/sales-use-tax/sales-of-products-or-service-within-indian-country/)
+Find sales and use tax laws related to sales of products or services within Indian country.
+[Learn More About Sales of Products or Service within Indian Country ›](https://dor.sd.gov/businesses/taxes/sales-use-tax/sales-of-products-or-service-within-indian-country/)
+#### [Historical Tax Statistical Reports](https://dor.sd.gov/businesses/taxes/sales-use-tax/historical-tax-statistical-reports/)
+View Historical Sales Tax Statistical Reports.
+[Learn More About Historical Tax Statistical Reports ›](https://dor.sd.gov/businesses/taxes/sales-use-tax/historical-tax-statistical-reports/)
+#### [2023 Legislative Updates](https://dor.sd.gov/businesses/taxes/sales-use-tax/2023-legislative-updates/)
+Find helpful information regarding changes that occurred during the 2023 South Dakota legislative session that affected business taxes.
+[Learn More About 2023 Legislative Updates ›](https://dor.sd.gov/businesses/taxes/sales-use-tax/2023-legislative-updates/)
+## Sales & Use Tax Laws & Regulations
+Learn more about laws and rules governing South Dakota sales and use tax.
+[Learn More](https://dor.sd.gov/businesses/taxes/sales-use-tax/sales-use-tax-laws-regulations/)
+## Sales & Use Tax for Individuals
+Laws, regulations, and information for individuals regarding taxation on sales and use tax in South Dakota.
+[Go to Individuals Section](https://dor.sd.gov/individuals/taxes/sales-use-tax/)
+## Email Sign Up
+Get the latest Department of Revenue [news and updates](https://dor.sd.gov/businesses/taxes/sales-use-tax/#SignUp) sent straight to your inbox.
+First Name
+Last Name
+Email
+By submitting this form, you agree to receive marketing and other information from DOR which will be collected as outlined in our [privacy policy](https://sd.gov/privacy.aspx "privacy policy"). 
+Quarterly Updates Education, Workshops & Webinars Deadlines & Due Dates
+![Department of Revenue logo](https://dor.sd.gov/images/logo-dor.svg?v=r0XjIEsmZhcMbN-uaSruyzk1sCAU30oDIiiKNmdn5Os)
+[445 E Capitol Avenue, Pierre, SD 57501](https://www.google.com/maps/place/South+Dakota+Department+of+Revenue/@44.3658843,-100.416591,12z/data=!4m8!1m2!2m1!1ssouth+dakota+department+of+revenue!3m4!1s0x8780121e8c60313f:0xd9c4c2f4b705024!8m2!3d44.3658843!4d-100.3465532)
+  * [Careers](https://sd.gov/employment.aspx "Careers")
+  * [Contact](https://dor.sd.gov/contact/ "Contact")
+  * [Report Tax Fraud](https://sddor.seamlessdocs.com/f/2038 "Report Tax Fraud")
+  * [DOR Intranet](https://intranetdor.sd.gov/ "DOR Intranet")
+  * [SD.GOV](http://sd.gov/ "SD.GOV")
+  * [SD News](https://www.sd.gov/news "SD News")
+  * [Privacy Policy](http://sd.gov/privacy.aspx "Privacy Policy")
+  * [Request Public Records](https://www.sd.gov/cs?id=sc_cat_item&sys_id=f7f939eddbd4b150b2fb93d4f39619c0 "Request Public Records")
+
+
+[ ![Facebook](https://dor.sd.gov/images/icons/social/facebook.svg?v=X5TgU87k6EWyozGSxytGFidemfRWKto4aWMki40oqKM) ](https://www.facebook.com/SDRevenue "Facebook")
+[ ![YouTube](https://dor.sd.gov/images/icons/social/youtube.svg?v=wtnXNyFUMpzZmsyp497JiKPfcN5bh4VRX-JvJZ5NWlA) ](http://www.youtube.com/user/SouthDakotaDOR "YouTube")
+[ ![Twitter](https://dor.sd.gov/images/icons/social/twitter.svg?v=6d4YrOHi9r_1XXewfEYxt6nOTAX9Adz6aaCpV6K-fPo) ](https://www.twitter.com/SDRevenue "Twitter")
+© Copyright 2025 - State of South Dakota
+

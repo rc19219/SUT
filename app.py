@@ -126,18 +126,35 @@ class EnhancedFinancialDataExtractor:
         return f"{safe_chars}.txt"
 
     async def download_and_process_pdf(self, url: str) -> Dict:
-        """Download and extract text from PDF documents with improved error handling"""
+        """Download and extract text from PDF documents with OCR support"""
+        
+        # Fix URL issues (double slashes, etc.)
+        if '//' in url and not url.startswith('http://') and not url.startswith('https://'):
+            # Protocol-relative URL
+            url = f'https:{url}'
+        elif self.domain in url and '//img1.wsimg.com' in url:
+            # Fix malformed URLs like cityofhodgenvilleky.com//img1.wsimg.com
+            url = url.replace(f'{self.domain}//', '').replace(f'{self.domain}/', '')
+            if not url.startswith('http'):
+                url = f'https://{url}'
+    
         print(f"📄 Processing PDF: {url}")
         
         try:
             # Enhanced request with better headers and longer timeout
             headers = {
-                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
-                'Accept': 'application/pdf,application/octet-stream,*/*',
+                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+                'Accept': 'application/pdf,application/octet-stream,application/x-pdf,*/*',
                 'Accept-Language': 'en-US,en;q=0.9',
-                'Accept-Encoding': 'gzip, deflate',
+                'Accept-Encoding': 'gzip, deflate, br',
                 'Connection': 'keep-alive',
+                'Cache-Control': 'no-cache',
+                'Pragma': 'no-cache',
             }
+            
+            # Add referer if available
+            if self.domain in url:
+                headers['Referer'] = f'https://{self.domain}/'
             
             # Use session for better connection handling
             session = requests.Session()
@@ -145,16 +162,16 @@ class EnhancedFinancialDataExtractor:
             
             # Multiple retry attempts with exponential backoff
             max_retries = 3
+            content = None
+            
             for attempt in range(max_retries):
                 try:
                     print(f"   🔄 Attempt {attempt + 1}/{max_retries}")
-                    response = session.get(url, timeout=60, stream=True)
+                    response = session.get(url, timeout=60, stream=True, allow_redirects=True)
                     response.raise_for_status()
                     
-                    # Check if it's actually a PDF
+                    # Check content type
                     content_type = response.headers.get('content-type', '').lower()
-                    if 'pdf' not in content_type and not url.lower().endswith('.pdf'):
-                        return {"url": url, "status": "FAILED", "error": "Not a valid PDF document", "type": "PDF"}
                     
                     # Download with progress tracking
                     content = b""
@@ -172,97 +189,240 @@ class EnhancedFinancialDataExtractor:
                     print(f"   ✅ PDF downloaded: {len(content)} bytes")
                     break
                     
-                except requests.exceptions.Timeout:
-                    print(f"   ⏰ Timeout on attempt {attempt + 1}")
+                except (requests.exceptions.Timeout, requests.exceptions.ConnectionError) as e:
+                    print(f"   ⚠️ Error on attempt {attempt + 1}: {str(e)[:50]}")
                     if attempt == max_retries - 1:
-                        return {"url": url, "status": "FAILED", "error": "Timeout after multiple attempts", "type": "PDF"}
-                    await asyncio.sleep(2 ** attempt)  # Exponential backoff
+                        return {"url": url, "status": "FAILED", "error": f"Download failed: {str(e)[:100]}", "type": "PDF"}
+                    await asyncio.sleep(2 ** attempt)
                     continue
-                    
-                except requests.exceptions.ConnectionError as e:
-                    print(f"   🔌 Connection error on attempt {attempt + 1}: {str(e)[:50]}")
-                    if attempt == max_retries - 1:
-                        return {"url": url, "status": "FAILED", "error": f"Connection failed: {str(e)[:100]}", "type": "PDF"}
-                    await asyncio.sleep(2 ** attempt)  # Exponential backoff
+        
+        except Exception as e:
+            return {"url": url, "status": "FAILED", "error": str(e)[:200], "type": "PDF"}
+        
+        # Save the raw PDF for OCR processing
+        pdf_filename = Path(urlparse(url).path).name
+        if not pdf_filename.endswith('.pdf'):
+            pdf_filename += '.pdf'
+        
+        temp_pdf_path = os.path.join(self.docs_folder, f"temp_{pdf_filename}")
+        with open(temp_pdf_path, 'wb') as f:
+            f.write(content)
+        
+        # Try multiple PDF extraction methods
+        pdf_text = ""
+        extraction_method = "Unknown"
+        
+        # Method 1: Try PyPDF2 first
+        try:
+            import PyPDF2
+            pdf_file = io.BytesIO(content)
+            pdf_reader = PyPDF2.PdfReader(pdf_file)
+            
+            print(f"   📖 PDF has {len(pdf_reader.pages)} pages")
+            
+            for page_num in range(len(pdf_reader.pages)):
+                try:
+                    page = pdf_reader.pages[page_num]
+                    page_text = page.extract_text()
+                    if page_text and page_text.strip():
+                        pdf_text += f"\n--- PAGE {page_num + 1} ---\n{page_text}\n"
+                except Exception as page_error:
+                    print(f"   ⚠️ Error reading page {page_num + 1}: {str(page_error)[:50]}")
                     continue
-                    
-            # Extract text from PDF
-            pdf_text = ""
+            
+            if pdf_text.strip() and len(pdf_text.strip()) > 100:  # At least 100 chars
+                extraction_method = "PyPDF2"
+                print(f"   ✅ Successfully extracted {len(pdf_text)} characters using PyPDF2")
+        
+        except Exception as pypdf_error:
+            print(f"   ⚠️ PyPDF2 extraction failed: {str(pypdf_error)[:50]}")
+        
+        # Method 2: If PyPDF2 fails or extracts too little, try pdfplumber
+        if not pdf_text.strip() or len(pdf_text.strip()) < 100:
             try:
+                import pdfplumber
                 pdf_file = io.BytesIO(content)
-                pdf_reader = PyPDF2.PdfReader(pdf_file)
                 
-                print(f"   📖 PDF has {len(pdf_reader.pages)} pages")
+                with pdfplumber.open(pdf_file) as pdf:
+                    print(f"   📖 Trying pdfplumber on {len(pdf.pages)} pages")
+                    pdf_text = ""  # Reset text
+                    
+                    for page_num, page in enumerate(pdf.pages):
+                        try:
+                            page_text = page.extract_text()
+                            if page_text and page_text.strip():
+                                pdf_text += f"\n--- PAGE {page_num + 1} ---\n{page_text}\n"
+                                
+                            # Also try to extract tables
+                            tables = page.extract_tables()
+                            if tables:
+                                pdf_text += f"\n--- TABLES ON PAGE {page_num + 1} ---\n"
+                                for table in tables:
+                                    for row in table:
+                                        pdf_text += " | ".join(str(cell) if cell else "" for cell in row) + "\n"
+                                        
+                        except Exception as page_error:
+                            print(f"   ⚠️ pdfplumber error on page {page_num + 1}: {str(page_error)[:50]}")
+                            continue
                 
-                for page_num in range(len(pdf_reader.pages)):
+                if pdf_text.strip() and len(pdf_text.strip()) > 100:
+                    extraction_method = "pdfplumber"
+                    print(f"   ✅ Successfully extracted {len(pdf_text)} characters using pdfplumber")
+                    
+            except ImportError:
+                print("   ℹ️ pdfplumber not installed. Install with: pip install pdfplumber")
+            except Exception as plumber_error:
+                print(f"   ⚠️ pdfplumber extraction failed: {str(plumber_error)[:50]}")
+        
+        # Method 3: If text extraction fails or is insufficient, try OCR
+        if not pdf_text.strip() or len(pdf_text.strip()) < 100:
+            print("   🔍 Text extraction insufficient, attempting OCR...")
+            
+            try:
+                import pytesseract
+                from pdf2image import convert_from_path
+                from PIL import Image
+                
+                # Configure Tesseract path if on Windows
+                if os.name == 'nt':  # Windows
+                    # Common Tesseract installation paths on Windows
+                    tesseract_paths = [
+                        r'C:\Program Files\Tesseract-OCR\tesseract.exe',
+                        r'C:\Program Files (x86)\Tesseract-OCR\tesseract.exe',
+                        r'C:\Users\AppData\Local\Programs\Tesseract-OCR\tesseract.exe',
+                    ]
+                    for path in tesseract_paths:
+                        if os.path.exists(path):
+                            pytesseract.pytesseract.tesseract_cmd = path
+                            break
+                
+                # Convert PDF to images
+                print("   📸 Converting PDF to images for OCR...")
+                try:
+                    # Try with poppler
+                    images = convert_from_path(temp_pdf_path, dpi=300)
+                except Exception as poppler_error:
+                    print(f"   ⚠️ Poppler not found, trying alternative method: {str(poppler_error)[:50]}")
+                    # Try with pdf2image's fallback
+                    images = convert_from_path(temp_pdf_path, dpi=200, fmt='png')
+                
+                print(f"   📸 Converted {len(images)} pages to images")
+                
+                pdf_text = ""  # Reset text
+                for page_num, image in enumerate(images, 1):
+                    print(f"   🔍 Running OCR on page {page_num}/{len(images)}...")
+                    
+                    # Preprocess image for better OCR
+                    # Convert to grayscale
+                    image = image.convert('L')
+                    
+                    # Optional: Enhance image quality
+                    from PIL import ImageEnhance
+                    enhancer = ImageEnhance.Contrast(image)
+                    image = enhancer.enhance(1.5)
+                    
+                    # Run OCR with different configurations
                     try:
-                        page = pdf_reader.pages[page_num]
-                        page_text = page.extract_text()
-                        if page_text:
-                            pdf_text += f"\n--- PAGE {page_num + 1} ---\n{page_text}\n"
-                    except Exception as page_error:
-                        print(f"   ⚠️  Error reading page {page_num + 1}: {str(page_error)[:50]}")
+                        # Try with default config first
+                        page_text = pytesseract.image_to_string(image, lang='eng')
+                        
+                        if not page_text.strip() or len(page_text.strip()) < 50:
+                            # Try with different OCR engine mode
+                            custom_config = r'--oem 3 --psm 6'
+                            page_text = pytesseract.image_to_string(image, config=custom_config, lang='eng')
+                        
+                        if page_text and page_text.strip():
+                            pdf_text += f"\n--- PAGE {page_num} (OCR) ---\n{page_text}\n"
+                            
+                    except Exception as ocr_error:
+                        print(f"   ⚠️ OCR error on page {page_num}: {str(ocr_error)[:50]}")
                         continue
                 
                 if pdf_text.strip():
-                    print(f"   ✅ Successfully extracted {len(pdf_text)} characters from PDF")
-                    return {
-                        "url": url,
-                        "title": f"PDF Document - {Path(urlparse(url).path).name}",
-                        "content": pdf_text,
-                        "links": [],
-                        "status": "SUCCESS",
-                        "type": "PDF"
-                    }
-                else:
-                    # Even if no text, save metadata about the PDF
-                    metadata_content = f"""PDF Document Information:
+                    extraction_method = "OCR (Tesseract)"
+                    print(f"   ✅ Successfully extracted {len(pdf_text)} characters using OCR")
+                    
+            except ImportError as import_error:
+                print(f"   ℹ️ OCR libraries not installed: {import_error}")
+                print("   📦 Install with: pip install pytesseract pdf2image pillow")
+                print("   📦 Also install Tesseract OCR: https://github.com/tesseract-ocr/tesseract")
+                if os.name == 'nt':
+                    print("   📦 Windows: Download from https://github.com/UB-Mannheim/tesseract/wiki")
+                print("   📦 Also install poppler: https://github.com/oschwartz10612/poppler-windows/releases/")
+                
+            except Exception as ocr_error:
+                print(f"   ⚠️ OCR failed: {str(ocr_error)[:100]}")
+        
+        # Clean up temp file
+        try:
+            os.remove(temp_pdf_path)
+        except:
+            pass
+        
+        # Prepare result based on extraction success
+        if pdf_text.strip():
+            # Post-process OCR text if needed
+            if "OCR" in extraction_method:
+                # Clean up common OCR artifacts
+                pdf_text = pdf_text.replace('\n\n\n', '\n\n')  # Remove excessive newlines
+                pdf_text = re.sub(r'([a-z])- \n([a-z])', r'\1\2', pdf_text)  # Fix hyphenated words
+                pdf_text = re.sub(r'\n([a-z])', r' \1', pdf_text)  # Fix broken sentences
+            
+            # Successfully extracted text
+            return {
+                "url": url,
+                "title": f"PDF Document - {Path(urlparse(url).path).name}",
+                "content": f"[Extracted using {extraction_method}]\n\n{pdf_text}",
+                "links": [],
+                "status": "SUCCESS",
+                "type": "PDF"
+            }
+        else:
+            # Could not extract text even with OCR
+            metadata_content = f"""PDF Document Information:
 URL: {url}
 File Size: {len(content)} bytes
-Pages: {len(pdf_reader.pages) if 'pdf_reader' in locals() else 'Unknown'}
 Content Type: {content_type}
 Download Date: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}
 
-Note: This PDF exists but no text could be extracted. It may contain images, scanned text, or be password protected.
-This could still be a valuable financial document that should be reviewed manually.
+EXTRACTION FAILED - Manual review required
+================================================================================
+
+The PDF was successfully downloaded but all text extraction methods failed, including OCR.
+
+Possible reasons:
+1. The PDF contains complex graphics or non-standard encoding
+2. The PDF is corrupted or uses proprietary formatting
+3. OCR libraries are not properly installed or configured
+4. The document contains handwritten text or unusual fonts
+
+To manually review, the raw PDF has been saved.
+
+Raw PDF Header (first 500 bytes):
+{content[:500].decode('utf-8', errors='ignore')}
 """
-                    return {
-                        "url": url,
-                        "title": f"PDF Document (No Text) - {Path(urlparse(url).path).name}",
-                        "content": metadata_content,
-                        "links": [],
-                        "status": "SUCCESS",
-                        "type": "PDF"
-                    }
+            
+            # Save the actual PDF file for manual review
+            try:
+                pdf_save_path = os.path.join(self.docs_folder, f"manual_review_{pdf_filename}")
+                with open(pdf_save_path, 'wb') as f:
+                    f.write(content)
                     
-            except Exception as pdf_error:
-                # Save what we can even if PDF processing fails
-                error_content = f"""PDF Processing Error:
-URL: {url}
-File Size: {len(content)} bytes
-Error: {str(pdf_error)}
-Download Date: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}
-
-Note: PDF was downloaded but could not be processed. This might be:
-- A corrupted PDF file
-- A password-protected PDF
-- A PDF with complex formatting
-- A scanned document without OCR text
-
-Manual review may be required for this financial document.
-"""
-                return {
-                    "url": url,
-                    "title": f"PDF Document (Processing Error) - {Path(urlparse(url).path).name}",
-                    "content": error_content,
-                    "links": [],
-                    "status": "SUCCESS",  # Still consider it success since we tried
-                    "type": "PDF"
-                }
+                metadata_content += f"\n\nRaw PDF saved for manual review at: {pdf_save_path}"
+                print(f"   💾 Saved raw PDF for manual review: {pdf_save_path}")
                 
-        except Exception as e:
-            return {"url": url, "status": "FAILED", "error": str(e)[:200], "type": "PDF"}
-
+            except Exception as save_error:
+                print(f"   ⚠️ Could not save raw PDF: {str(save_error)[:50]}")
+            
+            return {
+                "url": url,
+                "title": f"PDF Document (Manual Review Required) - {Path(urlparse(url).path).name}",
+                "content": metadata_content,
+                "links": [],
+                "status": "SUCCESS",
+                "type": "PDF"
+            }
+            
     async def download_and_process_document(self, url: str) -> Dict:
         """Download and process various document types"""
         print(f"📋 Processing Document: {url}")
@@ -469,12 +629,14 @@ CONTENT:
                 continue
                 
             # Convert to absolute URL
-            if link.startswith('/'):
+            if link.startswith('//'):
+                # Protocol-relative URL (e.g., //img1.wsimg.com/...)
+                full_url = f"https:{link}"
+            elif link.startswith('/'):
+                # Root-relative URL
                 full_url = f"https://{self.domain}{link}"
             elif link.startswith('http'):
-                # Only keep links from the same domain
-                if self.domain not in link:
-                    continue
+                # Already absolute URL
                 full_url = link
             elif link.startswith('#') or link.startswith('mailto:') or link.startswith('tel:'):
                 continue  # Skip anchor links and non-web links
@@ -482,8 +644,16 @@ CONTENT:
                 # Relative links without leading slash
                 full_url = f"https://{self.domain}/{link.lstrip('/')}"
             
+            # For external domains that should be allowed (like img1.wsimg.com)
+            # Only skip if it's truly external and not a subdomain/CDN
+            if link.startswith('http') and self.domain not in link:
+                # Check if it's a known CDN or subdomain pattern
+                allowed_external_domains = ['wsimg.com', 'cloudfront.net', 'amazonaws.com']
+                if not any(domain in link for domain in allowed_external_domains):
+                    continue
+            
             # Clean URL (remove anchors and query params for comparison)
-            clean_url = full_url.split('#')[0].split('?')[0]
+            clean_url = full_url.split('#')[0]
             
             # Skip if already visited or is generic page
             if clean_url in self.visited_urls or self.is_generic_page(clean_url):
@@ -646,7 +816,7 @@ CONTENT:
 
 def main():
     # Configuration - Start from homepage to get more links
-    start_url = "https://dor.sd.gov/newsroom/"
+    start_url = "https://cityofhodgenvilleky.com/"
     
     # Create output folder with current date
     current_date = datetime.now().strftime("%Y%m%d")

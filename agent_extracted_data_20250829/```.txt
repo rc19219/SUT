@@ -1,0 +1,17 @@
+URL: https://cityofhodgenvilleky.com/
+```
+TITLE: 404 Not Found
+TYPE: WEBPAGE
+SCRAPED: 2025-08-29 14:15:34
+FINANCIAL PATTERNS FOUND: 2
+------------------------------------------------------------
+DETECTED PATTERNS:
+60%, 60%
+
+------------------------------------------------------------
+CONTENT:
+
+![](https://cityofhodgenvilleky.com/%60%60%60)
+# File not found (404 error)
+If you think what you're looking for should be here, please contact the site owner.
+
